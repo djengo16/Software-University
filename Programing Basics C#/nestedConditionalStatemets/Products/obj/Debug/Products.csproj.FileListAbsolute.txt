@@ -1,0 +1,7 @@
+D:\C_sharp\Products\obj\Debug\Products.csproj.CoreCompileInputs.cache
+D:\C_sharp\Products\bin\Debug\Products.exe.config
+D:\C_sharp\Products\bin\Debug\Products.exe
+D:\C_sharp\Products\bin\Debug\Products.pdb
+D:\C_sharp\Products\obj\Debug\Products.exe
+D:\C_sharp\Products\obj\Debug\Products.pdb
+D:\C_sharp\Products\obj\Debug\Products.csprojAssemblyReference.cache

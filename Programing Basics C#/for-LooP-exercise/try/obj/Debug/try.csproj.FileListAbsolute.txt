@@ -1,0 +1,7 @@
+D:\C_sharp\for-LooP-exercise\try\bin\Debug\@try.exe.config
+D:\C_sharp\for-LooP-exercise\try\bin\Debug\@try.exe
+D:\C_sharp\for-LooP-exercise\try\bin\Debug\@try.pdb
+D:\C_sharp\for-LooP-exercise\try\obj\Debug\try.csproj.CoreCompileInputs.cache
+D:\C_sharp\for-LooP-exercise\try\obj\Debug\@try.exe
+D:\C_sharp\for-LooP-exercise\try\obj\Debug\@try.pdb
+D:\C_sharp\for-LooP-exercise\try\obj\Debug\try.csprojAssemblyReference.cache

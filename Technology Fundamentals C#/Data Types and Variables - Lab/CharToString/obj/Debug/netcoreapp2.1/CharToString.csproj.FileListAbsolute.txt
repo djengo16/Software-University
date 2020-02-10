@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\CharToString\bin\Debug\netcoreapp2.1\CharToString.deps.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\CharToString\bin\Debug\netcoreapp2.1\CharToString.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\CharToString\bin\Debug\netcoreapp2.1\CharToString.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\CharToString\bin\Debug\netcoreapp2.1\CharToString.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\CharToString\bin\Debug\netcoreapp2.1\CharToString.pdb
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\CharToString\obj\Debug\netcoreapp2.1\CharToString.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\CharToString\obj\Debug\netcoreapp2.1\CharToString.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\CharToString\obj\Debug\netcoreapp2.1\CharToString.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\CharToString\obj\Debug\netcoreapp2.1\CharToString.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\CharToString\obj\Debug\netcoreapp2.1\CharToString.pdb
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\CharToString\obj\Debug\netcoreapp2.1\CharToString.csprojAssemblyReference.cache

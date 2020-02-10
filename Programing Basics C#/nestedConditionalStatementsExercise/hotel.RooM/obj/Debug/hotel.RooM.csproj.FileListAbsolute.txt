@@ -1,0 +1,7 @@
+D:\C_sharp\hotel.RooM\bin\Debug\hotel.RooM.exe.config
+D:\C_sharp\hotel.RooM\bin\Debug\hotel.RooM.exe
+D:\C_sharp\hotel.RooM\bin\Debug\hotel.RooM.pdb
+D:\C_sharp\hotel.RooM\obj\Debug\hotel.RooM.csprojAssemblyReference.cache
+D:\C_sharp\hotel.RooM\obj\Debug\hotel.RooM.csproj.CoreCompileInputs.cache
+D:\C_sharp\hotel.RooM\obj\Debug\hotel.RooM.exe
+D:\C_sharp\hotel.RooM\obj\Debug\hotel.RooM.pdb

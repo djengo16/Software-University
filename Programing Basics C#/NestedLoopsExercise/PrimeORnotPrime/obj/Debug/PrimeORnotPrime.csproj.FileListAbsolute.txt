@@ -1,0 +1,7 @@
+D:\C_sharp\NestedLoopsExercise\PrimeORnotPrime\bin\Debug\PrimeORnotPrime.exe.config
+D:\C_sharp\NestedLoopsExercise\PrimeORnotPrime\bin\Debug\PrimeORnotPrime.exe
+D:\C_sharp\NestedLoopsExercise\PrimeORnotPrime\bin\Debug\PrimeORnotPrime.pdb
+D:\C_sharp\NestedLoopsExercise\PrimeORnotPrime\obj\Debug\PrimeORnotPrime.csprojAssemblyReference.cache
+D:\C_sharp\NestedLoopsExercise\PrimeORnotPrime\obj\Debug\PrimeORnotPrime.csproj.CoreCompileInputs.cache
+D:\C_sharp\NestedLoopsExercise\PrimeORnotPrime\obj\Debug\PrimeORnotPrime.exe
+D:\C_sharp\NestedLoopsExercise\PrimeORnotPrime\obj\Debug\PrimeORnotPrime.pdb

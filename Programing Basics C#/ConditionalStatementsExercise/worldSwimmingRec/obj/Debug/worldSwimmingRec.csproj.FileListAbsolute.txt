@@ -1,0 +1,7 @@
+D:\C_sharp\worldSwimmingRec\bin\Debug\worldSwimmingRec.exe.config
+D:\C_sharp\worldSwimmingRec\bin\Debug\worldSwimmingRec.exe
+D:\C_sharp\worldSwimmingRec\bin\Debug\worldSwimmingRec.pdb
+D:\C_sharp\worldSwimmingRec\obj\Debug\worldSwimmingRec.csprojAssemblyReference.cache
+D:\C_sharp\worldSwimmingRec\obj\Debug\worldSwimmingRec.csproj.CoreCompileInputs.cache
+D:\C_sharp\worldSwimmingRec\obj\Debug\worldSwimmingRec.exe
+D:\C_sharp\worldSwimmingRec\obj\Debug\worldSwimmingRec.pdb

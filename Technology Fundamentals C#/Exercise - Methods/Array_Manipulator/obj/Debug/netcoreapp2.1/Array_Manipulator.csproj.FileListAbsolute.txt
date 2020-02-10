@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Array_Manipulator\bin\Debug\netcoreapp2.1\Array_Manipulator.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Array_Manipulator\bin\Debug\netcoreapp2.1\Array_Manipulator.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Array_Manipulator\bin\Debug\netcoreapp2.1\Array_Manipulator.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Array_Manipulator\bin\Debug\netcoreapp2.1\Array_Manipulator.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Array_Manipulator\bin\Debug\netcoreapp2.1\Array_Manipulator.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Array_Manipulator\obj\Debug\netcoreapp2.1\Array_Manipulator.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Array_Manipulator\obj\Debug\netcoreapp2.1\Array_Manipulator.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Array_Manipulator\obj\Debug\netcoreapp2.1\Array_Manipulator.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Array_Manipulator\obj\Debug\netcoreapp2.1\Array_Manipulator.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Array_Manipulator\obj\Debug\netcoreapp2.1\Array_Manipulator.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Array_Manipulator\obj\Debug\netcoreapp2.1\Array_Manipulator.pdb

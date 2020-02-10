@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Message Encrypter\obj\Debug\netcoreapp2.1\Message Encrypter.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Message Encrypter\obj\Debug\netcoreapp2.1\Message Encrypter.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Message Encrypter\obj\Debug\netcoreapp2.1\Message Encrypter.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Message Encrypter\obj\Debug\netcoreapp2.1\Message Encrypter.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Message Encrypter\bin\Debug\netcoreapp2.1\Message Encrypter.deps.json
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Message Encrypter\bin\Debug\netcoreapp2.1\Message Encrypter.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Message Encrypter\bin\Debug\netcoreapp2.1\Message Encrypter.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Message Encrypter\bin\Debug\netcoreapp2.1\Message Encrypter.dll
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Message Encrypter\bin\Debug\netcoreapp2.1\Message Encrypter.pdb
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Message Encrypter\obj\Debug\netcoreapp2.1\Message Encrypter.dll
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Message Encrypter\obj\Debug\netcoreapp2.1\Message Encrypter.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\exam prep\On the Way to Annapura\bin\Debug\netcoreapp2.1\On the Way to Annapura.deps.json
+D:\Softuni\Technology Fundamentals C#\exam prep\On the Way to Annapura\bin\Debug\netcoreapp2.1\On the Way to Annapura.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\exam prep\On the Way to Annapura\bin\Debug\netcoreapp2.1\On the Way to Annapura.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\exam prep\On the Way to Annapura\bin\Debug\netcoreapp2.1\On the Way to Annapura.dll
+D:\Softuni\Technology Fundamentals C#\exam prep\On the Way to Annapura\bin\Debug\netcoreapp2.1\On the Way to Annapura.pdb
+D:\Softuni\Technology Fundamentals C#\exam prep\On the Way to Annapura\obj\Debug\netcoreapp2.1\On the Way to Annapura.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\exam prep\On the Way to Annapura\obj\Debug\netcoreapp2.1\On the Way to Annapura.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\exam prep\On the Way to Annapura\obj\Debug\netcoreapp2.1\On the Way to Annapura.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\exam prep\On the Way to Annapura\obj\Debug\netcoreapp2.1\On the Way to Annapura.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\exam prep\On the Way to Annapura\obj\Debug\netcoreapp2.1\On the Way to Annapura.dll
+D:\Softuni\Technology Fundamentals C#\exam prep\On the Way to Annapura\obj\Debug\netcoreapp2.1\On the Way to Annapura.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Anonymous Treatment\obj\Debug\netcoreapp2.1\Anonymous Treatment.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Anonymous Treatment\obj\Debug\netcoreapp2.1\Anonymous Treatment.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Anonymous Treatment\obj\Debug\netcoreapp2.1\Anonymous Treatment.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Anonymous Treatment\obj\Debug\netcoreapp2.1\Anonymous Treatment.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Anonymous Treatment\bin\Debug\netcoreapp2.1\Anonymous Treatment.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Anonymous Treatment\bin\Debug\netcoreapp2.1\Anonymous Treatment.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Anonymous Treatment\bin\Debug\netcoreapp2.1\Anonymous Treatment.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Anonymous Treatment\bin\Debug\netcoreapp2.1\Anonymous Treatment.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Anonymous Treatment\bin\Debug\netcoreapp2.1\Anonymous Treatment.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Anonymous Treatment\obj\Debug\netcoreapp2.1\Anonymous Treatment.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Anonymous Treatment\obj\Debug\netcoreapp2.1\Anonymous Treatment.pdb

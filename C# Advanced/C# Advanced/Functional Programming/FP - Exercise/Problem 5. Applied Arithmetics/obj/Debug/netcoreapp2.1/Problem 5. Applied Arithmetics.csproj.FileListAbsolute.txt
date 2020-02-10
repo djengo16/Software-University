@@ -1,0 +1,10 @@
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.dll
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.pdb
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.dll
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.pdb

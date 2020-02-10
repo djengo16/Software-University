@@ -1,0 +1,7 @@
+D:\C_sharp\NestedLoopLab\Nto1\bin\Debug\Nto1.exe.config
+D:\C_sharp\NestedLoopLab\Nto1\bin\Debug\Nto1.exe
+D:\C_sharp\NestedLoopLab\Nto1\bin\Debug\Nto1.pdb
+D:\C_sharp\NestedLoopLab\Nto1\obj\Debug\Nto1.csprojAssemblyReference.cache
+D:\C_sharp\NestedLoopLab\Nto1\obj\Debug\Nto1.csproj.CoreCompileInputs.cache
+D:\C_sharp\NestedLoopLab\Nto1\obj\Debug\Nto1.exe
+D:\C_sharp\NestedLoopLab\Nto1\obj\Debug\Nto1.pdb

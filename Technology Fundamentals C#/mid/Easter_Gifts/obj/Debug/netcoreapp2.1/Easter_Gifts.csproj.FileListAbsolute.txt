@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\mid\Easter_Gifts\bin\Debug\netcoreapp2.1\Easter_Gifts.deps.json
+D:\Softuni\Technology Fundamentals C#\mid\Easter_Gifts\bin\Debug\netcoreapp2.1\Easter_Gifts.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\mid\Easter_Gifts\bin\Debug\netcoreapp2.1\Easter_Gifts.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\mid\Easter_Gifts\bin\Debug\netcoreapp2.1\Easter_Gifts.dll
+D:\Softuni\Technology Fundamentals C#\mid\Easter_Gifts\bin\Debug\netcoreapp2.1\Easter_Gifts.pdb
+D:\Softuni\Technology Fundamentals C#\mid\Easter_Gifts\obj\Debug\netcoreapp2.1\Easter_Gifts.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\mid\Easter_Gifts\obj\Debug\netcoreapp2.1\Easter_Gifts.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Easter_Gifts\obj\Debug\netcoreapp2.1\Easter_Gifts.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Easter_Gifts\obj\Debug\netcoreapp2.1\Easter_Gifts.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\mid\Easter_Gifts\obj\Debug\netcoreapp2.1\Easter_Gifts.dll
+D:\Softuni\Technology Fundamentals C#\mid\Easter_Gifts\obj\Debug\netcoreapp2.1\Easter_Gifts.pdb

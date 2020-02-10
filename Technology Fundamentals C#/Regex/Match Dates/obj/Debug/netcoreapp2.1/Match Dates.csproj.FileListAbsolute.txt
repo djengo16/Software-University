@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Regex\Match Dates\bin\Debug\netcoreapp2.1\Match Dates.deps.json
+D:\Softuni\Technology Fundamentals C#\Regex\Match Dates\bin\Debug\netcoreapp2.1\Match Dates.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Regex\Match Dates\bin\Debug\netcoreapp2.1\Match Dates.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Regex\Match Dates\bin\Debug\netcoreapp2.1\Match Dates.dll
+D:\Softuni\Technology Fundamentals C#\Regex\Match Dates\bin\Debug\netcoreapp2.1\Match Dates.pdb
+D:\Softuni\Technology Fundamentals C#\Regex\Match Dates\obj\Debug\netcoreapp2.1\Match Dates.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Match Dates\obj\Debug\netcoreapp2.1\Match Dates.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Match Dates\obj\Debug\netcoreapp2.1\Match Dates.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Match Dates\obj\Debug\netcoreapp2.1\Match Dates.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Regex\Match Dates\obj\Debug\netcoreapp2.1\Match Dates.dll
+D:\Softuni\Technology Fundamentals C#\Regex\Match Dates\obj\Debug\netcoreapp2.1\Match Dates.pdb

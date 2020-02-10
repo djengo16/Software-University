@@ -1,0 +1,7 @@
+D:\C_sharp\NestedLoopLab\Building\bin\Debug\Building.exe.config
+D:\C_sharp\NestedLoopLab\Building\bin\Debug\Building.exe
+D:\C_sharp\NestedLoopLab\Building\bin\Debug\Building.pdb
+D:\C_sharp\NestedLoopLab\Building\obj\Debug\Building.csprojAssemblyReference.cache
+D:\C_sharp\NestedLoopLab\Building\obj\Debug\Building.csproj.CoreCompileInputs.cache
+D:\C_sharp\NestedLoopLab\Building\obj\Debug\Building.exe
+D:\C_sharp\NestedLoopLab\Building\obj\Debug\Building.pdb

@@ -1,0 +1,137 @@
+2.Radians to degrees
+ using System;
+                    
+public class Program
+{
+    public static void Main()
+    {
+        double radians = double.Parse(Console.ReadLine());
+		double degrees = radians * 180 / Math.PI;
+		Console.WriteLine(Math.Round(degrees));
+    } 
+}
+
+-----------------------------------
+3. Лице на правоъгълник в равнината
+Правоъгълник е зададен с координатите на два от своите срещуположни ъгъла (x1, y1) – (x2, y2). Да се
+пресметнат площта и периметъра му. Входът се чете от конзолата. Числата x1, y1, x2 и y2 са дадени по едно
+наред. Изходът се извежда на конзолата и трябва да съдържа два реда с по една число на всеки от тях –
+лицето и периметъра.
+
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		double x1 = double.Parse(Console.ReadLine());
+		double y1 = double.Parse(Console.ReadLine());
+		double x2 = double.Parse(Console.ReadLine());
+		double y2 = double.Parse(Console.ReadLine());
+		double length = Math.Abs(x1-x2);
+		double width = Math.Abs(y1-y2);
+		double area = length * width;
+		double perimeter = (width + length) * 2; 
+	
+		Console.WriteLine("{0:F2}",area);
+		Console.WriteLine("{0:F2}",perimeter);
+	}
+}
+============================================================
+Примерни изпитни задачи
+4. * Шивашки цех
+Шивашки цех приема поръчки за ушиване на покривки и карета за маси за заведения. Покривките са
+правоъгълни, каретата са квадратни, броят им винаги е еднакъв. Покривката трябва да виси с 30 см от всеки
+ръб на масата. Страната на каретата е половината от дължината на масите. Във всяка поръчка се включва
+информация за броя и размерите на масите.
+Напишете програма, която пресмята цената на поръчка в долари и в левове, като квадратен метър плат за
+правоъгълна покривка струва 7 долара, а за каре – 9 долара. Курсът на долара е 1.85 лева.
+
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		double tables = double.Parse(Console.ReadLine());
+		double tablesLength = double.Parse(Console.ReadLine());
+		double tablesWidth = double.Parse(Console.ReadLine());
+		double coversArea =tables * (tablesLength + 2 * 0.30) * (tablesWidth + 2 * 0.30);
+		double squaresArea = tables * (tablesLength / 2) * (tablesLength / 2);
+		
+		double PriceInDollars = coversArea * 7 + squaresArea * 9;
+		double priceInLeva = PriceInDollars * 1.85;
+		
+		Console.WriteLine($"{PriceInDollars:F2} USD");
+		Console.WriteLine($"{priceInLeva:F2} BGN");
+		
+	}
+}
+=========================================================
+В сладкарница се провежда благотворителна кампания за събиране на средства, в която могат да се включат
+сладкари от цялата страна. Първоначално прочитаме от конзолата броя на дните, в които тече кампанията и
+броя на сладкарите, които ще се включат. След това на отделни редове получаваме количеството на
+тортите, гофретите и палачинките, които ще бъдат приготвени от един сладкар за един ден. Трябва да се
+има предвид следния ценоразпис:
+? Торта - 45 лв.
+? Гофрета - 5.80 лв.
+? Палачинка – 3.20 лв.
+1/8 от крайната сума ще бъде използвана за покриване на разходите за продуктите по време на
+кампанията. Да се напише програма, която изчислява сумата, която е събрана в края на кампанията.
+
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int days = int.Parse(Console.ReadLine());
+		int bakers = int.Parse(Console.ReadLine());
+		int cakes = int.Parse(Console.ReadLine());
+		int wafles = int.Parse(Console.ReadLine());
+		int pancakes = int.Parse(Console.ReadLine());
+		
+		double cakesSum= cakes * 45;
+		double waflesSum= wafles * 5.80;
+		double pancakesSum= pancakes * 3.20;
+		double totalSum = (cakesSum + waflesSum + pancakesSum) * bakers;
+		double allSum = days * totalSum;
+		double result = allSum - (allSum * 1/8);
+		Console.WriteLine("{0:F2}",result);
+		
+		
+	}
+}
+=========================================================
+Alchocol Market----
+
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+	double whiskeyPrice = double.Parse (Console.ReadLine());
+		double beerQ = double.Parse(Console.ReadLine());
+		double wineQ = double.Parse(Console.ReadLine());
+		double rakiaQ = double.Parse(Console.ReadLine());
+		double whiskeyQ = double.Parse(Console.ReadLine());
+		
+		double rakiaPrice = whiskeyPrice * 0.5 ;
+		double winePrice = rakiaPrice - (rakiaPrice * 0.4);
+		double beerPrice = rakiaPrice -(rakiaPrice * 0.8);
+		
+		double rakiaSum = rakiaPrice * rakiaQ;
+		double wineSum = winePrice * wineQ;
+		double beerSum = beerPrice * beerQ;
+		double whiskeySum = whiskeyPrice * whiskeyQ;
+		
+		double totalSum = rakiaSum + wineSum + beerSum + whiskeySum;
+		Console.WriteLine("{0:F2}",totalSum);
+		
+		
+	}
+}
+
+
+

@@ -1,0 +1,22 @@
+D:\Softuni\C# Advanced\C# Advanced\Reverse string\bin\Debug\netcoreapp2.1\Reverse string.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Reverse string\bin\Debug\netcoreapp2.1\Reverse string.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Reverse string\bin\Debug\netcoreapp2.1\Reverse string.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Reverse string\bin\Debug\netcoreapp2.1\Reverse string.dll
+D:\Softuni\C# Advanced\C# Advanced\Reverse string\bin\Debug\netcoreapp2.1\Reverse string.pdb
+D:\Softuni\C# Advanced\C# Advanced\Reverse string\obj\Debug\netcoreapp2.1\Reverse string.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# Advanced\Reverse string\obj\Debug\netcoreapp2.1\Reverse string.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Reverse string\obj\Debug\netcoreapp2.1\Reverse string.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Reverse string\obj\Debug\netcoreapp2.1\Reverse string.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Reverse string\obj\Debug\netcoreapp2.1\Reverse string.dll
+D:\Softuni\C# Advanced\C# Advanced\Reverse string\obj\Debug\netcoreapp2.1\Reverse string.pdb
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Reverse string\bin\Debug\netcoreapp2.1\Reverse string.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Reverse string\bin\Debug\netcoreapp2.1\Reverse string.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Reverse string\bin\Debug\netcoreapp2.1\Reverse string.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Reverse string\bin\Debug\netcoreapp2.1\Reverse string.dll
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Reverse string\bin\Debug\netcoreapp2.1\Reverse string.pdb
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Reverse string\obj\Debug\netcoreapp2.1\Reverse string.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Reverse string\obj\Debug\netcoreapp2.1\Reverse string.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Reverse string\obj\Debug\netcoreapp2.1\Reverse string.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Reverse string\obj\Debug\netcoreapp2.1\Reverse string.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Reverse string\obj\Debug\netcoreapp2.1\Reverse string.dll
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Reverse string\obj\Debug\netcoreapp2.1\Reverse string.pdb

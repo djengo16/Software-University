@@ -1,0 +1,7 @@
+D:\C_sharp\for-LooP-exercise\Divide.without.remainder\bin\Debug\Divide.without.remainder.exe.config
+D:\C_sharp\for-LooP-exercise\Divide.without.remainder\bin\Debug\Divide.without.remainder.exe
+D:\C_sharp\for-LooP-exercise\Divide.without.remainder\bin\Debug\Divide.without.remainder.pdb
+D:\C_sharp\for-LooP-exercise\Divide.without.remainder\obj\Debug\Divide.without.remainder.csprojAssemblyReference.cache
+D:\C_sharp\for-LooP-exercise\Divide.without.remainder\obj\Debug\Divide.without.remainder.csproj.CoreCompileInputs.cache
+D:\C_sharp\for-LooP-exercise\Divide.without.remainder\obj\Debug\Divide.without.remainder.exe
+D:\C_sharp\for-LooP-exercise\Divide.without.remainder\obj\Debug\Divide.without.remainder.pdb

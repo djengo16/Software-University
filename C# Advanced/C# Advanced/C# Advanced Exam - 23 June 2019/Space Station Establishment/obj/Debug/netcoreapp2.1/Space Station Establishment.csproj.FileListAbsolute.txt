@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 23 June 2019\Space Station Establishment\bin\Debug\netcoreapp2.1\Space Station Establishment.deps.json
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 23 June 2019\Space Station Establishment\bin\Debug\netcoreapp2.1\Space Station Establishment.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 23 June 2019\Space Station Establishment\bin\Debug\netcoreapp2.1\Space Station Establishment.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 23 June 2019\Space Station Establishment\bin\Debug\netcoreapp2.1\Space Station Establishment.dll
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 23 June 2019\Space Station Establishment\bin\Debug\netcoreapp2.1\Space Station Establishment.pdb
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 23 June 2019\Space Station Establishment\obj\Debug\netcoreapp2.1\Space Station Establishment.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 23 June 2019\Space Station Establishment\obj\Debug\netcoreapp2.1\Space Station Establishment.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 23 June 2019\Space Station Establishment\obj\Debug\netcoreapp2.1\Space Station Establishment.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 23 June 2019\Space Station Establishment\obj\Debug\netcoreapp2.1\Space Station Establishment.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 23 June 2019\Space Station Establishment\obj\Debug\netcoreapp2.1\Space Station Establishment.dll
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 23 June 2019\Space Station Establishment\obj\Debug\netcoreapp2.1\Space Station Establishment.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Factorial division\obj\Debug\netcoreapp2.1\Factorial division.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Factorial division\obj\Debug\netcoreapp2.1\Factorial division.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Factorial division\obj\Debug\netcoreapp2.1\Factorial division.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Factorial division\obj\Debug\netcoreapp2.1\Factorial division.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Factorial division\bin\Debug\netcoreapp2.1\Factorial division.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Factorial division\bin\Debug\netcoreapp2.1\Factorial division.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Factorial division\bin\Debug\netcoreapp2.1\Factorial division.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Factorial division\bin\Debug\netcoreapp2.1\Factorial division.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Factorial division\bin\Debug\netcoreapp2.1\Factorial division.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Factorial division\obj\Debug\netcoreapp2.1\Factorial division.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Factorial division\obj\Debug\netcoreapp2.1\Factorial division.pdb

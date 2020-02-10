@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Sign of Integer Numbers\bin\Debug\netcoreapp2.1\Sign of Integer Numbers.deps.json
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Sign of Integer Numbers\bin\Debug\netcoreapp2.1\Sign of Integer Numbers.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Sign of Integer Numbers\bin\Debug\netcoreapp2.1\Sign of Integer Numbers.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Sign of Integer Numbers\bin\Debug\netcoreapp2.1\Sign of Integer Numbers.dll
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Sign of Integer Numbers\bin\Debug\netcoreapp2.1\Sign of Integer Numbers.pdb
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Sign of Integer Numbers\obj\Debug\netcoreapp2.1\Sign of Integer Numbers.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Sign of Integer Numbers\obj\Debug\netcoreapp2.1\Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Sign of Integer Numbers\obj\Debug\netcoreapp2.1\Sign of Integer Numbers.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Sign of Integer Numbers\obj\Debug\netcoreapp2.1\Sign of Integer Numbers.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Sign of Integer Numbers\obj\Debug\netcoreapp2.1\Sign of Integer Numbers.dll
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Sign of Integer Numbers\obj\Debug\netcoreapp2.1\Sign of Integer Numbers.pdb

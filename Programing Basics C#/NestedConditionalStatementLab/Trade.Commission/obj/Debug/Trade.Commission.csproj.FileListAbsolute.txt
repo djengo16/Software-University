@@ -1,0 +1,7 @@
+D:\C_sharp\Trade.Commission\bin\Debug\Trade.Commission.exe.config
+D:\C_sharp\Trade.Commission\bin\Debug\Trade.Commission.exe
+D:\C_sharp\Trade.Commission\bin\Debug\Trade.Commission.pdb
+D:\C_sharp\Trade.Commission\obj\Debug\Trade.Commission.csprojAssemblyReference.cache
+D:\C_sharp\Trade.Commission\obj\Debug\Trade.Commission.csproj.CoreCompileInputs.cache
+D:\C_sharp\Trade.Commission\obj\Debug\Trade.Commission.exe
+D:\C_sharp\Trade.Commission\obj\Debug\Trade.Commission.pdb

@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Padawan Equipment\bin\Debug\netcoreapp2.1\Padawan Equipment.deps.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Padawan Equipment\bin\Debug\netcoreapp2.1\Padawan Equipment.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Padawan Equipment\bin\Debug\netcoreapp2.1\Padawan Equipment.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Padawan Equipment\bin\Debug\netcoreapp2.1\Padawan Equipment.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Padawan Equipment\bin\Debug\netcoreapp2.1\Padawan Equipment.pdb
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Padawan Equipment\obj\Debug\netcoreapp2.1\Padawan Equipment.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Padawan Equipment\obj\Debug\netcoreapp2.1\Padawan Equipment.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Padawan Equipment\obj\Debug\netcoreapp2.1\Padawan Equipment.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Padawan Equipment\obj\Debug\netcoreapp2.1\Padawan Equipment.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Padawan Equipment\obj\Debug\netcoreapp2.1\Padawan Equipment.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.dll
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.pdb
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.dll
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.pdb

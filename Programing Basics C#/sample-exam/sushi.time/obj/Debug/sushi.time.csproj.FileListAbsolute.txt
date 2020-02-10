@@ -1,0 +1,7 @@
+D:\C_sharp\sample-exam\sushi.time\bin\Debug\sushi.time.exe.config
+D:\C_sharp\sample-exam\sushi.time\bin\Debug\sushi.time.exe
+D:\C_sharp\sample-exam\sushi.time\bin\Debug\sushi.time.pdb
+D:\C_sharp\sample-exam\sushi.time\obj\Debug\sushi.time.csprojAssemblyReference.cache
+D:\C_sharp\sample-exam\sushi.time\obj\Debug\sushi.time.csproj.CoreCompileInputs.cache
+D:\C_sharp\sample-exam\sushi.time\obj\Debug\sushi.time.exe
+D:\C_sharp\sample-exam\sushi.time\obj\Debug\sushi.time.pdb

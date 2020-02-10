@@ -1,0 +1,10 @@
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Hot potato\bin\Debug\netcoreapp2.1\Hot potato.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Hot potato\bin\Debug\netcoreapp2.1\Hot potato.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Hot potato\bin\Debug\netcoreapp2.1\Hot potato.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Hot potato\bin\Debug\netcoreapp2.1\Hot potato.dll
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Hot potato\bin\Debug\netcoreapp2.1\Hot potato.pdb
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Hot potato\obj\Debug\netcoreapp2.1\Hot potato.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Hot potato\obj\Debug\netcoreapp2.1\Hot potato.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Hot potato\obj\Debug\netcoreapp2.1\Hot potato.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Hot potato\obj\Debug\netcoreapp2.1\Hot potato.dll
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Hot potato\obj\Debug\netcoreapp2.1\Hot potato.pdb

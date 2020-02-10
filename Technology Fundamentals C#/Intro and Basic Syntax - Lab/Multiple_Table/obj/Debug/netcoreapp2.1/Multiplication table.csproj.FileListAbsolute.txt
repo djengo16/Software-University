@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Multiple_Table\bin\Debug\netcoreapp2.1\Multiplication table.deps.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Multiple_Table\bin\Debug\netcoreapp2.1\Multiplication table.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Multiple_Table\bin\Debug\netcoreapp2.1\Multiplication table.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Multiple_Table\bin\Debug\netcoreapp2.1\Multiplication table.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Multiple_Table\bin\Debug\netcoreapp2.1\Multiplication table.pdb
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Multiple_Table\obj\Debug\netcoreapp2.1\Multiplication table.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Multiple_Table\obj\Debug\netcoreapp2.1\Multiplication table.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Multiple_Table\obj\Debug\netcoreapp2.1\Multiplication table.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Multiple_Table\obj\Debug\netcoreapp2.1\Multiplication table.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Multiple_Table\obj\Debug\netcoreapp2.1\Multiplication table.pdb

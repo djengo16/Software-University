@@ -1,0 +1,7 @@
+D:\C_sharp\while-Loop.Exercise\Coins\bin\Debug\Coins.exe.config
+D:\C_sharp\while-Loop.Exercise\Coins\bin\Debug\Coins.exe
+D:\C_sharp\while-Loop.Exercise\Coins\bin\Debug\Coins.pdb
+D:\C_sharp\while-Loop.Exercise\Coins\obj\Debug\Coins.csprojAssemblyReference.cache
+D:\C_sharp\while-Loop.Exercise\Coins\obj\Debug\Coins.csproj.CoreCompileInputs.cache
+D:\C_sharp\while-Loop.Exercise\Coins\obj\Debug\Coins.exe
+D:\C_sharp\while-Loop.Exercise\Coins\obj\Debug\Coins.pdb

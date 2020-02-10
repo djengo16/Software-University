@@ -1,0 +1,10 @@
+D:\Softuni\C# Advanced\C# Advanced\MULTIDIMENSIONAL ARRAYS\Primary Diagonal\obj\Debug\netcoreapp2.1\Primary Diagonal.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\MULTIDIMENSIONAL ARRAYS\Primary Diagonal\obj\Debug\netcoreapp2.1\Primary Diagonal.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\MULTIDIMENSIONAL ARRAYS\Primary Diagonal\obj\Debug\netcoreapp2.1\Primary Diagonal.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\MULTIDIMENSIONAL ARRAYS\Primary Diagonal\bin\Debug\netcoreapp2.1\Primary Diagonal.deps.json
+D:\Softuni\C# Advanced\C# Advanced\MULTIDIMENSIONAL ARRAYS\Primary Diagonal\bin\Debug\netcoreapp2.1\Primary Diagonal.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\MULTIDIMENSIONAL ARRAYS\Primary Diagonal\bin\Debug\netcoreapp2.1\Primary Diagonal.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\MULTIDIMENSIONAL ARRAYS\Primary Diagonal\bin\Debug\netcoreapp2.1\Primary Diagonal.dll
+D:\Softuni\C# Advanced\C# Advanced\MULTIDIMENSIONAL ARRAYS\Primary Diagonal\bin\Debug\netcoreapp2.1\Primary Diagonal.pdb
+D:\Softuni\C# Advanced\C# Advanced\MULTIDIMENSIONAL ARRAYS\Primary Diagonal\obj\Debug\netcoreapp2.1\Primary Diagonal.dll
+D:\Softuni\C# Advanced\C# Advanced\MULTIDIMENSIONAL ARRAYS\Primary Diagonal\obj\Debug\netcoreapp2.1\Primary Diagonal.pdb

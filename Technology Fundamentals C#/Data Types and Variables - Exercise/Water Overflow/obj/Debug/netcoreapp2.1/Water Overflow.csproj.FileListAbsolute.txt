@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Water Overflow\bin\Debug\netcoreapp2.1\Water Overflow.deps.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Water Overflow\bin\Debug\netcoreapp2.1\Water Overflow.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Water Overflow\bin\Debug\netcoreapp2.1\Water Overflow.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Water Overflow\bin\Debug\netcoreapp2.1\Water Overflow.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Water Overflow\bin\Debug\netcoreapp2.1\Water Overflow.pdb
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Water Overflow\obj\Debug\netcoreapp2.1\Water Overflow.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Water Overflow\obj\Debug\netcoreapp2.1\Water Overflow.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Water Overflow\obj\Debug\netcoreapp2.1\Water Overflow.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Water Overflow\obj\Debug\netcoreapp2.1\Water Overflow.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Water Overflow\obj\Debug\netcoreapp2.1\Water Overflow.pdb

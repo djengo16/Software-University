@@ -1,0 +1,7 @@
+D:\C_sharp\Exam_09.03.2019\Tenis_Equipment\bin\Debug\Tenis_Equipment.exe.config
+D:\C_sharp\Exam_09.03.2019\Tenis_Equipment\bin\Debug\Tenis_Equipment.exe
+D:\C_sharp\Exam_09.03.2019\Tenis_Equipment\bin\Debug\Tenis_Equipment.pdb
+D:\C_sharp\Exam_09.03.2019\Tenis_Equipment\obj\Debug\Tenis_Equipment.csprojAssemblyReference.cache
+D:\C_sharp\Exam_09.03.2019\Tenis_Equipment\obj\Debug\Tenis_Equipment.csproj.CoreCompileInputs.cache
+D:\C_sharp\Exam_09.03.2019\Tenis_Equipment\obj\Debug\Tenis_Equipment.exe
+D:\C_sharp\Exam_09.03.2019\Tenis_Equipment\obj\Debug\Tenis_Equipment.pdb

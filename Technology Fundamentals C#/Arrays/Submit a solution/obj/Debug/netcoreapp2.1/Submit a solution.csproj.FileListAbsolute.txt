@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Arrays\Submit a solution\bin\Debug\netcoreapp2.1\Submit a solution.deps.json
+D:\Softuni\Technology Fundamentals C#\Arrays\Submit a solution\bin\Debug\netcoreapp2.1\Submit a solution.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Arrays\Submit a solution\bin\Debug\netcoreapp2.1\Submit a solution.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Arrays\Submit a solution\bin\Debug\netcoreapp2.1\Submit a solution.dll
+D:\Softuni\Technology Fundamentals C#\Arrays\Submit a solution\bin\Debug\netcoreapp2.1\Submit a solution.pdb
+D:\Softuni\Technology Fundamentals C#\Arrays\Submit a solution\obj\Debug\netcoreapp2.1\Submit a solution.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Arrays\Submit a solution\obj\Debug\netcoreapp2.1\Submit a solution.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Arrays\Submit a solution\obj\Debug\netcoreapp2.1\Submit a solution.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Arrays\Submit a solution\obj\Debug\netcoreapp2.1\Submit a solution.dll
+D:\Softuni\Technology Fundamentals C#\Arrays\Submit a solution\obj\Debug\netcoreapp2.1\Submit a solution.pdb

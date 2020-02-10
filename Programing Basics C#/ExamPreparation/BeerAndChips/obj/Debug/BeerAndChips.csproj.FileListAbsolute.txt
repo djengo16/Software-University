@@ -1,0 +1,6 @@
+D:\C_sharp\ExamPreparation\BeerAndChips\bin\Debug\BeerAndChips.exe.config
+D:\C_sharp\ExamPreparation\BeerAndChips\bin\Debug\BeerAndChips.exe
+D:\C_sharp\ExamPreparation\BeerAndChips\bin\Debug\BeerAndChips.pdb
+D:\C_sharp\ExamPreparation\BeerAndChips\obj\Debug\BeerAndChips.csproj.CoreCompileInputs.cache
+D:\C_sharp\ExamPreparation\BeerAndChips\obj\Debug\BeerAndChips.exe
+D:\C_sharp\ExamPreparation\BeerAndChips\obj\Debug\BeerAndChips.pdb

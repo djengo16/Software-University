@@ -1,0 +1,7 @@
+D:\C_sharp\SummerOutFit\bin\Debug\SummerOutFit.exe.config
+D:\C_sharp\SummerOutFit\bin\Debug\SummerOutFit.exe
+D:\C_sharp\SummerOutFit\bin\Debug\SummerOutFit.pdb
+D:\C_sharp\SummerOutFit\obj\Debug\SummerOutFit.csprojAssemblyReference.cache
+D:\C_sharp\SummerOutFit\obj\Debug\SummerOutFit.csproj.CoreCompileInputs.cache
+D:\C_sharp\SummerOutFit\obj\Debug\SummerOutFit.exe
+D:\C_sharp\SummerOutFit\obj\Debug\SummerOutFit.pdb

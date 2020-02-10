@@ -1,0 +1,7 @@
+D:\C_sharp\bonusScore\bin\Debug\bonusScore.exe.config
+D:\C_sharp\bonusScore\bin\Debug\bonusScore.exe
+D:\C_sharp\bonusScore\bin\Debug\bonusScore.pdb
+D:\C_sharp\bonusScore\obj\Debug\bonusScore.csprojAssemblyReference.cache
+D:\C_sharp\bonusScore\obj\Debug\bonusScore.csproj.CoreCompileInputs.cache
+D:\C_sharp\bonusScore\obj\Debug\bonusScore.exe
+D:\C_sharp\bonusScore\obj\Debug\bonusScore.pdb

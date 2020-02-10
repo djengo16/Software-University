@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# OOP\Polymorphism\Polymorphism - Exercise\Vehicle\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.deps.json
+D:\Softuni\C# Advanced\C# OOP\Polymorphism\Polymorphism - Exercise\Vehicle\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.runtimeconfig.json
+D:\Softuni\C# Advanced\C# OOP\Polymorphism\Polymorphism - Exercise\Vehicle\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# OOP\Polymorphism\Polymorphism - Exercise\Vehicle\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.dll
+D:\Softuni\C# Advanced\C# OOP\Polymorphism\Polymorphism - Exercise\Vehicle\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.pdb
+D:\Softuni\C# Advanced\C# OOP\Polymorphism\Polymorphism - Exercise\Vehicle\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# OOP\Polymorphism\Polymorphism - Exercise\Vehicle\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# OOP\Polymorphism\Polymorphism - Exercise\Vehicle\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# OOP\Polymorphism\Polymorphism - Exercise\Vehicle\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# OOP\Polymorphism\Polymorphism - Exercise\Vehicle\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.dll
+D:\Softuni\C# Advanced\C# OOP\Polymorphism\Polymorphism - Exercise\Vehicle\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.pdb

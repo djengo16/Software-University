@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\BackIn30Minutes\bin\Debug\netcoreapp2.1\BackIn30Minutes.deps.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\BackIn30Minutes\bin\Debug\netcoreapp2.1\BackIn30Minutes.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\BackIn30Minutes\bin\Debug\netcoreapp2.1\BackIn30Minutes.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\BackIn30Minutes\bin\Debug\netcoreapp2.1\BackIn30Minutes.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\BackIn30Minutes\bin\Debug\netcoreapp2.1\BackIn30Minutes.pdb
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\BackIn30Minutes\obj\Debug\netcoreapp2.1\BackIn30Minutes.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\BackIn30Minutes\obj\Debug\netcoreapp2.1\BackIn30Minutes.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\BackIn30Minutes\obj\Debug\netcoreapp2.1\BackIn30Minutes.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\BackIn30Minutes\obj\Debug\netcoreapp2.1\BackIn30Minutes.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\BackIn30Minutes\obj\Debug\netcoreapp2.1\BackIn30Minutes.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\BackIn30Minutes\obj\Debug\netcoreapp2.1\BackIn30Minutes.pdb

@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Greater of two values\bin\Debug\netcoreapp2.1\Greater of two values.deps.json
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Greater of two values\bin\Debug\netcoreapp2.1\Greater of two values.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Greater of two values\bin\Debug\netcoreapp2.1\Greater of two values.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Greater of two values\bin\Debug\netcoreapp2.1\Greater of two values.dll
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Greater of two values\bin\Debug\netcoreapp2.1\Greater of two values.pdb
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Greater of two values\obj\Debug\netcoreapp2.1\Greater of two values.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Greater of two values\obj\Debug\netcoreapp2.1\Greater of two values.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Greater of two values\obj\Debug\netcoreapp2.1\Greater of two values.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Greater of two values\obj\Debug\netcoreapp2.1\Greater of two values.dll
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Greater of two values\obj\Debug\netcoreapp2.1\Greater of two values.pdb

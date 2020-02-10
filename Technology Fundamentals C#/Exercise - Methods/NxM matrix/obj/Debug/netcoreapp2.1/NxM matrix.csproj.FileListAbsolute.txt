@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\NxM matrix\obj\Debug\netcoreapp2.1\NxM matrix.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\NxM matrix\obj\Debug\netcoreapp2.1\NxM matrix.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\NxM matrix\obj\Debug\netcoreapp2.1\NxM matrix.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\NxM matrix\bin\Debug\netcoreapp2.1\NxM matrix.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\NxM matrix\bin\Debug\netcoreapp2.1\NxM matrix.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\NxM matrix\bin\Debug\netcoreapp2.1\NxM matrix.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\NxM matrix\bin\Debug\netcoreapp2.1\NxM matrix.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\NxM matrix\bin\Debug\netcoreapp2.1\NxM matrix.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\NxM matrix\obj\Debug\netcoreapp2.1\NxM matrix.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\NxM matrix\obj\Debug\netcoreapp2.1\NxM matrix.pdb

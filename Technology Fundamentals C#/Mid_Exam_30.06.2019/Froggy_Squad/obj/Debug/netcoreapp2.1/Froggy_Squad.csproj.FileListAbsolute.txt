@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Froggy_Squad\bin\Debug\netcoreapp2.1\Froggy_Squad.deps.json
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Froggy_Squad\bin\Debug\netcoreapp2.1\Froggy_Squad.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Froggy_Squad\bin\Debug\netcoreapp2.1\Froggy_Squad.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Froggy_Squad\bin\Debug\netcoreapp2.1\Froggy_Squad.dll
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Froggy_Squad\bin\Debug\netcoreapp2.1\Froggy_Squad.pdb
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Froggy_Squad\obj\Debug\netcoreapp2.1\Froggy_Squad.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Froggy_Squad\obj\Debug\netcoreapp2.1\Froggy_Squad.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Froggy_Squad\obj\Debug\netcoreapp2.1\Froggy_Squad.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Froggy_Squad\obj\Debug\netcoreapp2.1\Froggy_Squad.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Froggy_Squad\obj\Debug\netcoreapp2.1\Froggy_Squad.dll
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Froggy_Squad\obj\Debug\netcoreapp2.1\Froggy_Squad.pdb

@@ -1,0 +1,6 @@
+D:\C_sharp\sample-exam\SpaceShip\bin\Debug\SpaceShip.exe.config
+D:\C_sharp\sample-exam\SpaceShip\bin\Debug\SpaceShip.exe
+D:\C_sharp\sample-exam\SpaceShip\bin\Debug\SpaceShip.pdb
+D:\C_sharp\sample-exam\SpaceShip\obj\Debug\SpaceShip.csproj.CoreCompileInputs.cache
+D:\C_sharp\sample-exam\SpaceShip\obj\Debug\SpaceShip.exe
+D:\C_sharp\sample-exam\SpaceShip\obj\Debug\SpaceShip.pdb

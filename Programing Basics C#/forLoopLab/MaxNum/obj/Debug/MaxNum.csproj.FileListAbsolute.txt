@@ -1,0 +1,6 @@
+D:\C_sharp\forLoopLab\MaxNum\bin\Debug\MaxNum.exe.config
+D:\C_sharp\forLoopLab\MaxNum\bin\Debug\MaxNum.exe
+D:\C_sharp\forLoopLab\MaxNum\bin\Debug\MaxNum.pdb
+D:\C_sharp\forLoopLab\MaxNum\obj\Debug\MaxNum.csproj.CoreCompileInputs.cache
+D:\C_sharp\forLoopLab\MaxNum\obj\Debug\MaxNum.exe
+D:\C_sharp\forLoopLab\MaxNum\obj\Debug\MaxNum.pdb

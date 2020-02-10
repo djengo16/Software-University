@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# Advanced\Exercise - Multidimensional Arrays\Bombs\bin\Debug\netcoreapp2.1\Bombs.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Exercise - Multidimensional Arrays\Bombs\bin\Debug\netcoreapp2.1\Bombs.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Exercise - Multidimensional Arrays\Bombs\bin\Debug\netcoreapp2.1\Bombs.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Exercise - Multidimensional Arrays\Bombs\bin\Debug\netcoreapp2.1\Bombs.dll
+D:\Softuni\C# Advanced\C# Advanced\Exercise - Multidimensional Arrays\Bombs\bin\Debug\netcoreapp2.1\Bombs.pdb
+D:\Softuni\C# Advanced\C# Advanced\Exercise - Multidimensional Arrays\Bombs\obj\Debug\netcoreapp2.1\Bombs.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# Advanced\Exercise - Multidimensional Arrays\Bombs\obj\Debug\netcoreapp2.1\Bombs.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Exercise - Multidimensional Arrays\Bombs\obj\Debug\netcoreapp2.1\Bombs.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Exercise - Multidimensional Arrays\Bombs\obj\Debug\netcoreapp2.1\Bombs.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Exercise - Multidimensional Arrays\Bombs\obj\Debug\netcoreapp2.1\Bombs.dll
+D:\Softuni\C# Advanced\C# Advanced\Exercise - Multidimensional Arrays\Bombs\obj\Debug\netcoreapp2.1\Bombs.pdb

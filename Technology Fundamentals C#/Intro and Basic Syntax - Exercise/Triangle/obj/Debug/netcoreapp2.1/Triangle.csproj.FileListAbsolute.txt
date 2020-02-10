@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Triangle\bin\Debug\netcoreapp2.1\Triangle.deps.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Triangle\bin\Debug\netcoreapp2.1\Triangle.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Triangle\bin\Debug\netcoreapp2.1\Triangle.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Triangle\bin\Debug\netcoreapp2.1\Triangle.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Triangle\bin\Debug\netcoreapp2.1\Triangle.pdb
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Triangle\obj\Debug\netcoreapp2.1\Triangle.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Triangle\obj\Debug\netcoreapp2.1\Triangle.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Triangle\obj\Debug\netcoreapp2.1\Triangle.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Triangle\obj\Debug\netcoreapp2.1\Triangle.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Triangle\obj\Debug\netcoreapp2.1\Triangle.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Triangle\obj\Debug\netcoreapp2.1\Triangle.pdb

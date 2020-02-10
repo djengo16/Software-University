@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract File\bin\Debug\netcoreapp2.1\Extract File.deps.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract File\bin\Debug\netcoreapp2.1\Extract File.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract File\bin\Debug\netcoreapp2.1\Extract File.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract File\bin\Debug\netcoreapp2.1\Extract File.dll
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract File\bin\Debug\netcoreapp2.1\Extract File.pdb
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract File\obj\Debug\netcoreapp2.1\Extract File.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract File\obj\Debug\netcoreapp2.1\Extract File.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract File\obj\Debug\netcoreapp2.1\Extract File.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract File\obj\Debug\netcoreapp2.1\Extract File.dll
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract File\obj\Debug\netcoreapp2.1\Extract File.pdb

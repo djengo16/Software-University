@@ -1,0 +1,7 @@
+D:\C_sharp\Exam_09.03.2019\BasketballTournament\bin\Debug\BasketballTournament.exe.config
+D:\C_sharp\Exam_09.03.2019\BasketballTournament\bin\Debug\BasketballTournament.exe
+D:\C_sharp\Exam_09.03.2019\BasketballTournament\bin\Debug\BasketballTournament.pdb
+D:\C_sharp\Exam_09.03.2019\BasketballTournament\obj\Debug\BasketballTournament.csprojAssemblyReference.cache
+D:\C_sharp\Exam_09.03.2019\BasketballTournament\obj\Debug\BasketballTournament.csproj.CoreCompileInputs.cache
+D:\C_sharp\Exam_09.03.2019\BasketballTournament\obj\Debug\BasketballTournament.exe
+D:\C_sharp\Exam_09.03.2019\BasketballTournament\obj\Debug\BasketballTournament.pdb

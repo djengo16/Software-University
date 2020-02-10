@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\exam prep\Feed The Animals\obj\Debug\netcoreapp2.1\Feed The Animals.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\exam prep\Feed The Animals\obj\Debug\netcoreapp2.1\Feed The Animals.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\exam prep\Feed The Animals\obj\Debug\netcoreapp2.1\Feed The Animals.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\exam prep\Feed The Animals\bin\Debug\netcoreapp2.1\Feed The Animals.deps.json
+D:\Softuni\Technology Fundamentals C#\exam prep\Feed The Animals\bin\Debug\netcoreapp2.1\Feed The Animals.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\exam prep\Feed The Animals\bin\Debug\netcoreapp2.1\Feed The Animals.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\exam prep\Feed The Animals\bin\Debug\netcoreapp2.1\Feed The Animals.dll
+D:\Softuni\Technology Fundamentals C#\exam prep\Feed The Animals\bin\Debug\netcoreapp2.1\Feed The Animals.pdb
+D:\Softuni\Technology Fundamentals C#\exam prep\Feed The Animals\obj\Debug\netcoreapp2.1\Feed The Animals.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\exam prep\Feed The Animals\obj\Debug\netcoreapp2.1\Feed The Animals.dll
+D:\Softuni\Technology Fundamentals C#\exam prep\Feed The Animals\obj\Debug\netcoreapp2.1\Feed The Animals.pdb

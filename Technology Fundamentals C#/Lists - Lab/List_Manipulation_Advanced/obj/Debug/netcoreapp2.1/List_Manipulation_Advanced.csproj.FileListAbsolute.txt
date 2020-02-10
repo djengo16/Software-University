@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\List_Manipulation_Advanced\bin\Debug\netcoreapp2.1\List_Manipulation_Advanced.deps.json
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\List_Manipulation_Advanced\bin\Debug\netcoreapp2.1\List_Manipulation_Advanced.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\List_Manipulation_Advanced\bin\Debug\netcoreapp2.1\List_Manipulation_Advanced.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\List_Manipulation_Advanced\bin\Debug\netcoreapp2.1\List_Manipulation_Advanced.dll
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\List_Manipulation_Advanced\bin\Debug\netcoreapp2.1\List_Manipulation_Advanced.pdb
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\List_Manipulation_Advanced\obj\Debug\netcoreapp2.1\List_Manipulation_Advanced.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\List_Manipulation_Advanced\obj\Debug\netcoreapp2.1\List_Manipulation_Advanced.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\List_Manipulation_Advanced\obj\Debug\netcoreapp2.1\List_Manipulation_Advanced.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\List_Manipulation_Advanced\obj\Debug\netcoreapp2.1\List_Manipulation_Advanced.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\List_Manipulation_Advanced\obj\Debug\netcoreapp2.1\List_Manipulation_Advanced.dll
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\List_Manipulation_Advanced\obj\Debug\netcoreapp2.1\List_Manipulation_Advanced.pdb

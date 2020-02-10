@@ -1,0 +1,15 @@
+D:\C_sharp\sumSeconds\bin\Debug\sumSeconds.exe.config
+D:\C_sharp\sumSeconds\bin\Debug\sumSeconds.exe
+D:\C_sharp\sumSeconds\bin\Debug\sumSeconds.pdb
+D:\C_sharp\sumSeconds\obj\Debug\sumSeconds.csprojAssemblyReference.cache
+D:\C_sharp\sumSeconds\obj\Debug\MainWindow.g.cs
+D:\C_sharp\sumSeconds\obj\Debug\App.g.cs
+D:\C_sharp\sumSeconds\obj\Debug\sumSeconds_MarkupCompile.cache
+D:\C_sharp\sumSeconds\obj\Debug\sumSeconds_MarkupCompile.lref
+D:\C_sharp\sumSeconds\obj\Debug\MainWindow.baml
+D:\C_sharp\sumSeconds\obj\Debug\sumSeconds.g.resources
+D:\C_sharp\sumSeconds\obj\Debug\sumSeconds.Properties.Resources.resources
+D:\C_sharp\sumSeconds\obj\Debug\sumSeconds.csproj.GenerateResource.cache
+D:\C_sharp\sumSeconds\obj\Debug\sumSeconds.csproj.CoreCompileInputs.cache
+D:\C_sharp\sumSeconds\obj\Debug\sumSeconds.exe
+D:\C_sharp\sumSeconds\obj\Debug\sumSeconds.pdb

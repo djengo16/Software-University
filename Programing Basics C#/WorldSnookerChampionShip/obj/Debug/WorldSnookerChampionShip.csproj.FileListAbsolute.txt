@@ -1,0 +1,7 @@
+D:\C_sharp\WorldSnookerChampionShip\bin\Debug\WorldSnookerChampionShip.exe.config
+D:\C_sharp\WorldSnookerChampionShip\bin\Debug\WorldSnookerChampionShip.exe
+D:\C_sharp\WorldSnookerChampionShip\bin\Debug\WorldSnookerChampionShip.pdb
+D:\C_sharp\WorldSnookerChampionShip\obj\Debug\WorldSnookerChampionShip.csprojAssemblyReference.cache
+D:\C_sharp\WorldSnookerChampionShip\obj\Debug\WorldSnookerChampionShip.csproj.CoreCompileInputs.cache
+D:\C_sharp\WorldSnookerChampionShip\obj\Debug\WorldSnookerChampionShip.exe
+D:\C_sharp\WorldSnookerChampionShip\obj\Debug\WorldSnookerChampionShip.pdb

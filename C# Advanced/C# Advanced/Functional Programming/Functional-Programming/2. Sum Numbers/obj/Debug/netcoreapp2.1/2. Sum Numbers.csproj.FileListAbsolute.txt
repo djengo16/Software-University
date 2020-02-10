@@ -1,0 +1,10 @@
+D:\Softuni\C# Advanced\C# Advanced\Functional-Programming\2. Sum Numbers\bin\Debug\netcoreapp2.1\2. Sum Numbers.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Functional-Programming\2. Sum Numbers\bin\Debug\netcoreapp2.1\2. Sum Numbers.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Functional-Programming\2. Sum Numbers\bin\Debug\netcoreapp2.1\2. Sum Numbers.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Functional-Programming\2. Sum Numbers\bin\Debug\netcoreapp2.1\2. Sum Numbers.dll
+D:\Softuni\C# Advanced\C# Advanced\Functional-Programming\2. Sum Numbers\bin\Debug\netcoreapp2.1\2. Sum Numbers.pdb
+D:\Softuni\C# Advanced\C# Advanced\Functional-Programming\2. Sum Numbers\obj\Debug\netcoreapp2.1\2. Sum Numbers.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Functional-Programming\2. Sum Numbers\obj\Debug\netcoreapp2.1\2. Sum Numbers.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Functional-Programming\2. Sum Numbers\obj\Debug\netcoreapp2.1\2. Sum Numbers.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Functional-Programming\2. Sum Numbers\obj\Debug\netcoreapp2.1\2. Sum Numbers.dll
+D:\Softuni\C# Advanced\C# Advanced\Functional-Programming\2. Sum Numbers\obj\Debug\netcoreapp2.1\2. Sum Numbers.pdb

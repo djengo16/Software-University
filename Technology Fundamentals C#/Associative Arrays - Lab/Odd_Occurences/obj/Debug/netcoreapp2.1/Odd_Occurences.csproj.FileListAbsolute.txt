@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Odd_Occurences\bin\Debug\netcoreapp2.1\Odd_Occurences.deps.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Odd_Occurences\bin\Debug\netcoreapp2.1\Odd_Occurences.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Odd_Occurences\bin\Debug\netcoreapp2.1\Odd_Occurences.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Odd_Occurences\bin\Debug\netcoreapp2.1\Odd_Occurences.dll
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Odd_Occurences\bin\Debug\netcoreapp2.1\Odd_Occurences.pdb
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Odd_Occurences\obj\Debug\netcoreapp2.1\Odd_Occurences.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Odd_Occurences\obj\Debug\netcoreapp2.1\Odd_Occurences.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Odd_Occurences\obj\Debug\netcoreapp2.1\Odd_Occurences.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Odd_Occurences\obj\Debug\netcoreapp2.1\Odd_Occurences.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Odd_Occurences\obj\Debug\netcoreapp2.1\Odd_Occurences.dll
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Odd_Occurences\obj\Debug\netcoreapp2.1\Odd_Occurences.pdb

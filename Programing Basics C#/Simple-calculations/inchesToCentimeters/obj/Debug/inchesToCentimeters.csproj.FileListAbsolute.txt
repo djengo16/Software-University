@@ -1,0 +1,7 @@
+D:\C_sharp\Simple-calculations\inchesToCentimeters\bin\Debug\inchesToCentimeters.exe.config
+D:\C_sharp\Simple-calculations\inchesToCentimeters\bin\Debug\inchesToCentimeters.exe
+D:\C_sharp\Simple-calculations\inchesToCentimeters\bin\Debug\inchesToCentimeters.pdb
+D:\C_sharp\Simple-calculations\inchesToCentimeters\obj\Debug\inchesToCentimeters.csproj.CoreCompileInputs.cache
+D:\C_sharp\Simple-calculations\inchesToCentimeters\obj\Debug\inchesToCentimeters.exe
+D:\C_sharp\Simple-calculations\inchesToCentimeters\obj\Debug\inchesToCentimeters.pdb
+D:\C_sharp\Simple-calculations\inchesToCentimeters\obj\Debug\inchesToCentimeters.csprojAssemblyReference.cache

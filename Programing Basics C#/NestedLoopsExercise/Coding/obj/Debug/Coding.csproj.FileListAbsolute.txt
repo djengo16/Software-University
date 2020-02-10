@@ -1,0 +1,7 @@
+D:\C_sharp\NestedLoopsExercise\Coding\obj\Debug\Coding.csprojAssemblyReference.cache
+D:\C_sharp\NestedLoopsExercise\Coding\obj\Debug\Coding.csproj.CoreCompileInputs.cache
+D:\C_sharp\NestedLoopsExercise\Coding\bin\Debug\Coding.exe.config
+D:\C_sharp\NestedLoopsExercise\Coding\bin\Debug\Coding.exe
+D:\C_sharp\NestedLoopsExercise\Coding\bin\Debug\Coding.pdb
+D:\C_sharp\NestedLoopsExercise\Coding\obj\Debug\Coding.exe
+D:\C_sharp\NestedLoopsExercise\Coding\obj\Debug\Coding.pdb

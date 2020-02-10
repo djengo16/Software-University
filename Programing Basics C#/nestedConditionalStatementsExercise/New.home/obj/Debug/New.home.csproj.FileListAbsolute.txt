@@ -1,0 +1,7 @@
+D:\C_sharp\New.home\bin\Debug\New.home.exe.config
+D:\C_sharp\New.home\bin\Debug\New.home.exe
+D:\C_sharp\New.home\bin\Debug\New.home.pdb
+D:\C_sharp\New.home\obj\Debug\New.home.csprojAssemblyReference.cache
+D:\C_sharp\New.home\obj\Debug\New.home.csproj.CoreCompileInputs.cache
+D:\C_sharp\New.home\obj\Debug\New.home.exe
+D:\C_sharp\New.home\obj\Debug\New.home.pdb

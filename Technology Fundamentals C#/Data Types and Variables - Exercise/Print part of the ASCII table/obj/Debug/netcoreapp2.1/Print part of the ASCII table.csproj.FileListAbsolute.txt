@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Print part of the ASCII table\bin\Debug\netcoreapp2.1\Print part of the ASCII table.deps.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Print part of the ASCII table\bin\Debug\netcoreapp2.1\Print part of the ASCII table.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Print part of the ASCII table\bin\Debug\netcoreapp2.1\Print part of the ASCII table.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Print part of the ASCII table\bin\Debug\netcoreapp2.1\Print part of the ASCII table.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Print part of the ASCII table\bin\Debug\netcoreapp2.1\Print part of the ASCII table.pdb
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Print part of the ASCII table\obj\Debug\netcoreapp2.1\Print part of the ASCII table.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Print part of the ASCII table\obj\Debug\netcoreapp2.1\Print part of the ASCII table.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Print part of the ASCII table\obj\Debug\netcoreapp2.1\Print part of the ASCII table.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Print part of the ASCII table\obj\Debug\netcoreapp2.1\Print part of the ASCII table.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Print part of the ASCII table\obj\Debug\netcoreapp2.1\Print part of the ASCII table.pdb

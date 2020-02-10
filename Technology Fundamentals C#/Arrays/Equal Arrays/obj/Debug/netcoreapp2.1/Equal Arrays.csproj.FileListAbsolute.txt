@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Arrays\Equal Arrays\bin\Debug\netcoreapp2.1\Equal Arrays.deps.json
+D:\Softuni\Technology Fundamentals C#\Arrays\Equal Arrays\bin\Debug\netcoreapp2.1\Equal Arrays.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Arrays\Equal Arrays\bin\Debug\netcoreapp2.1\Equal Arrays.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Arrays\Equal Arrays\bin\Debug\netcoreapp2.1\Equal Arrays.dll
+D:\Softuni\Technology Fundamentals C#\Arrays\Equal Arrays\bin\Debug\netcoreapp2.1\Equal Arrays.pdb
+D:\Softuni\Technology Fundamentals C#\Arrays\Equal Arrays\obj\Debug\netcoreapp2.1\Equal Arrays.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Arrays\Equal Arrays\obj\Debug\netcoreapp2.1\Equal Arrays.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Arrays\Equal Arrays\obj\Debug\netcoreapp2.1\Equal Arrays.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Arrays\Equal Arrays\obj\Debug\netcoreapp2.1\Equal Arrays.dll
+D:\Softuni\Technology Fundamentals C#\Arrays\Equal Arrays\obj\Debug\netcoreapp2.1\Equal Arrays.pdb

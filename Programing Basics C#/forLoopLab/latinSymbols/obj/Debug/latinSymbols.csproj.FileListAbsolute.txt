@@ -1,0 +1,6 @@
+D:\C_sharp\forLoopLab\latinSymbols\bin\Debug\latinSymbols.exe.config
+D:\C_sharp\forLoopLab\latinSymbols\bin\Debug\latinSymbols.exe
+D:\C_sharp\forLoopLab\latinSymbols\bin\Debug\latinSymbols.pdb
+D:\C_sharp\forLoopLab\latinSymbols\obj\Debug\latinSymbols.csproj.CoreCompileInputs.cache
+D:\C_sharp\forLoopLab\latinSymbols\obj\Debug\latinSymbols.exe
+D:\C_sharp\forLoopLab\latinSymbols\obj\Debug\latinSymbols.pdb

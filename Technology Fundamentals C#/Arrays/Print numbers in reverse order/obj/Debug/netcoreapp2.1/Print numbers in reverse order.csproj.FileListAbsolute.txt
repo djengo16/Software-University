@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Arrays\Print numbers in reverse order\bin\Debug\netcoreapp2.1\Print numbers in reverse order.deps.json
+D:\Softuni\Technology Fundamentals C#\Arrays\Print numbers in reverse order\bin\Debug\netcoreapp2.1\Print numbers in reverse order.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Arrays\Print numbers in reverse order\bin\Debug\netcoreapp2.1\Print numbers in reverse order.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Arrays\Print numbers in reverse order\bin\Debug\netcoreapp2.1\Print numbers in reverse order.dll
+D:\Softuni\Technology Fundamentals C#\Arrays\Print numbers in reverse order\bin\Debug\netcoreapp2.1\Print numbers in reverse order.pdb
+D:\Softuni\Technology Fundamentals C#\Arrays\Print numbers in reverse order\obj\Debug\netcoreapp2.1\Print numbers in reverse order.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Arrays\Print numbers in reverse order\obj\Debug\netcoreapp2.1\Print numbers in reverse order.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Arrays\Print numbers in reverse order\obj\Debug\netcoreapp2.1\Print numbers in reverse order.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Arrays\Print numbers in reverse order\obj\Debug\netcoreapp2.1\Print numbers in reverse order.dll
+D:\Softuni\Technology Fundamentals C#\Arrays\Print numbers in reverse order\obj\Debug\netcoreapp2.1\Print numbers in reverse order.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Train\bin\Debug\netcoreapp2.1\Train.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Train\bin\Debug\netcoreapp2.1\Train.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Train\bin\Debug\netcoreapp2.1\Train.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Train\bin\Debug\netcoreapp2.1\Train.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Train\bin\Debug\netcoreapp2.1\Train.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Train\obj\Debug\netcoreapp2.1\Train.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Train\obj\Debug\netcoreapp2.1\Train.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Train\obj\Debug\netcoreapp2.1\Train.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Train\obj\Debug\netcoreapp2.1\Train.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Train\obj\Debug\netcoreapp2.1\Train.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Train\obj\Debug\netcoreapp2.1\Train.pdb

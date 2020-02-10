@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# Advanced\exam\Seashell Treasure\bin\Debug\netcoreapp2.1\Seashell Treasure.deps.json
+D:\Softuni\C# Advanced\C# Advanced\exam\Seashell Treasure\bin\Debug\netcoreapp2.1\Seashell Treasure.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\exam\Seashell Treasure\bin\Debug\netcoreapp2.1\Seashell Treasure.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\exam\Seashell Treasure\bin\Debug\netcoreapp2.1\Seashell Treasure.dll
+D:\Softuni\C# Advanced\C# Advanced\exam\Seashell Treasure\bin\Debug\netcoreapp2.1\Seashell Treasure.pdb
+D:\Softuni\C# Advanced\C# Advanced\exam\Seashell Treasure\obj\Debug\netcoreapp2.1\Seashell Treasure.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# Advanced\exam\Seashell Treasure\obj\Debug\netcoreapp2.1\Seashell Treasure.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\exam\Seashell Treasure\obj\Debug\netcoreapp2.1\Seashell Treasure.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\exam\Seashell Treasure\obj\Debug\netcoreapp2.1\Seashell Treasure.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\exam\Seashell Treasure\obj\Debug\netcoreapp2.1\Seashell Treasure.dll
+D:\Softuni\C# Advanced\C# Advanced\exam\Seashell Treasure\obj\Debug\netcoreapp2.1\Seashell Treasure.pdb

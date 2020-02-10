@@ -1,0 +1,6 @@
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\LuckyNumbers\bin\Debug\LuckyNumbers.exe.config
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\LuckyNumbers\bin\Debug\LuckyNumbers.exe
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\LuckyNumbers\bin\Debug\LuckyNumbers.pdb
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\LuckyNumbers\obj\Debug\LuckyNumbers.csproj.CoreCompileInputs.cache
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\LuckyNumbers\obj\Debug\LuckyNumbers.exe
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\LuckyNumbers\obj\Debug\LuckyNumbers.pdb

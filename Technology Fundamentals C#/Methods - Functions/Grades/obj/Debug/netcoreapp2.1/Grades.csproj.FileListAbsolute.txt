@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Grades\bin\Debug\netcoreapp2.1\Grades.deps.json
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Grades\bin\Debug\netcoreapp2.1\Grades.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Grades\bin\Debug\netcoreapp2.1\Grades.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Grades\bin\Debug\netcoreapp2.1\Grades.dll
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Grades\bin\Debug\netcoreapp2.1\Grades.pdb
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Grades\obj\Debug\netcoreapp2.1\Grades.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Grades\obj\Debug\netcoreapp2.1\Grades.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Grades\obj\Debug\netcoreapp2.1\Grades.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Grades\obj\Debug\netcoreapp2.1\Grades.dll
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Grades\obj\Debug\netcoreapp2.1\Grades.pdb

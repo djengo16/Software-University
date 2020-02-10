@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\Gauss Trick\bin\Debug\netcoreapp2.1\Gauss Trick.deps.json
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\Gauss Trick\bin\Debug\netcoreapp2.1\Gauss Trick.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\Gauss Trick\bin\Debug\netcoreapp2.1\Gauss Trick.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\Gauss Trick\bin\Debug\netcoreapp2.1\Gauss Trick.dll
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\Gauss Trick\bin\Debug\netcoreapp2.1\Gauss Trick.pdb
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\Gauss Trick\obj\Debug\netcoreapp2.1\Gauss Trick.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\Gauss Trick\obj\Debug\netcoreapp2.1\Gauss Trick.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\Gauss Trick\obj\Debug\netcoreapp2.1\Gauss Trick.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\Gauss Trick\obj\Debug\netcoreapp2.1\Gauss Trick.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\Gauss Trick\obj\Debug\netcoreapp2.1\Gauss Trick.dll
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\Gauss Trick\obj\Debug\netcoreapp2.1\Gauss Trick.pdb

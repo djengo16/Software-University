@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\RealNumSum\bin\Debug\netcoreapp2.1\RealNumSum.deps.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\RealNumSum\bin\Debug\netcoreapp2.1\RealNumSum.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\RealNumSum\bin\Debug\netcoreapp2.1\RealNumSum.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\RealNumSum\bin\Debug\netcoreapp2.1\RealNumSum.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\RealNumSum\bin\Debug\netcoreapp2.1\RealNumSum.pdb
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\RealNumSum\obj\Debug\netcoreapp2.1\RealNumSum.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\RealNumSum\obj\Debug\netcoreapp2.1\RealNumSum.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\RealNumSum\obj\Debug\netcoreapp2.1\RealNumSum.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\RealNumSum\obj\Debug\netcoreapp2.1\RealNumSum.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\RealNumSum\obj\Debug\netcoreapp2.1\RealNumSum.pdb

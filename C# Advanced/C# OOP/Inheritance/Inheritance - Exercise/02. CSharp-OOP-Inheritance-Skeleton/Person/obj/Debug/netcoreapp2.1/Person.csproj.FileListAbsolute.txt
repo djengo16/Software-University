@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Exercise\02. CSharp-OOP-Inheritance-Skeleton\Person\bin\Debug\netcoreapp2.1\Person.deps.json
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Exercise\02. CSharp-OOP-Inheritance-Skeleton\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.json
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Exercise\02. CSharp-OOP-Inheritance-Skeleton\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Exercise\02. CSharp-OOP-Inheritance-Skeleton\Person\bin\Debug\netcoreapp2.1\Person.dll
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Exercise\02. CSharp-OOP-Inheritance-Skeleton\Person\bin\Debug\netcoreapp2.1\Person.pdb
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Exercise\02. CSharp-OOP-Inheritance-Skeleton\Person\obj\Debug\netcoreapp2.1\Person.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Exercise\02. CSharp-OOP-Inheritance-Skeleton\Person\obj\Debug\netcoreapp2.1\Person.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Exercise\02. CSharp-OOP-Inheritance-Skeleton\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Exercise\02. CSharp-OOP-Inheritance-Skeleton\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Exercise\02. CSharp-OOP-Inheritance-Skeleton\Person\obj\Debug\netcoreapp2.1\Person.dll
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Exercise\02. CSharp-OOP-Inheritance-Skeleton\Person\obj\Debug\netcoreapp2.1\Person.pdb

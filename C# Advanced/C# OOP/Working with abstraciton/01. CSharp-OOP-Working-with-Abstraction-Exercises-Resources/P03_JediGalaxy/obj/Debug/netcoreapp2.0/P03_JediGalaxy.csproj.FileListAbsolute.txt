@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# OOP\Working with abstraciton\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.deps.json
+D:\Softuni\C# Advanced\C# OOP\Working with abstraciton\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.json
+D:\Softuni\C# Advanced\C# OOP\Working with abstraciton\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# OOP\Working with abstraciton\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+D:\Softuni\C# Advanced\C# OOP\Working with abstraciton\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.pdb
+D:\Softuni\C# Advanced\C# OOP\Working with abstraciton\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# OOP\Working with abstraciton\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# OOP\Working with abstraciton\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# OOP\Working with abstraciton\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# OOP\Working with abstraciton\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+D:\Softuni\C# Advanced\C# OOP\Working with abstraciton\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.pdb

@@ -1,0 +1,7 @@
+D:\C_sharp\NestedLoopsExercise\EqualSumsEvenOddPosition\bin\Debug\EqualSumsEvenOddPosition.exe.config
+D:\C_sharp\NestedLoopsExercise\EqualSumsEvenOddPosition\bin\Debug\EqualSumsEvenOddPosition.exe
+D:\C_sharp\NestedLoopsExercise\EqualSumsEvenOddPosition\bin\Debug\EqualSumsEvenOddPosition.pdb
+D:\C_sharp\NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\EqualSumsEvenOddPosition.csprojAssemblyReference.cache
+D:\C_sharp\NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+D:\C_sharp\NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\EqualSumsEvenOddPosition.exe
+D:\C_sharp\NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\EqualSumsEvenOddPosition.pdb

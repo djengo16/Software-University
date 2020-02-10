@@ -1,0 +1,7 @@
+D:\C_sharp\PersonalTitles\bin\Debug\PersonalTitles.exe.config
+D:\C_sharp\PersonalTitles\bin\Debug\PersonalTitles.exe
+D:\C_sharp\PersonalTitles\bin\Debug\PersonalTitles.pdb
+D:\C_sharp\PersonalTitles\obj\Debug\PersonalTitles.csprojAssemblyReference.cache
+D:\C_sharp\PersonalTitles\obj\Debug\PersonalTitles.csproj.CoreCompileInputs.cache
+D:\C_sharp\PersonalTitles\obj\Debug\PersonalTitles.exe
+D:\C_sharp\PersonalTitles\obj\Debug\PersonalTitles.pdb

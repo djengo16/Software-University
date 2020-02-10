@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Object and classes\Songs\bin\Debug\netcoreapp2.1\Songs.deps.json
+D:\Softuni\Technology Fundamentals C#\Object and classes\Songs\bin\Debug\netcoreapp2.1\Songs.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Object and classes\Songs\bin\Debug\netcoreapp2.1\Songs.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Object and classes\Songs\bin\Debug\netcoreapp2.1\Songs.dll
+D:\Softuni\Technology Fundamentals C#\Object and classes\Songs\bin\Debug\netcoreapp2.1\Songs.pdb
+D:\Softuni\Technology Fundamentals C#\Object and classes\Songs\obj\Debug\netcoreapp2.1\Songs.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Object and classes\Songs\obj\Debug\netcoreapp2.1\Songs.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Object and classes\Songs\obj\Debug\netcoreapp2.1\Songs.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Object and classes\Songs\obj\Debug\netcoreapp2.1\Songs.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Object and classes\Songs\obj\Debug\netcoreapp2.1\Songs.dll
+D:\Softuni\Technology Fundamentals C#\Object and classes\Songs\obj\Debug\netcoreapp2.1\Songs.pdb

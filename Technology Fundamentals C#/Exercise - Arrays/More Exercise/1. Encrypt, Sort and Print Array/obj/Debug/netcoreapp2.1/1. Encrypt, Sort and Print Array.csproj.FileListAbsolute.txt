@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\1. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.1\1. Encrypt, Sort and Print Array.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\1. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.1\1. Encrypt, Sort and Print Array.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\1. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.1\1. Encrypt, Sort and Print Array.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\1. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.1\1. Encrypt, Sort and Print Array.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\1. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.1\1. Encrypt, Sort and Print Array.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\1. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.1\1. Encrypt, Sort and Print Array.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\1. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.1\1. Encrypt, Sort and Print Array.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\1. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.1\1. Encrypt, Sort and Print Array.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\1. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.1\1. Encrypt, Sort and Print Array.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\1. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.1\1. Encrypt, Sort and Print Array.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\1. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.1\1. Encrypt, Sort and Print Array.pdb

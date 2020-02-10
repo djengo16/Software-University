@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Strong_Number\bin\Debug\netcoreapp2.1\Strong_Number.deps.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Strong_Number\bin\Debug\netcoreapp2.1\Strong_Number.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Strong_Number\bin\Debug\netcoreapp2.1\Strong_Number.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Strong_Number\bin\Debug\netcoreapp2.1\Strong_Number.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Strong_Number\bin\Debug\netcoreapp2.1\Strong_Number.pdb
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Strong_Number\obj\Debug\netcoreapp2.1\Strong_Number.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Strong_Number\obj\Debug\netcoreapp2.1\Strong_Number.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Strong_Number\obj\Debug\netcoreapp2.1\Strong_Number.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Strong_Number\obj\Debug\netcoreapp2.1\Strong_Number.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Strong_Number\obj\Debug\netcoreapp2.1\Strong_Number.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Strong_Number\obj\Debug\netcoreapp2.1\Strong_Number.pdb

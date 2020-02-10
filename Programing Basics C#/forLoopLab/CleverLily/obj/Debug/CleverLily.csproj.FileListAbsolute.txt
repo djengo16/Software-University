@@ -1,0 +1,7 @@
+D:\C_sharp\forLoopLab\CleverLily\bin\Debug\CleverLily.exe.config
+D:\C_sharp\forLoopLab\CleverLily\bin\Debug\CleverLily.exe
+D:\C_sharp\forLoopLab\CleverLily\bin\Debug\CleverLily.pdb
+D:\C_sharp\forLoopLab\CleverLily\obj\Debug\CleverLily.csprojAssemblyReference.cache
+D:\C_sharp\forLoopLab\CleverLily\obj\Debug\CleverLily.csproj.CoreCompileInputs.cache
+D:\C_sharp\forLoopLab\CleverLily\obj\Debug\CleverLily.exe
+D:\C_sharp\forLoopLab\CleverLily\obj\Debug\CleverLily.pdb

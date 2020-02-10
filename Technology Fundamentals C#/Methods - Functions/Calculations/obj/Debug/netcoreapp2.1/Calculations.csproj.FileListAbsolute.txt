@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Calculations\bin\Debug\netcoreapp2.1\Calculations.deps.json
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Calculations\bin\Debug\netcoreapp2.1\Calculations.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Calculations\bin\Debug\netcoreapp2.1\Calculations.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Calculations\bin\Debug\netcoreapp2.1\Calculations.dll
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Calculations\bin\Debug\netcoreapp2.1\Calculations.pdb
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Calculations\obj\Debug\netcoreapp2.1\Calculations.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Calculations\obj\Debug\netcoreapp2.1\Calculations.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Calculations\obj\Debug\netcoreapp2.1\Calculations.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Calculations\obj\Debug\netcoreapp2.1\Calculations.dll
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Calculations\obj\Debug\netcoreapp2.1\Calculations.pdb

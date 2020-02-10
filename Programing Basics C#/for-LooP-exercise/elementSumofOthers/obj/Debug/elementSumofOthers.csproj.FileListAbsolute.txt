@@ -1,0 +1,7 @@
+D:\C_sharp\for-LooP-exercise\elementSumofOthers\bin\Debug\elementSumofOthers.exe.config
+D:\C_sharp\for-LooP-exercise\elementSumofOthers\bin\Debug\elementSumofOthers.exe
+D:\C_sharp\for-LooP-exercise\elementSumofOthers\bin\Debug\elementSumofOthers.pdb
+D:\C_sharp\for-LooP-exercise\elementSumofOthers\obj\Debug\elementSumofOthers.csprojAssemblyReference.cache
+D:\C_sharp\for-LooP-exercise\elementSumofOthers\obj\Debug\elementSumofOthers.csproj.CoreCompileInputs.cache
+D:\C_sharp\for-LooP-exercise\elementSumofOthers\obj\Debug\elementSumofOthers.exe
+D:\C_sharp\for-LooP-exercise\elementSumofOthers\obj\Debug\elementSumofOthers.pdb

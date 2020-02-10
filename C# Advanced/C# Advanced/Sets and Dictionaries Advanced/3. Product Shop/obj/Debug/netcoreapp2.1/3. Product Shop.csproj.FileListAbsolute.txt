@@ -1,0 +1,10 @@
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\3. Product Shop\obj\Debug\netcoreapp2.1\3. Product Shop.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\3. Product Shop\obj\Debug\netcoreapp2.1\3. Product Shop.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\3. Product Shop\obj\Debug\netcoreapp2.1\3. Product Shop.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\3. Product Shop\bin\Debug\netcoreapp2.1\3. Product Shop.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\3. Product Shop\bin\Debug\netcoreapp2.1\3. Product Shop.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\3. Product Shop\bin\Debug\netcoreapp2.1\3. Product Shop.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\3. Product Shop\bin\Debug\netcoreapp2.1\3. Product Shop.dll
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\3. Product Shop\bin\Debug\netcoreapp2.1\3. Product Shop.pdb
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\3. Product Shop\obj\Debug\netcoreapp2.1\3. Product Shop.dll
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\3. Product Shop\obj\Debug\netcoreapp2.1\3. Product Shop.pdb

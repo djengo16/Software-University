@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 26 October 2019\Advanced Exam 26 October 2019\Dating App\bin\Debug\netcoreapp2.1\Dating App.deps.json
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 26 October 2019\Advanced Exam 26 October 2019\Dating App\bin\Debug\netcoreapp2.1\Dating App.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 26 October 2019\Advanced Exam 26 October 2019\Dating App\bin\Debug\netcoreapp2.1\Dating App.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 26 October 2019\Advanced Exam 26 October 2019\Dating App\bin\Debug\netcoreapp2.1\Dating App.dll
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 26 October 2019\Advanced Exam 26 October 2019\Dating App\bin\Debug\netcoreapp2.1\Dating App.pdb
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 26 October 2019\Advanced Exam 26 October 2019\Dating App\obj\Debug\netcoreapp2.1\Dating App.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 26 October 2019\Advanced Exam 26 October 2019\Dating App\obj\Debug\netcoreapp2.1\Dating App.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 26 October 2019\Advanced Exam 26 October 2019\Dating App\obj\Debug\netcoreapp2.1\Dating App.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 26 October 2019\Advanced Exam 26 October 2019\Dating App\obj\Debug\netcoreapp2.1\Dating App.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 26 October 2019\Advanced Exam 26 October 2019\Dating App\obj\Debug\netcoreapp2.1\Dating App.dll
+D:\Softuni\C# Advanced\C# Advanced\C# Advanced Exam - 26 October 2019\Advanced Exam 26 October 2019\Dating App\obj\Debug\netcoreapp2.1\Dating App.pdb

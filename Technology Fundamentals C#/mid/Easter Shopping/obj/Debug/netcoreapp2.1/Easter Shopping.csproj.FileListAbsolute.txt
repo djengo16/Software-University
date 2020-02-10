@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\mid\Easter Shopping\bin\Debug\netcoreapp2.1\Easter Shopping.deps.json
+D:\Softuni\Technology Fundamentals C#\mid\Easter Shopping\bin\Debug\netcoreapp2.1\Easter Shopping.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\mid\Easter Shopping\bin\Debug\netcoreapp2.1\Easter Shopping.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\mid\Easter Shopping\bin\Debug\netcoreapp2.1\Easter Shopping.dll
+D:\Softuni\Technology Fundamentals C#\mid\Easter Shopping\bin\Debug\netcoreapp2.1\Easter Shopping.pdb
+D:\Softuni\Technology Fundamentals C#\mid\Easter Shopping\obj\Debug\netcoreapp2.1\Easter Shopping.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\mid\Easter Shopping\obj\Debug\netcoreapp2.1\Easter Shopping.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Easter Shopping\obj\Debug\netcoreapp2.1\Easter Shopping.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Easter Shopping\obj\Debug\netcoreapp2.1\Easter Shopping.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\mid\Easter Shopping\obj\Debug\netcoreapp2.1\Easter Shopping.dll
+D:\Softuni\Technology Fundamentals C#\mid\Easter Shopping\obj\Debug\netcoreapp2.1\Easter Shopping.pdb

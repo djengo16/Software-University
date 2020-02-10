@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\MonthPrinter\obj\Debug\netcoreapp2.1\MonthPrinter.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\MonthPrinter\obj\Debug\netcoreapp2.1\MonthPrinter.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\MonthPrinter\obj\Debug\netcoreapp2.1\MonthPrinter.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\MonthPrinter\bin\Debug\netcoreapp2.1\MonthPrinter.deps.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\MonthPrinter\bin\Debug\netcoreapp2.1\MonthPrinter.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\MonthPrinter\bin\Debug\netcoreapp2.1\MonthPrinter.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\MonthPrinter\bin\Debug\netcoreapp2.1\MonthPrinter.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\MonthPrinter\bin\Debug\netcoreapp2.1\MonthPrinter.pdb
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\MonthPrinter\obj\Debug\netcoreapp2.1\MonthPrinter.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\MonthPrinter\obj\Debug\netcoreapp2.1\MonthPrinter.pdb

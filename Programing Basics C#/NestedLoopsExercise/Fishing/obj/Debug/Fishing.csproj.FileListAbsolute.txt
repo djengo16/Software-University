@@ -1,0 +1,6 @@
+D:\C_sharp\NestedLoopsExercise\Fishing\bin\Debug\Fishing.exe.config
+D:\C_sharp\NestedLoopsExercise\Fishing\bin\Debug\Fishing.exe
+D:\C_sharp\NestedLoopsExercise\Fishing\bin\Debug\Fishing.pdb
+D:\C_sharp\NestedLoopsExercise\Fishing\obj\Debug\Fishing.csproj.CoreCompileInputs.cache
+D:\C_sharp\NestedLoopsExercise\Fishing\obj\Debug\Fishing.exe
+D:\C_sharp\NestedLoopsExercise\Fishing\obj\Debug\Fishing.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vending_Machine\obj\Debug\netcoreapp2.1\Vending_Machine.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vending_Machine\obj\Debug\netcoreapp2.1\Vending_Machine.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vending_Machine\obj\Debug\netcoreapp2.1\Vending_Machine.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vending_Machine\obj\Debug\netcoreapp2.1\Vending_Machine.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vending_Machine\bin\Debug\netcoreapp2.1\Vending_Machine.deps.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vending_Machine\bin\Debug\netcoreapp2.1\Vending_Machine.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vending_Machine\bin\Debug\netcoreapp2.1\Vending_Machine.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vending_Machine\bin\Debug\netcoreapp2.1\Vending_Machine.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vending_Machine\bin\Debug\netcoreapp2.1\Vending_Machine.pdb
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vending_Machine\obj\Debug\netcoreapp2.1\Vending_Machine.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vending_Machine\obj\Debug\netcoreapp2.1\Vending_Machine.pdb

@@ -1,0 +1,7 @@
+D:\C_sharp\Journey\bin\Debug\Journey.exe.config
+D:\C_sharp\Journey\bin\Debug\Journey.exe
+D:\C_sharp\Journey\bin\Debug\Journey.pdb
+D:\C_sharp\Journey\obj\Debug\Journey.csprojAssemblyReference.cache
+D:\C_sharp\Journey\obj\Debug\Journey.csproj.CoreCompileInputs.cache
+D:\C_sharp\Journey\obj\Debug\Journey.exe
+D:\C_sharp\Journey\obj\Debug\Journey.pdb

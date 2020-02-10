@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\ConvertMtoKM\bin\Debug\netcoreapp2.1\ConvertMtoKM.deps.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\ConvertMtoKM\bin\Debug\netcoreapp2.1\ConvertMtoKM.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\ConvertMtoKM\bin\Debug\netcoreapp2.1\ConvertMtoKM.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\ConvertMtoKM\bin\Debug\netcoreapp2.1\ConvertMtoKM.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\ConvertMtoKM\bin\Debug\netcoreapp2.1\ConvertMtoKM.pdb
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\ConvertMtoKM\obj\Debug\netcoreapp2.1\ConvertMtoKM.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\ConvertMtoKM\obj\Debug\netcoreapp2.1\ConvertMtoKM.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\ConvertMtoKM\obj\Debug\netcoreapp2.1\ConvertMtoKM.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\ConvertMtoKM\obj\Debug\netcoreapp2.1\ConvertMtoKM.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\ConvertMtoKM\obj\Debug\netcoreapp2.1\ConvertMtoKM.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\ConvertMtoKM\obj\Debug\netcoreapp2.1\ConvertMtoKM.pdb

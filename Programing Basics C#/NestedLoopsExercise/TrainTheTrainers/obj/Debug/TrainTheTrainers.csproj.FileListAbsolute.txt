@@ -1,0 +1,7 @@
+D:\C_sharp\NestedLoopsExercise\TrainTheTrainers\bin\Debug\TrainTheTrainers.exe.config
+D:\C_sharp\NestedLoopsExercise\TrainTheTrainers\bin\Debug\TrainTheTrainers.exe
+D:\C_sharp\NestedLoopsExercise\TrainTheTrainers\bin\Debug\TrainTheTrainers.pdb
+D:\C_sharp\NestedLoopsExercise\TrainTheTrainers\obj\Debug\TrainTheTrainers.csprojAssemblyReference.cache
+D:\C_sharp\NestedLoopsExercise\TrainTheTrainers\obj\Debug\TrainTheTrainers.csproj.CoreCompileInputs.cache
+D:\C_sharp\NestedLoopsExercise\TrainTheTrainers\obj\Debug\TrainTheTrainers.exe
+D:\C_sharp\NestedLoopsExercise\TrainTheTrainers\obj\Debug\TrainTheTrainers.pdb

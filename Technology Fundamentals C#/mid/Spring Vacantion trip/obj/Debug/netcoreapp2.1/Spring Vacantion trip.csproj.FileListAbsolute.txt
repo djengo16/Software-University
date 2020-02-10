@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\mid\Spring Vacantion trip\bin\Debug\netcoreapp2.1\Spring Vacantion trip.deps.json
+D:\Softuni\Technology Fundamentals C#\mid\Spring Vacantion trip\bin\Debug\netcoreapp2.1\Spring Vacantion trip.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\mid\Spring Vacantion trip\bin\Debug\netcoreapp2.1\Spring Vacantion trip.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\mid\Spring Vacantion trip\bin\Debug\netcoreapp2.1\Spring Vacantion trip.dll
+D:\Softuni\Technology Fundamentals C#\mid\Spring Vacantion trip\bin\Debug\netcoreapp2.1\Spring Vacantion trip.pdb
+D:\Softuni\Technology Fundamentals C#\mid\Spring Vacantion trip\obj\Debug\netcoreapp2.1\Spring Vacantion trip.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\mid\Spring Vacantion trip\obj\Debug\netcoreapp2.1\Spring Vacantion trip.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Spring Vacantion trip\obj\Debug\netcoreapp2.1\Spring Vacantion trip.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Spring Vacantion trip\obj\Debug\netcoreapp2.1\Spring Vacantion trip.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\mid\Spring Vacantion trip\obj\Debug\netcoreapp2.1\Spring Vacantion trip.dll
+D:\Softuni\Technology Fundamentals C#\mid\Spring Vacantion trip\obj\Debug\netcoreapp2.1\Spring Vacantion trip.pdb

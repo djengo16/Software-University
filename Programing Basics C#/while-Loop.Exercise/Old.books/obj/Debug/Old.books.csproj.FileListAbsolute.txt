@@ -1,0 +1,7 @@
+D:\C_sharp\while-Loop.Exercise\Old.books\bin\Debug\Old.books.exe.config
+D:\C_sharp\while-Loop.Exercise\Old.books\bin\Debug\Old.books.exe
+D:\C_sharp\while-Loop.Exercise\Old.books\bin\Debug\Old.books.pdb
+D:\C_sharp\while-Loop.Exercise\Old.books\obj\Debug\Old.books.csprojAssemblyReference.cache
+D:\C_sharp\while-Loop.Exercise\Old.books\obj\Debug\Old.books.csproj.CoreCompileInputs.cache
+D:\C_sharp\while-Loop.Exercise\Old.books\obj\Debug\Old.books.exe
+D:\C_sharp\while-Loop.Exercise\Old.books\obj\Debug\Old.books.pdb

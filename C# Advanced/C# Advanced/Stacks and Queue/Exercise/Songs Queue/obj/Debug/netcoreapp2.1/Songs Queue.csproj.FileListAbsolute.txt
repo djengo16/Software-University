@@ -1,0 +1,10 @@
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Songs Queue\bin\Debug\netcoreapp2.1\Songs Queue.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Songs Queue\bin\Debug\netcoreapp2.1\Songs Queue.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Songs Queue\bin\Debug\netcoreapp2.1\Songs Queue.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Songs Queue\bin\Debug\netcoreapp2.1\Songs Queue.dll
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Songs Queue\bin\Debug\netcoreapp2.1\Songs Queue.pdb
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Songs Queue\obj\Debug\netcoreapp2.1\Songs Queue.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Songs Queue\obj\Debug\netcoreapp2.1\Songs Queue.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Songs Queue\obj\Debug\netcoreapp2.1\Songs Queue.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Songs Queue\obj\Debug\netcoreapp2.1\Songs Queue.dll
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Songs Queue\obj\Debug\netcoreapp2.1\Songs Queue.pdb

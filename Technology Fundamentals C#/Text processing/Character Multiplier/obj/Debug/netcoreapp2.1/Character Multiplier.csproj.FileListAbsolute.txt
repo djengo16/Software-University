@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Text processing\Character Multiplier\bin\Debug\netcoreapp2.1\Character Multiplier.deps.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Character Multiplier\bin\Debug\netcoreapp2.1\Character Multiplier.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Character Multiplier\bin\Debug\netcoreapp2.1\Character Multiplier.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Character Multiplier\bin\Debug\netcoreapp2.1\Character Multiplier.dll
+D:\Softuni\Technology Fundamentals C#\Text processing\Character Multiplier\bin\Debug\netcoreapp2.1\Character Multiplier.pdb
+D:\Softuni\Technology Fundamentals C#\Text processing\Character Multiplier\obj\Debug\netcoreapp2.1\Character Multiplier.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Text processing\Character Multiplier\obj\Debug\netcoreapp2.1\Character Multiplier.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Text processing\Character Multiplier\obj\Debug\netcoreapp2.1\Character Multiplier.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Text processing\Character Multiplier\obj\Debug\netcoreapp2.1\Character Multiplier.dll
+D:\Softuni\Technology Fundamentals C#\Text processing\Character Multiplier\obj\Debug\netcoreapp2.1\Character Multiplier.pdb

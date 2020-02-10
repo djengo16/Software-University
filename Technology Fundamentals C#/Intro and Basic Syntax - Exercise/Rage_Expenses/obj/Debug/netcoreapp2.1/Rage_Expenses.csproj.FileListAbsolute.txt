@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Rage_Expenses\bin\Debug\netcoreapp2.1\Rage_Expenses.deps.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Rage_Expenses\bin\Debug\netcoreapp2.1\Rage_Expenses.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Rage_Expenses\bin\Debug\netcoreapp2.1\Rage_Expenses.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Rage_Expenses\bin\Debug\netcoreapp2.1\Rage_Expenses.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Rage_Expenses\bin\Debug\netcoreapp2.1\Rage_Expenses.pdb
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Rage_Expenses\obj\Debug\netcoreapp2.1\Rage_Expenses.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Rage_Expenses\obj\Debug\netcoreapp2.1\Rage_Expenses.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Rage_Expenses\obj\Debug\netcoreapp2.1\Rage_Expenses.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Rage_Expenses\obj\Debug\netcoreapp2.1\Rage_Expenses.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Rage_Expenses\obj\Debug\netcoreapp2.1\Rage_Expenses.pdb

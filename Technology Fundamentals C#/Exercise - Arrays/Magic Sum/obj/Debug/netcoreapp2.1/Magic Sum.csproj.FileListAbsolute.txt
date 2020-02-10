@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Magic Sum\bin\Debug\netcoreapp2.1\Magic Sum.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Magic Sum\bin\Debug\netcoreapp2.1\Magic Sum.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Magic Sum\bin\Debug\netcoreapp2.1\Magic Sum.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Magic Sum\bin\Debug\netcoreapp2.1\Magic Sum.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Magic Sum\bin\Debug\netcoreapp2.1\Magic Sum.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Magic Sum\obj\Debug\netcoreapp2.1\Magic Sum.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Magic Sum\obj\Debug\netcoreapp2.1\Magic Sum.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Magic Sum\obj\Debug\netcoreapp2.1\Magic Sum.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Magic Sum\obj\Debug\netcoreapp2.1\Magic Sum.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Magic Sum\obj\Debug\netcoreapp2.1\Magic Sum.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Magic Sum\obj\Debug\netcoreapp2.1\Magic Sum.csprojAssemblyReference.cache

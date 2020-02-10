@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diagonal Difference", "Diagonal Difference\Diagonal Difference.csproj", "{70CC766B-83B0-4C12-B458-5885CE46DACB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2x2 Squares in Matrix", "2x2 Squares in Matrix\2x2 Squares in Matrix.csproj", "{770DAD56-249E-4F5A-8C5A-32EC7280119C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximal Sum", "Maximal Sum\Maximal Sum.csproj", "{21DC1415-CE47-4F3D-A53D-AA8BA0CB89C8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrix shuffling", "Matrix shuffling\Matrix shuffling.csproj", "{F2A8F25B-ADF8-48BA-8133-D37E3F80628D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snake Moves", "Snake Moves\Snake Moves.csproj", "{F6A511B3-4AE1-43C0-9E67-8D821A8F4A56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jagged array manipulator", "Bomb The Basement\Jagged array manipulator.csproj", "{EF7C17E0-A107-4DF1-AE3E-A7D707B9FB18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bombs", "Bombs\Bombs.csproj", "{68B81DBD-C6A3-4A29-BA23-87A5EAA85F7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70CC766B-83B0-4C12-B458-5885CE46DACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70CC766B-83B0-4C12-B458-5885CE46DACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70CC766B-83B0-4C12-B458-5885CE46DACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70CC766B-83B0-4C12-B458-5885CE46DACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770DAD56-249E-4F5A-8C5A-32EC7280119C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770DAD56-249E-4F5A-8C5A-32EC7280119C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770DAD56-249E-4F5A-8C5A-32EC7280119C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770DAD56-249E-4F5A-8C5A-32EC7280119C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21DC1415-CE47-4F3D-A53D-AA8BA0CB89C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21DC1415-CE47-4F3D-A53D-AA8BA0CB89C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21DC1415-CE47-4F3D-A53D-AA8BA0CB89C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21DC1415-CE47-4F3D-A53D-AA8BA0CB89C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A8F25B-ADF8-48BA-8133-D37E3F80628D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A8F25B-ADF8-48BA-8133-D37E3F80628D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A8F25B-ADF8-48BA-8133-D37E3F80628D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A8F25B-ADF8-48BA-8133-D37E3F80628D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A511B3-4AE1-43C0-9E67-8D821A8F4A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A511B3-4AE1-43C0-9E67-8D821A8F4A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A511B3-4AE1-43C0-9E67-8D821A8F4A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A511B3-4AE1-43C0-9E67-8D821A8F4A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF7C17E0-A107-4DF1-AE3E-A7D707B9FB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7C17E0-A107-4DF1-AE3E-A7D707B9FB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7C17E0-A107-4DF1-AE3E-A7D707B9FB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7C17E0-A107-4DF1-AE3E-A7D707B9FB18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68B81DBD-C6A3-4A29-BA23-87A5EAA85F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B81DBD-C6A3-4A29-BA23-87A5EAA85F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B81DBD-C6A3-4A29-BA23-87A5EAA85F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B81DBD-C6A3-4A29-BA23-87A5EAA85F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BEE0D16-F06C-4FD5-959A-DEF9381EE9B8}
+	EndGlobalSection
+EndGlobal

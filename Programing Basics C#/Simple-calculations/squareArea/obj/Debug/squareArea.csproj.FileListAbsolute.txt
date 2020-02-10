@@ -1,0 +1,6 @@
+D:\C_sharp\Simple-calculations\squareArea\bin\Debug\squareArea.exe.config
+D:\C_sharp\Simple-calculations\squareArea\bin\Debug\squareArea.exe
+D:\C_sharp\Simple-calculations\squareArea\bin\Debug\squareArea.pdb
+D:\C_sharp\Simple-calculations\squareArea\obj\Debug\squareArea.csproj.CoreCompileInputs.cache
+D:\C_sharp\Simple-calculations\squareArea\obj\Debug\squareArea.exe
+D:\C_sharp\Simple-calculations\squareArea\obj\Debug\squareArea.pdb

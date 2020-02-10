@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\mid\Hello, France\bin\Debug\netcoreapp2.1\Hello, France.deps.json
+D:\Softuni\Technology Fundamentals C#\mid\Hello, France\bin\Debug\netcoreapp2.1\Hello, France.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\mid\Hello, France\bin\Debug\netcoreapp2.1\Hello, France.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\mid\Hello, France\bin\Debug\netcoreapp2.1\Hello, France.dll
+D:\Softuni\Technology Fundamentals C#\mid\Hello, France\bin\Debug\netcoreapp2.1\Hello, France.pdb
+D:\Softuni\Technology Fundamentals C#\mid\Hello, France\obj\Debug\netcoreapp2.1\Hello, France.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\mid\Hello, France\obj\Debug\netcoreapp2.1\Hello, France.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Hello, France\obj\Debug\netcoreapp2.1\Hello, France.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Hello, France\obj\Debug\netcoreapp2.1\Hello, France.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\mid\Hello, France\obj\Debug\netcoreapp2.1\Hello, France.dll
+D:\Softuni\Technology Fundamentals C#\mid\Hello, France\obj\Debug\netcoreapp2.1\Hello, France.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\exam prep\Song Encryption\bin\Debug\netcoreapp2.1\Song Encryption.deps.json
+D:\Softuni\Technology Fundamentals C#\exam prep\Song Encryption\bin\Debug\netcoreapp2.1\Song Encryption.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\exam prep\Song Encryption\bin\Debug\netcoreapp2.1\Song Encryption.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\exam prep\Song Encryption\bin\Debug\netcoreapp2.1\Song Encryption.dll
+D:\Softuni\Technology Fundamentals C#\exam prep\Song Encryption\bin\Debug\netcoreapp2.1\Song Encryption.pdb
+D:\Softuni\Technology Fundamentals C#\exam prep\Song Encryption\obj\Debug\netcoreapp2.1\Song Encryption.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\exam prep\Song Encryption\obj\Debug\netcoreapp2.1\Song Encryption.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\exam prep\Song Encryption\obj\Debug\netcoreapp2.1\Song Encryption.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\exam prep\Song Encryption\obj\Debug\netcoreapp2.1\Song Encryption.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\exam prep\Song Encryption\obj\Debug\netcoreapp2.1\Song Encryption.dll
+D:\Softuni\Technology Fundamentals C#\exam prep\Song Encryption\obj\Debug\netcoreapp2.1\Song Encryption.pdb

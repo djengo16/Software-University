@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListManipulatorBasic\bin\Debug\netcoreapp2.1\ListManipulatorBasic.deps.json
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListManipulatorBasic\bin\Debug\netcoreapp2.1\ListManipulatorBasic.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListManipulatorBasic\bin\Debug\netcoreapp2.1\ListManipulatorBasic.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListManipulatorBasic\bin\Debug\netcoreapp2.1\ListManipulatorBasic.dll
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListManipulatorBasic\bin\Debug\netcoreapp2.1\ListManipulatorBasic.pdb
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListManipulatorBasic\obj\Debug\netcoreapp2.1\ListManipulatorBasic.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListManipulatorBasic\obj\Debug\netcoreapp2.1\ListManipulatorBasic.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListManipulatorBasic\obj\Debug\netcoreapp2.1\ListManipulatorBasic.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListManipulatorBasic\obj\Debug\netcoreapp2.1\ListManipulatorBasic.dll
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListManipulatorBasic\obj\Debug\netcoreapp2.1\ListManipulatorBasic.pdb

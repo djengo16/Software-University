@@ -1,0 +1,7 @@
+D:\C_sharp\for-LooP-exercise\OddEvenPosition\bin\Debug\OddEvenPosition.exe.config
+D:\C_sharp\for-LooP-exercise\OddEvenPosition\bin\Debug\OddEvenPosition.exe
+D:\C_sharp\for-LooP-exercise\OddEvenPosition\bin\Debug\OddEvenPosition.pdb
+D:\C_sharp\for-LooP-exercise\OddEvenPosition\obj\Debug\OddEvenPosition.csprojAssemblyReference.cache
+D:\C_sharp\for-LooP-exercise\OddEvenPosition\obj\Debug\OddEvenPosition.csproj.CoreCompileInputs.cache
+D:\C_sharp\for-LooP-exercise\OddEvenPosition\obj\Debug\OddEvenPosition.exe
+D:\C_sharp\for-LooP-exercise\OddEvenPosition\obj\Debug\OddEvenPosition.pdb

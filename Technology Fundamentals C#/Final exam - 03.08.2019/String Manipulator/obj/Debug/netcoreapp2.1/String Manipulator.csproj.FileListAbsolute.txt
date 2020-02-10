@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\String Manipulator\bin\Debug\netcoreapp2.1\String Manipulator.deps.json
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\String Manipulator\bin\Debug\netcoreapp2.1\String Manipulator.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\String Manipulator\bin\Debug\netcoreapp2.1\String Manipulator.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\String Manipulator\bin\Debug\netcoreapp2.1\String Manipulator.dll
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\String Manipulator\bin\Debug\netcoreapp2.1\String Manipulator.pdb
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\String Manipulator\obj\Debug\netcoreapp2.1\String Manipulator.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\String Manipulator\obj\Debug\netcoreapp2.1\String Manipulator.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\String Manipulator\obj\Debug\netcoreapp2.1\String Manipulator.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\String Manipulator\obj\Debug\netcoreapp2.1\String Manipulator.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\String Manipulator\obj\Debug\netcoreapp2.1\String Manipulator.dll
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\String Manipulator\obj\Debug\netcoreapp2.1\String Manipulator.pdb

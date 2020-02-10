@@ -1,0 +1,7 @@
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\bin\Debug\Nested_Loops_More_Exercise.exe.config
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\bin\Debug\Nested_Loops_More_Exercise.exe
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\bin\Debug\Nested_Loops_More_Exercise.pdb
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\obj\Debug\Nested_Loops_More_Exercise.csprojAssemblyReference.cache
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\obj\Debug\Nested_Loops_More_Exercise.csproj.CoreCompileInputs.cache
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\obj\Debug\Nested_Loops_More_Exercise.exe
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\obj\Debug\Nested_Loops_More_Exercise.pdb

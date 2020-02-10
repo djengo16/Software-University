@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Card Games\bin\Debug\netcoreapp2.1\Card Games.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Card Games\bin\Debug\netcoreapp2.1\Card Games.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Card Games\bin\Debug\netcoreapp2.1\Card Games.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Card Games\bin\Debug\netcoreapp2.1\Card Games.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Card Games\bin\Debug\netcoreapp2.1\Card Games.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Card Games\obj\Debug\netcoreapp2.1\Card Games.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Card Games\obj\Debug\netcoreapp2.1\Card Games.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Card Games\obj\Debug\netcoreapp2.1\Card Games.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Card Games\obj\Debug\netcoreapp2.1\Card Games.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Card Games\obj\Debug\netcoreapp2.1\Card Games.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Card Games\obj\Debug\netcoreapp2.1\Card Games.csprojAssemblyReference.cache

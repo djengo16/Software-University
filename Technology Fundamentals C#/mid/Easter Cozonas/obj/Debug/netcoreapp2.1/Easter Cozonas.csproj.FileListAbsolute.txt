@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\mid\Easter Cozonas\bin\Debug\netcoreapp2.1\Easter Cozonas.deps.json
+D:\Softuni\Technology Fundamentals C#\mid\Easter Cozonas\bin\Debug\netcoreapp2.1\Easter Cozonas.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\mid\Easter Cozonas\bin\Debug\netcoreapp2.1\Easter Cozonas.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\mid\Easter Cozonas\bin\Debug\netcoreapp2.1\Easter Cozonas.dll
+D:\Softuni\Technology Fundamentals C#\mid\Easter Cozonas\bin\Debug\netcoreapp2.1\Easter Cozonas.pdb
+D:\Softuni\Technology Fundamentals C#\mid\Easter Cozonas\obj\Debug\netcoreapp2.1\Easter Cozonas.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\mid\Easter Cozonas\obj\Debug\netcoreapp2.1\Easter Cozonas.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Easter Cozonas\obj\Debug\netcoreapp2.1\Easter Cozonas.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Easter Cozonas\obj\Debug\netcoreapp2.1\Easter Cozonas.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\mid\Easter Cozonas\obj\Debug\netcoreapp2.1\Easter Cozonas.dll
+D:\Softuni\Technology Fundamentals C#\mid\Easter Cozonas\obj\Debug\netcoreapp2.1\Easter Cozonas.pdb

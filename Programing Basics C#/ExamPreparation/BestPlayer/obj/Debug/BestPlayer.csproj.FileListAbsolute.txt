@@ -1,0 +1,7 @@
+D:\C_sharp\ExamPreparation\BestPlayer\bin\Debug\BestPlayer.exe.config
+D:\C_sharp\ExamPreparation\BestPlayer\bin\Debug\BestPlayer.exe
+D:\C_sharp\ExamPreparation\BestPlayer\bin\Debug\BestPlayer.pdb
+D:\C_sharp\ExamPreparation\BestPlayer\obj\Debug\BestPlayer.csprojAssemblyReference.cache
+D:\C_sharp\ExamPreparation\BestPlayer\obj\Debug\BestPlayer.csproj.CoreCompileInputs.cache
+D:\C_sharp\ExamPreparation\BestPlayer\obj\Debug\BestPlayer.exe
+D:\C_sharp\ExamPreparation\BestPlayer\obj\Debug\BestPlayer.pdb

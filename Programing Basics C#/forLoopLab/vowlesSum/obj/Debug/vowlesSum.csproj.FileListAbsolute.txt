@@ -1,0 +1,7 @@
+D:\C_sharp\forLoopLab\vowlesSum\bin\Debug\vowlesSum.exe.config
+D:\C_sharp\forLoopLab\vowlesSum\bin\Debug\vowlesSum.exe
+D:\C_sharp\forLoopLab\vowlesSum\bin\Debug\vowlesSum.pdb
+D:\C_sharp\forLoopLab\vowlesSum\obj\Debug\vowlesSum.csprojAssemblyReference.cache
+D:\C_sharp\forLoopLab\vowlesSum\obj\Debug\vowlesSum.csproj.CoreCompileInputs.cache
+D:\C_sharp\forLoopLab\vowlesSum\obj\Debug\vowlesSum.exe
+D:\C_sharp\forLoopLab\vowlesSum\obj\Debug\vowlesSum.pdb

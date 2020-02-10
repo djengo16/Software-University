@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\PrintAndSum\bin\Debug\netcoreapp2.1\PrintAndSum.deps.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\PrintAndSum\bin\Debug\netcoreapp2.1\PrintAndSum.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\PrintAndSum\bin\Debug\netcoreapp2.1\PrintAndSum.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\PrintAndSum\bin\Debug\netcoreapp2.1\PrintAndSum.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\PrintAndSum\bin\Debug\netcoreapp2.1\PrintAndSum.pdb
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\PrintAndSum\obj\Debug\netcoreapp2.1\PrintAndSum.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\PrintAndSum\obj\Debug\netcoreapp2.1\PrintAndSum.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\PrintAndSum\obj\Debug\netcoreapp2.1\PrintAndSum.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\PrintAndSum\obj\Debug\netcoreapp2.1\PrintAndSum.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\PrintAndSum\obj\Debug\netcoreapp2.1\PrintAndSum.pdb

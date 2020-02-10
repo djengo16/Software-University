@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Vowels_Counter\bin\Debug\netcoreapp2.1\Vowels_Counter.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Vowels_Counter\bin\Debug\netcoreapp2.1\Vowels_Counter.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Vowels_Counter\bin\Debug\netcoreapp2.1\Vowels_Counter.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Vowels_Counter\bin\Debug\netcoreapp2.1\Vowels_Counter.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Vowels_Counter\bin\Debug\netcoreapp2.1\Vowels_Counter.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Vowels_Counter\obj\Debug\netcoreapp2.1\Vowels_Counter.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Vowels_Counter\obj\Debug\netcoreapp2.1\Vowels_Counter.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Vowels_Counter\obj\Debug\netcoreapp2.1\Vowels_Counter.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Vowels_Counter\obj\Debug\netcoreapp2.1\Vowels_Counter.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Vowels_Counter\obj\Debug\netcoreapp2.1\Vowels_Counter.pdb

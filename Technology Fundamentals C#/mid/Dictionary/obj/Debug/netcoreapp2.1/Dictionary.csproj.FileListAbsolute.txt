@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\mid\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.deps.json
+D:\Softuni\Technology Fundamentals C#\mid\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\mid\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\mid\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.dll
+D:\Softuni\Technology Fundamentals C#\mid\Dictionary\bin\Debug\netcoreapp2.1\Dictionary.pdb
+D:\Softuni\Technology Fundamentals C#\mid\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\mid\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\mid\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.dll
+D:\Softuni\Technology Fundamentals C#\mid\Dictionary\obj\Debug\netcoreapp2.1\Dictionary.pdb

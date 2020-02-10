@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Regex\Match Full Name\bin\Debug\netcoreapp2.1\Match Full Name.deps.json
+D:\Softuni\Technology Fundamentals C#\Regex\Match Full Name\bin\Debug\netcoreapp2.1\Match Full Name.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Regex\Match Full Name\bin\Debug\netcoreapp2.1\Match Full Name.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Regex\Match Full Name\bin\Debug\netcoreapp2.1\Match Full Name.dll
+D:\Softuni\Technology Fundamentals C#\Regex\Match Full Name\bin\Debug\netcoreapp2.1\Match Full Name.pdb
+D:\Softuni\Technology Fundamentals C#\Regex\Match Full Name\obj\Debug\netcoreapp2.1\Match Full Name.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Match Full Name\obj\Debug\netcoreapp2.1\Match Full Name.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Match Full Name\obj\Debug\netcoreapp2.1\Match Full Name.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Match Full Name\obj\Debug\netcoreapp2.1\Match Full Name.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Regex\Match Full Name\obj\Debug\netcoreapp2.1\Match Full Name.dll
+D:\Softuni\Technology Fundamentals C#\Regex\Match Full Name\obj\Debug\netcoreapp2.1\Match Full Name.pdb

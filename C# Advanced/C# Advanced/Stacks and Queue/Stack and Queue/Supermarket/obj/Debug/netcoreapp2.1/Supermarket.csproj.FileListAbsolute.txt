@@ -1,0 +1,21 @@
+D:\Softuni\C# Advanced\C# Advanced\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.dll
+D:\Softuni\C# Advanced\C# Advanced\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.pdb
+D:\Softuni\C# Advanced\C# Advanced\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.dll
+D:\Softuni\C# Advanced\C# Advanced\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.pdb
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.dll
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.pdb
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.dll
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.pdb

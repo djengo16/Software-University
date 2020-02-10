@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\3.Recursive fibunacci\bin\Debug\netcoreapp2.1\3.Recursive fibunacci.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\3.Recursive fibunacci\bin\Debug\netcoreapp2.1\3.Recursive fibunacci.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\3.Recursive fibunacci\bin\Debug\netcoreapp2.1\3.Recursive fibunacci.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\3.Recursive fibunacci\bin\Debug\netcoreapp2.1\3.Recursive fibunacci.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\3.Recursive fibunacci\bin\Debug\netcoreapp2.1\3.Recursive fibunacci.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\3.Recursive fibunacci\obj\Debug\netcoreapp2.1\3.Recursive fibunacci.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\3.Recursive fibunacci\obj\Debug\netcoreapp2.1\3.Recursive fibunacci.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\3.Recursive fibunacci\obj\Debug\netcoreapp2.1\3.Recursive fibunacci.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\3.Recursive fibunacci\obj\Debug\netcoreapp2.1\3.Recursive fibunacci.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\3.Recursive fibunacci\obj\Debug\netcoreapp2.1\3.Recursive fibunacci.pdb

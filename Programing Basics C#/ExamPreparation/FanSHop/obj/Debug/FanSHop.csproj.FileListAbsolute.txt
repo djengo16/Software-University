@@ -1,0 +1,7 @@
+D:\C_sharp\ExamPreparation\FanSHop\bin\Debug\FanSHop.exe.config
+D:\C_sharp\ExamPreparation\FanSHop\bin\Debug\FanSHop.exe
+D:\C_sharp\ExamPreparation\FanSHop\bin\Debug\FanSHop.pdb
+D:\C_sharp\ExamPreparation\FanSHop\obj\Debug\FanSHop.csprojAssemblyReference.cache
+D:\C_sharp\ExamPreparation\FanSHop\obj\Debug\FanSHop.csproj.CoreCompileInputs.cache
+D:\C_sharp\ExamPreparation\FanSHop\obj\Debug\FanSHop.exe
+D:\C_sharp\ExamPreparation\FanSHop\obj\Debug\FanSHop.pdb

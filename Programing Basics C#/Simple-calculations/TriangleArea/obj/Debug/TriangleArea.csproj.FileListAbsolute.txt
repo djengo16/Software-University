@@ -1,0 +1,7 @@
+D:\C_sharp\Simple-calculations\TriangleArea\bin\Debug\TriangleArea.exe.config
+D:\C_sharp\Simple-calculations\TriangleArea\bin\Debug\TriangleArea.exe
+D:\C_sharp\Simple-calculations\TriangleArea\bin\Debug\TriangleArea.pdb
+D:\C_sharp\Simple-calculations\TriangleArea\obj\Debug\TriangleArea.csprojAssemblyReference.cache
+D:\C_sharp\Simple-calculations\TriangleArea\obj\Debug\TriangleArea.csproj.CoreCompileInputs.cache
+D:\C_sharp\Simple-calculations\TriangleArea\obj\Debug\TriangleArea.exe
+D:\C_sharp\Simple-calculations\TriangleArea\obj\Debug\TriangleArea.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# Advanced\Sum matrix columns\bin\Debug\netcoreapp2.1\Sum matrix columns.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Sum matrix columns\bin\Debug\netcoreapp2.1\Sum matrix columns.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Sum matrix columns\bin\Debug\netcoreapp2.1\Sum matrix columns.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Sum matrix columns\bin\Debug\netcoreapp2.1\Sum matrix columns.dll
+D:\Softuni\C# Advanced\C# Advanced\Sum matrix columns\bin\Debug\netcoreapp2.1\Sum matrix columns.pdb
+D:\Softuni\C# Advanced\C# Advanced\Sum matrix columns\obj\Debug\netcoreapp2.1\Sum matrix columns.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# Advanced\Sum matrix columns\obj\Debug\netcoreapp2.1\Sum matrix columns.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Sum matrix columns\obj\Debug\netcoreapp2.1\Sum matrix columns.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Sum matrix columns\obj\Debug\netcoreapp2.1\Sum matrix columns.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Sum matrix columns\obj\Debug\netcoreapp2.1\Sum matrix columns.dll
+D:\Softuni\C# Advanced\C# Advanced\Sum matrix columns\obj\Debug\netcoreapp2.1\Sum matrix columns.pdb

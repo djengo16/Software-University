@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Tripple of latin letters\bin\Debug\netcoreapp2.1\Tripple of latin letters.deps.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Tripple of latin letters\bin\Debug\netcoreapp2.1\Tripple of latin letters.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Tripple of latin letters\bin\Debug\netcoreapp2.1\Tripple of latin letters.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Tripple of latin letters\bin\Debug\netcoreapp2.1\Tripple of latin letters.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Tripple of latin letters\bin\Debug\netcoreapp2.1\Tripple of latin letters.pdb
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Tripple of latin letters\obj\Debug\netcoreapp2.1\Tripple of latin letters.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Tripple of latin letters\obj\Debug\netcoreapp2.1\Tripple of latin letters.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Tripple of latin letters\obj\Debug\netcoreapp2.1\Tripple of latin letters.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Tripple of latin letters\obj\Debug\netcoreapp2.1\Tripple of latin letters.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Tripple of latin letters\obj\Debug\netcoreapp2.1\Tripple of latin letters.pdb
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Tripple of latin letters\obj\Debug\netcoreapp2.1\Tripple of latin letters.csprojAssemblyReference.cache

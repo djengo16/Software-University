@@ -1,0 +1,6 @@
+D:\C_sharp\Simple-calculations\trapezoidArea\bin\Debug\trapezoidArea.exe.config
+D:\C_sharp\Simple-calculations\trapezoidArea\bin\Debug\trapezoidArea.exe
+D:\C_sharp\Simple-calculations\trapezoidArea\bin\Debug\trapezoidArea.pdb
+D:\C_sharp\Simple-calculations\trapezoidArea\obj\Debug\trapezoidArea.csproj.CoreCompileInputs.cache
+D:\C_sharp\Simple-calculations\trapezoidArea\obj\Debug\trapezoidArea.exe
+D:\C_sharp\Simple-calculations\trapezoidArea\obj\Debug\trapezoidArea.pdb

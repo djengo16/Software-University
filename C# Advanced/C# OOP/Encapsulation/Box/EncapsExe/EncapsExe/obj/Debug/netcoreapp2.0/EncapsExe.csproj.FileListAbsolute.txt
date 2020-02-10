@@ -1,0 +1,22 @@
+C:\Users\Радоев\source\repos\EncapsExe\EncapsExe\bin\Debug\netcoreapp2.0\EncapsExe.deps.json
+C:\Users\Радоев\source\repos\EncapsExe\EncapsExe\bin\Debug\netcoreapp2.0\EncapsExe.runtimeconfig.json
+C:\Users\Радоев\source\repos\EncapsExe\EncapsExe\bin\Debug\netcoreapp2.0\EncapsExe.runtimeconfig.dev.json
+C:\Users\Радоев\source\repos\EncapsExe\EncapsExe\bin\Debug\netcoreapp2.0\EncapsExe.dll
+C:\Users\Радоев\source\repos\EncapsExe\EncapsExe\bin\Debug\netcoreapp2.0\EncapsExe.pdb
+C:\Users\Радоев\source\repos\EncapsExe\EncapsExe\obj\Debug\netcoreapp2.0\EncapsExe.csprojResolveAssemblyReference.cache
+C:\Users\Радоев\source\repos\EncapsExe\EncapsExe\obj\Debug\netcoreapp2.0\EncapsExe.csproj.CoreCompileInputs.cache
+C:\Users\Радоев\source\repos\EncapsExe\EncapsExe\obj\Debug\netcoreapp2.0\EncapsExe.AssemblyInfoInputs.cache
+C:\Users\Радоев\source\repos\EncapsExe\EncapsExe\obj\Debug\netcoreapp2.0\EncapsExe.AssemblyInfo.cs
+C:\Users\Радоев\source\repos\EncapsExe\EncapsExe\obj\Debug\netcoreapp2.0\EncapsExe.dll
+C:\Users\Радоев\source\repos\EncapsExe\EncapsExe\obj\Debug\netcoreapp2.0\EncapsExe.pdb
+D:\C# OOP Basics\EncapsExe\EncapsExe\bin\Debug\netcoreapp2.0\EncapsExe.deps.json
+D:\C# OOP Basics\EncapsExe\EncapsExe\bin\Debug\netcoreapp2.0\EncapsExe.runtimeconfig.json
+D:\C# OOP Basics\EncapsExe\EncapsExe\bin\Debug\netcoreapp2.0\EncapsExe.runtimeconfig.dev.json
+D:\C# OOP Basics\EncapsExe\EncapsExe\bin\Debug\netcoreapp2.0\EncapsExe.dll
+D:\C# OOP Basics\EncapsExe\EncapsExe\bin\Debug\netcoreapp2.0\EncapsExe.pdb
+D:\C# OOP Basics\EncapsExe\EncapsExe\obj\Debug\netcoreapp2.0\EncapsExe.csprojResolveAssemblyReference.cache
+D:\C# OOP Basics\EncapsExe\EncapsExe\obj\Debug\netcoreapp2.0\EncapsExe.csproj.CoreCompileInputs.cache
+D:\C# OOP Basics\EncapsExe\EncapsExe\obj\Debug\netcoreapp2.0\EncapsExe.AssemblyInfoInputs.cache
+D:\C# OOP Basics\EncapsExe\EncapsExe\obj\Debug\netcoreapp2.0\EncapsExe.AssemblyInfo.cs
+D:\C# OOP Basics\EncapsExe\EncapsExe\obj\Debug\netcoreapp2.0\EncapsExe.dll
+D:\C# OOP Basics\EncapsExe\EncapsExe\obj\Debug\netcoreapp2.0\EncapsExe.pdb

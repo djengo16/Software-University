@@ -1,0 +1,7 @@
+D:\C_sharp\numbersEnding_In-7\bin\Debug\numbersEnding_In-7.exe.config
+D:\C_sharp\numbersEnding_In-7\bin\Debug\numbersEnding_In-7.exe
+D:\C_sharp\numbersEnding_In-7\bin\Debug\numbersEnding_In-7.pdb
+D:\C_sharp\numbersEnding_In-7\obj\Debug\numbersEnding_In-7.csprojAssemblyReference.cache
+D:\C_sharp\numbersEnding_In-7\obj\Debug\numbersEnding_In-7.csproj.CoreCompileInputs.cache
+D:\C_sharp\numbersEnding_In-7\obj\Debug\numbersEnding_In-7.exe
+D:\C_sharp\numbersEnding_In-7\obj\Debug\numbersEnding_In-7.pdb

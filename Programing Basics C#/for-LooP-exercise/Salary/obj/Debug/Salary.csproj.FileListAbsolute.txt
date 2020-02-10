@@ -1,0 +1,7 @@
+D:\C_sharp\for-LooP-exercise\Salary\bin\Debug\Salary.exe.config
+D:\C_sharp\for-LooP-exercise\Salary\bin\Debug\Salary.exe
+D:\C_sharp\for-LooP-exercise\Salary\bin\Debug\Salary.pdb
+D:\C_sharp\for-LooP-exercise\Salary\obj\Debug\Salary.csprojAssemblyReference.cache
+D:\C_sharp\for-LooP-exercise\Salary\obj\Debug\Salary.csproj.CoreCompileInputs.cache
+D:\C_sharp\for-LooP-exercise\Salary\obj\Debug\Salary.exe
+D:\C_sharp\for-LooP-exercise\Salary\obj\Debug\Salary.pdb

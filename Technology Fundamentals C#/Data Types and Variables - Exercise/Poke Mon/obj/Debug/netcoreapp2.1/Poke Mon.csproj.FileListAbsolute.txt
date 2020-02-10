@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\bin\Debug\netcoreapp2.1\Poke Mon.deps.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\bin\Debug\netcoreapp2.1\Poke Mon.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\bin\Debug\netcoreapp2.1\Poke Mon.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\bin\Debug\netcoreapp2.1\Poke Mon.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\bin\Debug\netcoreapp2.1\Poke Mon.pdb
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\obj\Debug\netcoreapp2.1\Poke Mon.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\obj\Debug\netcoreapp2.1\Poke Mon.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\obj\Debug\netcoreapp2.1\Poke Mon.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\obj\Debug\netcoreapp2.1\Poke Mon.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Poke Mon\obj\Debug\netcoreapp2.1\Poke Mon.pdb

@@ -1,0 +1,7 @@
+D:\C_sharp\while-Loop.Exercise\trip\bin\Debug\trip.exe.config
+D:\C_sharp\while-Loop.Exercise\trip\bin\Debug\trip.exe
+D:\C_sharp\while-Loop.Exercise\trip\bin\Debug\trip.pdb
+D:\C_sharp\while-Loop.Exercise\trip\obj\Debug\trip.csprojAssemblyReference.cache
+D:\C_sharp\while-Loop.Exercise\trip\obj\Debug\trip.csproj.CoreCompileInputs.cache
+D:\C_sharp\while-Loop.Exercise\trip\obj\Debug\trip.exe
+D:\C_sharp\while-Loop.Exercise\trip\obj\Debug\trip.pdb

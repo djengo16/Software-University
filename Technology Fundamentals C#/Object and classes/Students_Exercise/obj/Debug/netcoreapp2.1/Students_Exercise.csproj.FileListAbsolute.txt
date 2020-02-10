@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Object and classes\Students_Exercise\bin\Debug\netcoreapp2.1\Students_Exercise.deps.json
+D:\Softuni\Technology Fundamentals C#\Object and classes\Students_Exercise\bin\Debug\netcoreapp2.1\Students_Exercise.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Object and classes\Students_Exercise\bin\Debug\netcoreapp2.1\Students_Exercise.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Object and classes\Students_Exercise\bin\Debug\netcoreapp2.1\Students_Exercise.dll
+D:\Softuni\Technology Fundamentals C#\Object and classes\Students_Exercise\bin\Debug\netcoreapp2.1\Students_Exercise.pdb
+D:\Softuni\Technology Fundamentals C#\Object and classes\Students_Exercise\obj\Debug\netcoreapp2.1\Students_Exercise.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Object and classes\Students_Exercise\obj\Debug\netcoreapp2.1\Students_Exercise.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Object and classes\Students_Exercise\obj\Debug\netcoreapp2.1\Students_Exercise.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Object and classes\Students_Exercise\obj\Debug\netcoreapp2.1\Students_Exercise.dll
+D:\Softuni\Technology Fundamentals C#\Object and classes\Students_Exercise\obj\Debug\netcoreapp2.1\Students_Exercise.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# OOP\Encapsulation\Encapsulation - Exercise\Encapsulation - Exercise\Shopping Spree\bin\Debug\netcoreapp2.1\Shopping Spree.deps.json
+D:\Softuni\C# Advanced\C# OOP\Encapsulation\Encapsulation - Exercise\Encapsulation - Exercise\Shopping Spree\bin\Debug\netcoreapp2.1\Shopping Spree.runtimeconfig.json
+D:\Softuni\C# Advanced\C# OOP\Encapsulation\Encapsulation - Exercise\Encapsulation - Exercise\Shopping Spree\bin\Debug\netcoreapp2.1\Shopping Spree.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# OOP\Encapsulation\Encapsulation - Exercise\Encapsulation - Exercise\Shopping Spree\bin\Debug\netcoreapp2.1\Shopping Spree.dll
+D:\Softuni\C# Advanced\C# OOP\Encapsulation\Encapsulation - Exercise\Encapsulation - Exercise\Shopping Spree\bin\Debug\netcoreapp2.1\Shopping Spree.pdb
+D:\Softuni\C# Advanced\C# OOP\Encapsulation\Encapsulation - Exercise\Encapsulation - Exercise\Shopping Spree\obj\Debug\netcoreapp2.1\Shopping Spree.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# OOP\Encapsulation\Encapsulation - Exercise\Encapsulation - Exercise\Shopping Spree\obj\Debug\netcoreapp2.1\Shopping Spree.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# OOP\Encapsulation\Encapsulation - Exercise\Encapsulation - Exercise\Shopping Spree\obj\Debug\netcoreapp2.1\Shopping Spree.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# OOP\Encapsulation\Encapsulation - Exercise\Encapsulation - Exercise\Shopping Spree\obj\Debug\netcoreapp2.1\Shopping Spree.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# OOP\Encapsulation\Encapsulation - Exercise\Encapsulation - Exercise\Shopping Spree\obj\Debug\netcoreapp2.1\Shopping Spree.dll
+D:\Softuni\C# Advanced\C# OOP\Encapsulation\Encapsulation - Exercise\Encapsulation - Exercise\Shopping Spree\obj\Debug\netcoreapp2.1\Shopping Spree.pdb

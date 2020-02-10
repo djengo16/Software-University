@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\check\obj\Debug\netcoreapp2.1\check.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\check\obj\Debug\netcoreapp2.1\check.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\check\obj\Debug\netcoreapp2.1\check.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\check\bin\Debug\netcoreapp2.1\check.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\check\bin\Debug\netcoreapp2.1\check.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\check\bin\Debug\netcoreapp2.1\check.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\check\bin\Debug\netcoreapp2.1\check.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\check\bin\Debug\netcoreapp2.1\check.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\check\obj\Debug\netcoreapp2.1\check.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\check\obj\Debug\netcoreapp2.1\check.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\check\obj\Debug\netcoreapp2.1\check.csprojAssemblyReference.cache

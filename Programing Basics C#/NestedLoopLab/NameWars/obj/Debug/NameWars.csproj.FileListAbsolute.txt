@@ -1,0 +1,7 @@
+D:\C_sharp\NestedLoopLab\NameWars\bin\Debug\NameWars.exe.config
+D:\C_sharp\NestedLoopLab\NameWars\bin\Debug\NameWars.exe
+D:\C_sharp\NestedLoopLab\NameWars\bin\Debug\NameWars.pdb
+D:\C_sharp\NestedLoopLab\NameWars\obj\Debug\NameWars.csprojAssemblyReference.cache
+D:\C_sharp\NestedLoopLab\NameWars\obj\Debug\NameWars.csproj.CoreCompileInputs.cache
+D:\C_sharp\NestedLoopLab\NameWars\obj\Debug\NameWars.exe
+D:\C_sharp\NestedLoopLab\NameWars\obj\Debug\NameWars.pdb

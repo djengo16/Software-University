@@ -1,0 +1,7 @@
+D:\C_sharp\ExamPreparation\FootballSouvenirs\bin\Debug\FootballSouvenirs.exe.config
+D:\C_sharp\ExamPreparation\FootballSouvenirs\bin\Debug\FootballSouvenirs.exe
+D:\C_sharp\ExamPreparation\FootballSouvenirs\bin\Debug\FootballSouvenirs.pdb
+D:\C_sharp\ExamPreparation\FootballSouvenirs\obj\Debug\FootballSouvenirs.csprojAssemblyReference.cache
+D:\C_sharp\ExamPreparation\FootballSouvenirs\obj\Debug\FootballSouvenirs.csproj.CoreCompileInputs.cache
+D:\C_sharp\ExamPreparation\FootballSouvenirs\obj\Debug\FootballSouvenirs.exe
+D:\C_sharp\ExamPreparation\FootballSouvenirs\obj\Debug\FootballSouvenirs.pdb

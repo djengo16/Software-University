@@ -1,0 +1,8 @@
+Successfully added player of type Beginner with username: handyUser33
+Successfully added player of type Advanced with username: cool11
+Successfully added player of type Beginner with username: testUser
+Successfully added player of type Advanced with username: goro5
+Successfully added player of type Beginner with username: ivan12
+Successfully added player of type Advanced with username: goerge00
+Successfully added player of type Advanced with username: userUser
+Successfully added player of type Beginner with username: fakeAccount123

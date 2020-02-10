@@ -1,0 +1,6 @@
+D:\C_sharp\forLoopLab\LEFTorrRIGHT\bin\Debug\LEFTorrRIGHT.exe.config
+D:\C_sharp\forLoopLab\LEFTorrRIGHT\bin\Debug\LEFTorrRIGHT.exe
+D:\C_sharp\forLoopLab\LEFTorrRIGHT\bin\Debug\LEFTorrRIGHT.pdb
+D:\C_sharp\forLoopLab\LEFTorrRIGHT\obj\Debug\LEFTorrRIGHT.csproj.CoreCompileInputs.cache
+D:\C_sharp\forLoopLab\LEFTorrRIGHT\obj\Debug\LEFTorrRIGHT.exe
+D:\C_sharp\forLoopLab\LEFTorrRIGHT\obj\Debug\LEFTorrRIGHT.pdb

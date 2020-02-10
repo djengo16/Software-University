@@ -1,0 +1,7 @@
+D:\C_sharp\while\Graduation-2\obj\Debug\Graduation-2.csprojAssemblyReference.cache
+D:\C_sharp\while\Graduation-2\obj\Debug\Graduation-2.csproj.CoreCompileInputs.cache
+D:\C_sharp\while\Graduation-2\bin\Debug\Graduation-2.exe.config
+D:\C_sharp\while\Graduation-2\bin\Debug\Graduation-2.exe
+D:\C_sharp\while\Graduation-2\bin\Debug\Graduation-2.pdb
+D:\C_sharp\while\Graduation-2\obj\Debug\Graduation-2.exe
+D:\C_sharp\while\Graduation-2\obj\Debug\Graduation-2.pdb

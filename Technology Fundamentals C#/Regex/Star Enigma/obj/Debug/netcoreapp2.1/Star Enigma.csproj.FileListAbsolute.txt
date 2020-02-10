@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Regex\Star Enigma\bin\Debug\netcoreapp2.1\Star Enigma.deps.json
+D:\Softuni\Technology Fundamentals C#\Regex\Star Enigma\bin\Debug\netcoreapp2.1\Star Enigma.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Regex\Star Enigma\bin\Debug\netcoreapp2.1\Star Enigma.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Regex\Star Enigma\bin\Debug\netcoreapp2.1\Star Enigma.dll
+D:\Softuni\Technology Fundamentals C#\Regex\Star Enigma\bin\Debug\netcoreapp2.1\Star Enigma.pdb
+D:\Softuni\Technology Fundamentals C#\Regex\Star Enigma\obj\Debug\netcoreapp2.1\Star Enigma.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Star Enigma\obj\Debug\netcoreapp2.1\Star Enigma.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Star Enigma\obj\Debug\netcoreapp2.1\Star Enigma.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Regex\Star Enigma\obj\Debug\netcoreapp2.1\Star Enigma.dll
+D:\Softuni\Technology Fundamentals C#\Regex\Star Enigma\obj\Debug\netcoreapp2.1\Star Enigma.pdb
+D:\Softuni\Technology Fundamentals C#\Regex\Star Enigma\obj\Debug\netcoreapp2.1\Star Enigma.csprojAssemblyReference.cache

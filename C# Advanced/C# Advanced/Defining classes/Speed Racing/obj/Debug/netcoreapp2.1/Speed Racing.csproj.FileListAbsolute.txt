@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Speed Racing\bin\Debug\netcoreapp2.1\Speed Racing.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Speed Racing\bin\Debug\netcoreapp2.1\Speed Racing.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Speed Racing\bin\Debug\netcoreapp2.1\Speed Racing.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Speed Racing\bin\Debug\netcoreapp2.1\Speed Racing.dll
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Speed Racing\bin\Debug\netcoreapp2.1\Speed Racing.pdb
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Speed Racing\obj\Debug\netcoreapp2.1\Speed Racing.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Speed Racing\obj\Debug\netcoreapp2.1\Speed Racing.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Speed Racing\obj\Debug\netcoreapp2.1\Speed Racing.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Speed Racing\obj\Debug\netcoreapp2.1\Speed Racing.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Speed Racing\obj\Debug\netcoreapp2.1\Speed Racing.dll
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Speed Racing\obj\Debug\netcoreapp2.1\Speed Racing.pdb

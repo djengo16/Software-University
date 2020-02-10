@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\UpperOrLower\bin\Debug\netcoreapp2.1\UpperOrLower.deps.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\UpperOrLower\bin\Debug\netcoreapp2.1\UpperOrLower.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\UpperOrLower\bin\Debug\netcoreapp2.1\UpperOrLower.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\UpperOrLower\bin\Debug\netcoreapp2.1\UpperOrLower.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\UpperOrLower\bin\Debug\netcoreapp2.1\UpperOrLower.pdb
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\UpperOrLower\obj\Debug\netcoreapp2.1\UpperOrLower.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\UpperOrLower\obj\Debug\netcoreapp2.1\UpperOrLower.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\UpperOrLower\obj\Debug\netcoreapp2.1\UpperOrLower.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\UpperOrLower\obj\Debug\netcoreapp2.1\UpperOrLower.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Lab\UpperOrLower\obj\Debug\netcoreapp2.1\UpperOrLower.pdb

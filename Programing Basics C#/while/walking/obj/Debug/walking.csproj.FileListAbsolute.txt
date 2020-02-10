@@ -1,0 +1,7 @@
+D:\C_sharp\while\walking\bin\Debug\walking.exe.config
+D:\C_sharp\while\walking\bin\Debug\walking.exe
+D:\C_sharp\while\walking\bin\Debug\walking.pdb
+D:\C_sharp\while\walking\obj\Debug\walking.csprojAssemblyReference.cache
+D:\C_sharp\while\walking\obj\Debug\walking.csproj.CoreCompileInputs.cache
+D:\C_sharp\while\walking\obj\Debug\walking.exe
+D:\C_sharp\while\walking\obj\Debug\walking.pdb

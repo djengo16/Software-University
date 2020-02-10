@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Equal_Sum\bin\Debug\netcoreapp2.1\Equal_Sum.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Equal_Sum\bin\Debug\netcoreapp2.1\Equal_Sum.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Equal_Sum\bin\Debug\netcoreapp2.1\Equal_Sum.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Equal_Sum\bin\Debug\netcoreapp2.1\Equal_Sum.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Equal_Sum\bin\Debug\netcoreapp2.1\Equal_Sum.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Equal_Sum\obj\Debug\netcoreapp2.1\Equal_Sum.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Equal_Sum\obj\Debug\netcoreapp2.1\Equal_Sum.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Equal_Sum\obj\Debug\netcoreapp2.1\Equal_Sum.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Equal_Sum\obj\Debug\netcoreapp2.1\Equal_Sum.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Equal_Sum\obj\Debug\netcoreapp2.1\Equal_Sum.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Equal_Sum\obj\Debug\netcoreapp2.1\Equal_Sum.pdb

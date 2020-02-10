@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Spice must flow\bin\Debug\netcoreapp2.1\Spice must flow.deps.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Spice must flow\bin\Debug\netcoreapp2.1\Spice must flow.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Spice must flow\bin\Debug\netcoreapp2.1\Spice must flow.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Spice must flow\bin\Debug\netcoreapp2.1\Spice must flow.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Spice must flow\bin\Debug\netcoreapp2.1\Spice must flow.pdb
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Spice must flow\obj\Debug\netcoreapp2.1\Spice must flow.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Spice must flow\obj\Debug\netcoreapp2.1\Spice must flow.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Spice must flow\obj\Debug\netcoreapp2.1\Spice must flow.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Spice must flow\obj\Debug\netcoreapp2.1\Spice must flow.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Spice must flow\obj\Debug\netcoreapp2.1\Spice must flow.pdb

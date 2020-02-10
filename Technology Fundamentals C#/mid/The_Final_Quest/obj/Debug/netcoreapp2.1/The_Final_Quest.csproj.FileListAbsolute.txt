@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\mid\The_Final_Quest\bin\Debug\netcoreapp2.1\The_Final_Quest.deps.json
+D:\Softuni\Technology Fundamentals C#\mid\The_Final_Quest\bin\Debug\netcoreapp2.1\The_Final_Quest.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\mid\The_Final_Quest\bin\Debug\netcoreapp2.1\The_Final_Quest.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\mid\The_Final_Quest\bin\Debug\netcoreapp2.1\The_Final_Quest.dll
+D:\Softuni\Technology Fundamentals C#\mid\The_Final_Quest\bin\Debug\netcoreapp2.1\The_Final_Quest.pdb
+D:\Softuni\Technology Fundamentals C#\mid\The_Final_Quest\obj\Debug\netcoreapp2.1\The_Final_Quest.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\mid\The_Final_Quest\obj\Debug\netcoreapp2.1\The_Final_Quest.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\The_Final_Quest\obj\Debug\netcoreapp2.1\The_Final_Quest.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\The_Final_Quest\obj\Debug\netcoreapp2.1\The_Final_Quest.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\mid\The_Final_Quest\obj\Debug\netcoreapp2.1\The_Final_Quest.dll
+D:\Softuni\Technology Fundamentals C#\mid\The_Final_Quest\obj\Debug\netcoreapp2.1\The_Final_Quest.pdb

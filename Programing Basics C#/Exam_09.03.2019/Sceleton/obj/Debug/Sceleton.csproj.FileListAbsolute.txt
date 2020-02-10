@@ -1,0 +1,6 @@
+D:\C_sharp\Exam_09.03.2019\Sceleton\bin\Debug\Sceleton.exe.config
+D:\C_sharp\Exam_09.03.2019\Sceleton\bin\Debug\Sceleton.exe
+D:\C_sharp\Exam_09.03.2019\Sceleton\bin\Debug\Sceleton.pdb
+D:\C_sharp\Exam_09.03.2019\Sceleton\obj\Debug\Sceleton.csproj.CoreCompileInputs.cache
+D:\C_sharp\Exam_09.03.2019\Sceleton\obj\Debug\Sceleton.exe
+D:\C_sharp\Exam_09.03.2019\Sceleton\obj\Debug\Sceleton.pdb

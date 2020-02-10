@@ -1,0 +1,7 @@
+D:\C_sharp\speed\bin\Debug\speed.exe.config
+D:\C_sharp\speed\bin\Debug\speed.exe
+D:\C_sharp\speed\bin\Debug\speed.pdb
+D:\C_sharp\speed\obj\Debug\speed.csproj.CoreCompileInputs.cache
+D:\C_sharp\speed\obj\Debug\speed.exe
+D:\C_sharp\speed\obj\Debug\speed.pdb
+D:\C_sharp\speed\obj\Debug\speed.csprojAssemblyReference.cache

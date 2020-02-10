@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\asfsdg\bin\Debug\netcoreapp2.1\asfsdg.deps.json
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\asfsdg\bin\Debug\netcoreapp2.1\asfsdg.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\asfsdg\bin\Debug\netcoreapp2.1\asfsdg.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\asfsdg\bin\Debug\netcoreapp2.1\asfsdg.dll
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\asfsdg\bin\Debug\netcoreapp2.1\asfsdg.pdb
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\asfsdg\obj\Debug\netcoreapp2.1\asfsdg.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\asfsdg\obj\Debug\netcoreapp2.1\asfsdg.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\asfsdg\obj\Debug\netcoreapp2.1\asfsdg.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\asfsdg\obj\Debug\netcoreapp2.1\asfsdg.dll
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\asfsdg\obj\Debug\netcoreapp2.1\asfsdg.pdb

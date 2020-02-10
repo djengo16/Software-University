@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Text processing\Letters Changes Numbers\bin\Debug\netcoreapp2.1\Letters Changes Numbers.deps.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Letters Changes Numbers\bin\Debug\netcoreapp2.1\Letters Changes Numbers.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Letters Changes Numbers\bin\Debug\netcoreapp2.1\Letters Changes Numbers.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Letters Changes Numbers\bin\Debug\netcoreapp2.1\Letters Changes Numbers.dll
+D:\Softuni\Technology Fundamentals C#\Text processing\Letters Changes Numbers\bin\Debug\netcoreapp2.1\Letters Changes Numbers.pdb
+D:\Softuni\Technology Fundamentals C#\Text processing\Letters Changes Numbers\obj\Debug\netcoreapp2.1\Letters Changes Numbers.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Text processing\Letters Changes Numbers\obj\Debug\netcoreapp2.1\Letters Changes Numbers.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Text processing\Letters Changes Numbers\obj\Debug\netcoreapp2.1\Letters Changes Numbers.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Text processing\Letters Changes Numbers\obj\Debug\netcoreapp2.1\Letters Changes Numbers.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Text processing\Letters Changes Numbers\obj\Debug\netcoreapp2.1\Letters Changes Numbers.dll
+D:\Softuni\Technology Fundamentals C#\Text processing\Letters Changes Numbers\obj\Debug\netcoreapp2.1\Letters Changes Numbers.pdb

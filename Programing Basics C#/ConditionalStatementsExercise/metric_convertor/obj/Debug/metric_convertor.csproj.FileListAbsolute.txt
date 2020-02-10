@@ -1,0 +1,7 @@
+D:\C_sharp\metric_convertor\bin\Debug\metric_convertor.exe.config
+D:\C_sharp\metric_convertor\bin\Debug\metric_convertor.exe
+D:\C_sharp\metric_convertor\bin\Debug\metric_convertor.pdb
+D:\C_sharp\metric_convertor\obj\Debug\metric_convertor.csprojAssemblyReference.cache
+D:\C_sharp\metric_convertor\obj\Debug\metric_convertor.csproj.CoreCompileInputs.cache
+D:\C_sharp\metric_convertor\obj\Debug\metric_convertor.exe
+D:\C_sharp\metric_convertor\obj\Debug\metric_convertor.pdb

@@ -1,0 +1,7 @@
+D:\C_sharp\while-Loop.Exercise\cake\bin\Debug\cake.exe.config
+D:\C_sharp\while-Loop.Exercise\cake\bin\Debug\cake.exe
+D:\C_sharp\while-Loop.Exercise\cake\bin\Debug\cake.pdb
+D:\C_sharp\while-Loop.Exercise\cake\obj\Debug\cake.csprojAssemblyReference.cache
+D:\C_sharp\while-Loop.Exercise\cake\obj\Debug\cake.csproj.CoreCompileInputs.cache
+D:\C_sharp\while-Loop.Exercise\cake\obj\Debug\cake.exe
+D:\C_sharp\while-Loop.Exercise\cake\obj\Debug\cake.pdb

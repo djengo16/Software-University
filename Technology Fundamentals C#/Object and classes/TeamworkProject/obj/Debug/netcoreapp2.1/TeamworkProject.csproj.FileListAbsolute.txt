@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Object and classes\TeamworkProject\bin\Debug\netcoreapp2.1\TeamworkProject.deps.json
+D:\Softuni\Technology Fundamentals C#\Object and classes\TeamworkProject\bin\Debug\netcoreapp2.1\TeamworkProject.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Object and classes\TeamworkProject\bin\Debug\netcoreapp2.1\TeamworkProject.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Object and classes\TeamworkProject\bin\Debug\netcoreapp2.1\TeamworkProject.dll
+D:\Softuni\Technology Fundamentals C#\Object and classes\TeamworkProject\bin\Debug\netcoreapp2.1\TeamworkProject.pdb
+D:\Softuni\Technology Fundamentals C#\Object and classes\TeamworkProject\obj\Debug\netcoreapp2.1\TeamworkProject.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Object and classes\TeamworkProject\obj\Debug\netcoreapp2.1\TeamworkProject.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Object and classes\TeamworkProject\obj\Debug\netcoreapp2.1\TeamworkProject.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Object and classes\TeamworkProject\obj\Debug\netcoreapp2.1\TeamworkProject.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Object and classes\TeamworkProject\obj\Debug\netcoreapp2.1\TeamworkProject.dll
+D:\Softuni\Technology Fundamentals C#\Object and classes\TeamworkProject\obj\Debug\netcoreapp2.1\TeamworkProject.pdb

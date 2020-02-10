@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Text processing\Caesar Cipher\bin\Debug\netcoreapp2.1\Caesar Cipher.deps.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Caesar Cipher\bin\Debug\netcoreapp2.1\Caesar Cipher.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Caesar Cipher\bin\Debug\netcoreapp2.1\Caesar Cipher.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Caesar Cipher\bin\Debug\netcoreapp2.1\Caesar Cipher.dll
+D:\Softuni\Technology Fundamentals C#\Text processing\Caesar Cipher\bin\Debug\netcoreapp2.1\Caesar Cipher.pdb
+D:\Softuni\Technology Fundamentals C#\Text processing\Caesar Cipher\obj\Debug\netcoreapp2.1\Caesar Cipher.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Text processing\Caesar Cipher\obj\Debug\netcoreapp2.1\Caesar Cipher.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Text processing\Caesar Cipher\obj\Debug\netcoreapp2.1\Caesar Cipher.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Text processing\Caesar Cipher\obj\Debug\netcoreapp2.1\Caesar Cipher.dll
+D:\Softuni\Technology Fundamentals C#\Text processing\Caesar Cipher\obj\Debug\netcoreapp2.1\Caesar Cipher.pdb
+D:\Softuni\Technology Fundamentals C#\Text processing\Caesar Cipher\obj\Debug\netcoreapp2.1\Caesar Cipher.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Regex\Nether Realms\bin\Debug\netcoreapp2.1\Nether Realms.deps.json
+D:\Softuni\Technology Fundamentals C#\Regex\Nether Realms\bin\Debug\netcoreapp2.1\Nether Realms.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Regex\Nether Realms\bin\Debug\netcoreapp2.1\Nether Realms.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Regex\Nether Realms\bin\Debug\netcoreapp2.1\Nether Realms.dll
+D:\Softuni\Technology Fundamentals C#\Regex\Nether Realms\bin\Debug\netcoreapp2.1\Nether Realms.pdb
+D:\Softuni\Technology Fundamentals C#\Regex\Nether Realms\obj\Debug\netcoreapp2.1\Nether Realms.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Nether Realms\obj\Debug\netcoreapp2.1\Nether Realms.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Nether Realms\obj\Debug\netcoreapp2.1\Nether Realms.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Nether Realms\obj\Debug\netcoreapp2.1\Nether Realms.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Regex\Nether Realms\obj\Debug\netcoreapp2.1\Nether Realms.dll
+D:\Softuni\Technology Fundamentals C#\Regex\Nether Realms\obj\Debug\netcoreapp2.1\Nether Realms.pdb

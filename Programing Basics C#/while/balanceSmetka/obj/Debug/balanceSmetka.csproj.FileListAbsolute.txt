@@ -1,0 +1,7 @@
+D:\C_sharp\while\balanceSmetka\bin\Debug\balanceSmetka.exe.config
+D:\C_sharp\while\balanceSmetka\bin\Debug\balanceSmetka.exe
+D:\C_sharp\while\balanceSmetka\bin\Debug\balanceSmetka.pdb
+D:\C_sharp\while\balanceSmetka\obj\Debug\balanceSmetka.csprojAssemblyReference.cache
+D:\C_sharp\while\balanceSmetka\obj\Debug\balanceSmetka.csproj.CoreCompileInputs.cache
+D:\C_sharp\while\balanceSmetka\obj\Debug\balanceSmetka.exe
+D:\C_sharp\while\balanceSmetka\obj\Debug\balanceSmetka.pdb

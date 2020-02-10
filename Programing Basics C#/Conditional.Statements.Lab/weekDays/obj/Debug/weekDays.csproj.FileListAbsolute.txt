@@ -1,0 +1,6 @@
+D:\C_sharp\weekDays\bin\Debug\weekDays.exe.config
+D:\C_sharp\weekDays\bin\Debug\weekDays.exe
+D:\C_sharp\weekDays\bin\Debug\weekDays.pdb
+D:\C_sharp\weekDays\obj\Debug\weekDays.csproj.CoreCompileInputs.cache
+D:\C_sharp\weekDays\obj\Debug\weekDays.exe
+D:\C_sharp\weekDays\obj\Debug\weekDays.pdb

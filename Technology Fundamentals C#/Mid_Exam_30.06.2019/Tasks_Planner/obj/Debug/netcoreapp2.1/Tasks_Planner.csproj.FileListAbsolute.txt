@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Tasks_Planner\bin\Debug\netcoreapp2.1\Tasks_Planner.deps.json
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Tasks_Planner\bin\Debug\netcoreapp2.1\Tasks_Planner.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Tasks_Planner\bin\Debug\netcoreapp2.1\Tasks_Planner.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Tasks_Planner\bin\Debug\netcoreapp2.1\Tasks_Planner.dll
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Tasks_Planner\bin\Debug\netcoreapp2.1\Tasks_Planner.pdb
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Tasks_Planner\obj\Debug\netcoreapp2.1\Tasks_Planner.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Tasks_Planner\obj\Debug\netcoreapp2.1\Tasks_Planner.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Tasks_Planner\obj\Debug\netcoreapp2.1\Tasks_Planner.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Tasks_Planner\obj\Debug\netcoreapp2.1\Tasks_Planner.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Tasks_Planner\obj\Debug\netcoreapp2.1\Tasks_Planner.dll
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\Tasks_Planner\obj\Debug\netcoreapp2.1\Tasks_Planner.pdb

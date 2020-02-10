@@ -1,0 +1,7 @@
+D:\C_sharp\OperationBtwnNumbers\bin\Debug\OperationBtwnNumbers.exe.config
+D:\C_sharp\OperationBtwnNumbers\bin\Debug\OperationBtwnNumbers.exe
+D:\C_sharp\OperationBtwnNumbers\bin\Debug\OperationBtwnNumbers.pdb
+D:\C_sharp\OperationBtwnNumbers\obj\Debug\OperationBtwnNumbers.csproj.CoreCompileInputs.cache
+D:\C_sharp\OperationBtwnNumbers\obj\Debug\OperationBtwnNumbers.exe
+D:\C_sharp\OperationBtwnNumbers\obj\Debug\OperationBtwnNumbers.pdb
+D:\C_sharp\OperationBtwnNumbers\obj\Debug\OperationBtwnNumbers.csprojAssemblyReference.cache

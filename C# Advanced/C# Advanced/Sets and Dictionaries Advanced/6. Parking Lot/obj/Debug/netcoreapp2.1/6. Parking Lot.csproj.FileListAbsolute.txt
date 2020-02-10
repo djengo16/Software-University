@@ -1,0 +1,10 @@
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\6. Parking Lot\bin\Debug\netcoreapp2.1\6. Parking Lot.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\6. Parking Lot\bin\Debug\netcoreapp2.1\6. Parking Lot.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\6. Parking Lot\bin\Debug\netcoreapp2.1\6. Parking Lot.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\6. Parking Lot\bin\Debug\netcoreapp2.1\6. Parking Lot.dll
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\6. Parking Lot\bin\Debug\netcoreapp2.1\6. Parking Lot.pdb
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\6. Parking Lot\obj\Debug\netcoreapp2.1\6. Parking Lot.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\6. Parking Lot\obj\Debug\netcoreapp2.1\6. Parking Lot.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\6. Parking Lot\obj\Debug\netcoreapp2.1\6. Parking Lot.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\6. Parking Lot\obj\Debug\netcoreapp2.1\6. Parking Lot.dll
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\6. Parking Lot\obj\Debug\netcoreapp2.1\6. Parking Lot.pdb

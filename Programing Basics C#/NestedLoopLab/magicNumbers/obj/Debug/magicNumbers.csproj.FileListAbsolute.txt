@@ -1,0 +1,7 @@
+D:\C_sharp\NestedLoopLab\magicNumbers\bin\Debug\magicNumbers.exe.config
+D:\C_sharp\NestedLoopLab\magicNumbers\bin\Debug\magicNumbers.exe
+D:\C_sharp\NestedLoopLab\magicNumbers\bin\Debug\magicNumbers.pdb
+D:\C_sharp\NestedLoopLab\magicNumbers\obj\Debug\magicNumbers.csprojAssemblyReference.cache
+D:\C_sharp\NestedLoopLab\magicNumbers\obj\Debug\magicNumbers.csproj.CoreCompileInputs.cache
+D:\C_sharp\NestedLoopLab\magicNumbers\obj\Debug\magicNumbers.exe
+D:\C_sharp\NestedLoopLab\magicNumbers\obj\Debug\magicNumbers.pdb

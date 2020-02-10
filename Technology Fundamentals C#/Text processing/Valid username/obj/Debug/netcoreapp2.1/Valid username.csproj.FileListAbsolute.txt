@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Text processing\Valid username\bin\Debug\netcoreapp2.1\Valid username.deps.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Valid username\bin\Debug\netcoreapp2.1\Valid username.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Valid username\bin\Debug\netcoreapp2.1\Valid username.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Valid username\bin\Debug\netcoreapp2.1\Valid username.dll
+D:\Softuni\Technology Fundamentals C#\Text processing\Valid username\bin\Debug\netcoreapp2.1\Valid username.pdb
+D:\Softuni\Technology Fundamentals C#\Text processing\Valid username\obj\Debug\netcoreapp2.1\Valid username.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Text processing\Valid username\obj\Debug\netcoreapp2.1\Valid username.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Text processing\Valid username\obj\Debug\netcoreapp2.1\Valid username.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Text processing\Valid username\obj\Debug\netcoreapp2.1\Valid username.dll
+D:\Softuni\Technology Fundamentals C#\Text processing\Valid username\obj\Debug\netcoreapp2.1\Valid username.pdb

@@ -1,0 +1,7 @@
+D:\C_sharp\NestedLoopLab\Combinations\bin\Debug\Combinations.exe.config
+D:\C_sharp\NestedLoopLab\Combinations\bin\Debug\Combinations.exe
+D:\C_sharp\NestedLoopLab\Combinations\bin\Debug\Combinations.pdb
+D:\C_sharp\NestedLoopLab\Combinations\obj\Debug\Combinations.csprojAssemblyReference.cache
+D:\C_sharp\NestedLoopLab\Combinations\obj\Debug\Combinations.csproj.CoreCompileInputs.cache
+D:\C_sharp\NestedLoopLab\Combinations\obj\Debug\Combinations.exe
+D:\C_sharp\NestedLoopLab\Combinations\obj\Debug\Combinations.pdb

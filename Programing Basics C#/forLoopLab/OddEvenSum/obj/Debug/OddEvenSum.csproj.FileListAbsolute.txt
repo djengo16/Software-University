@@ -1,0 +1,6 @@
+D:\C_sharp\forLoopLab\OddEvenSum\bin\Debug\OddEvenSum.exe.config
+D:\C_sharp\forLoopLab\OddEvenSum\bin\Debug\OddEvenSum.exe
+D:\C_sharp\forLoopLab\OddEvenSum\bin\Debug\OddEvenSum.pdb
+D:\C_sharp\forLoopLab\OddEvenSum\obj\Debug\OddEvenSum.csproj.CoreCompileInputs.cache
+D:\C_sharp\forLoopLab\OddEvenSum\obj\Debug\OddEvenSum.exe
+D:\C_sharp\forLoopLab\OddEvenSum\obj\Debug\OddEvenSum.pdb

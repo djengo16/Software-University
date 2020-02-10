@@ -1,0 +1,7 @@
+D:\C_sharp\while-Loop.Exercise\Exam.Preparation\bin\Debug\Exam.Preparation.exe.config
+D:\C_sharp\while-Loop.Exercise\Exam.Preparation\bin\Debug\Exam.Preparation.exe
+D:\C_sharp\while-Loop.Exercise\Exam.Preparation\bin\Debug\Exam.Preparation.pdb
+D:\C_sharp\while-Loop.Exercise\Exam.Preparation\obj\Debug\Exam.Preparation.csproj.CoreCompileInputs.cache
+D:\C_sharp\while-Loop.Exercise\Exam.Preparation\obj\Debug\Exam.Preparation.exe
+D:\C_sharp\while-Loop.Exercise\Exam.Preparation\obj\Debug\Exam.Preparation.pdb
+D:\C_sharp\while-Loop.Exercise\Exam.Preparation\obj\Debug\Exam.Preparation.csprojAssemblyReference.cache

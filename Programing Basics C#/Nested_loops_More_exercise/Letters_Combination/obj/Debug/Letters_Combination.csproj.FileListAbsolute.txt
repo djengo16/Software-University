@@ -1,0 +1,7 @@
+D:\C_sharp\Nested_loops_More_exercise\Letters_Combination\bin\Debug\Letters_Combination.exe.config
+D:\C_sharp\Nested_loops_More_exercise\Letters_Combination\bin\Debug\Letters_Combination.exe
+D:\C_sharp\Nested_loops_More_exercise\Letters_Combination\bin\Debug\Letters_Combination.pdb
+D:\C_sharp\Nested_loops_More_exercise\Letters_Combination\obj\Debug\Letters_Combination.csprojAssemblyReference.cache
+D:\C_sharp\Nested_loops_More_exercise\Letters_Combination\obj\Debug\Letters_Combination.csproj.CoreCompileInputs.cache
+D:\C_sharp\Nested_loops_More_exercise\Letters_Combination\obj\Debug\Letters_Combination.exe
+D:\C_sharp\Nested_loops_More_exercise\Letters_Combination\obj\Debug\Letters_Combination.pdb

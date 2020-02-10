@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Pokemon_Don't_Go\bin\Debug\netcoreapp2.1\Pokemon_Don't_Go.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Pokemon_Don't_Go\bin\Debug\netcoreapp2.1\Pokemon_Don't_Go.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Pokemon_Don't_Go\bin\Debug\netcoreapp2.1\Pokemon_Don't_Go.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Pokemon_Don't_Go\bin\Debug\netcoreapp2.1\Pokemon_Don't_Go.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Pokemon_Don't_Go\bin\Debug\netcoreapp2.1\Pokemon_Don't_Go.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Pokemon_Don't_Go\obj\Debug\netcoreapp2.1\Pokemon_Don't_Go.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Pokemon_Don't_Go\obj\Debug\netcoreapp2.1\Pokemon_Don't_Go.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Pokemon_Don't_Go\obj\Debug\netcoreapp2.1\Pokemon_Don't_Go.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Pokemon_Don't_Go\obj\Debug\netcoreapp2.1\Pokemon_Don't_Go.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Pokemon_Don't_Go\obj\Debug\netcoreapp2.1\Pokemon_Don't_Go.pdb

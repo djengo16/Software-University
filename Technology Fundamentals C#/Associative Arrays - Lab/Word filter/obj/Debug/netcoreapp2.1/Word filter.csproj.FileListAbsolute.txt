@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Word filter\bin\Debug\netcoreapp2.1\Word filter.deps.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Word filter\bin\Debug\netcoreapp2.1\Word filter.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Word filter\bin\Debug\netcoreapp2.1\Word filter.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Word filter\bin\Debug\netcoreapp2.1\Word filter.dll
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Word filter\bin\Debug\netcoreapp2.1\Word filter.pdb
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Word filter\obj\Debug\netcoreapp2.1\Word filter.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Word filter\obj\Debug\netcoreapp2.1\Word filter.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Word filter\obj\Debug\netcoreapp2.1\Word filter.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Word filter\obj\Debug\netcoreapp2.1\Word filter.dll
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Word filter\obj\Debug\netcoreapp2.1\Word filter.pdb

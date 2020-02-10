@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\mid\Party_Profit\bin\Debug\netcoreapp2.1\Party_Profit.deps.json
+D:\Softuni\Technology Fundamentals C#\mid\Party_Profit\bin\Debug\netcoreapp2.1\Party_Profit.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\mid\Party_Profit\bin\Debug\netcoreapp2.1\Party_Profit.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\mid\Party_Profit\bin\Debug\netcoreapp2.1\Party_Profit.dll
+D:\Softuni\Technology Fundamentals C#\mid\Party_Profit\bin\Debug\netcoreapp2.1\Party_Profit.pdb
+D:\Softuni\Technology Fundamentals C#\mid\Party_Profit\obj\Debug\netcoreapp2.1\Party_Profit.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Party_Profit\obj\Debug\netcoreapp2.1\Party_Profit.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Party_Profit\obj\Debug\netcoreapp2.1\Party_Profit.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\mid\Party_Profit\obj\Debug\netcoreapp2.1\Party_Profit.dll
+D:\Softuni\Technology Fundamentals C#\mid\Party_Profit\obj\Debug\netcoreapp2.1\Party_Profit.pdb

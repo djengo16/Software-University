@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\5. Record Unique Names\bin\Debug\netcoreapp2.1\5. Record Unique Names.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\5. Record Unique Names\bin\Debug\netcoreapp2.1\5. Record Unique Names.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\5. Record Unique Names\bin\Debug\netcoreapp2.1\5. Record Unique Names.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\5. Record Unique Names\bin\Debug\netcoreapp2.1\5. Record Unique Names.dll
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\5. Record Unique Names\bin\Debug\netcoreapp2.1\5. Record Unique Names.pdb
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\5. Record Unique Names\obj\Debug\netcoreapp2.1\5. Record Unique Names.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\5. Record Unique Names\obj\Debug\netcoreapp2.1\5. Record Unique Names.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\5. Record Unique Names\obj\Debug\netcoreapp2.1\5. Record Unique Names.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\5. Record Unique Names\obj\Debug\netcoreapp2.1\5. Record Unique Names.dll
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\5. Record Unique Names\obj\Debug\netcoreapp2.1\5. Record Unique Names.pdb
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\5. Record Unique Names\obj\Debug\netcoreapp2.1\5. Record Unique Names.csprojAssemblyReference.cache

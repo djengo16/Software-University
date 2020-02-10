@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\A Miner Task\bin\Debug\netcoreapp2.1\A Miner Task.deps.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\A Miner Task\bin\Debug\netcoreapp2.1\A Miner Task.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\A Miner Task\bin\Debug\netcoreapp2.1\A Miner Task.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\A Miner Task\bin\Debug\netcoreapp2.1\A Miner Task.dll
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\A Miner Task\bin\Debug\netcoreapp2.1\A Miner Task.pdb
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\A Miner Task\obj\Debug\netcoreapp2.1\A Miner Task.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\A Miner Task\obj\Debug\netcoreapp2.1\A Miner Task.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\A Miner Task\obj\Debug\netcoreapp2.1\A Miner Task.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\A Miner Task\obj\Debug\netcoreapp2.1\A Miner Task.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\A Miner Task\obj\Debug\netcoreapp2.1\A Miner Task.dll
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\A Miner Task\obj\Debug\netcoreapp2.1\A Miner Task.pdb

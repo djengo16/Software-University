@@ -1,0 +1,7 @@
+D:\C_sharp\Simple-calculations\Birthday\bin\Debug\Birthday.exe.config
+D:\C_sharp\Simple-calculations\Birthday\bin\Debug\Birthday.exe
+D:\C_sharp\Simple-calculations\Birthday\bin\Debug\Birthday.pdb
+D:\C_sharp\Simple-calculations\Birthday\obj\Debug\Birthday.csprojAssemblyReference.cache
+D:\C_sharp\Simple-calculations\Birthday\obj\Debug\Birthday.csproj.CoreCompileInputs.cache
+D:\C_sharp\Simple-calculations\Birthday\obj\Debug\Birthday.exe
+D:\C_sharp\Simple-calculations\Birthday\obj\Debug\Birthday.pdb

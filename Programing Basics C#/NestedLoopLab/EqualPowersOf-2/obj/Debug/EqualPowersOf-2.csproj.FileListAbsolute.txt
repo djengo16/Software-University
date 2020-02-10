@@ -1,0 +1,6 @@
+D:\C_sharp\NestedLoopLab\EqualPowersOf-2\bin\Debug\EqualPowersOf-2.exe.config
+D:\C_sharp\NestedLoopLab\EqualPowersOf-2\bin\Debug\EqualPowersOf-2.exe
+D:\C_sharp\NestedLoopLab\EqualPowersOf-2\bin\Debug\EqualPowersOf-2.pdb
+D:\C_sharp\NestedLoopLab\EqualPowersOf-2\obj\Debug\EqualPowersOf-2.csproj.CoreCompileInputs.cache
+D:\C_sharp\NestedLoopLab\EqualPowersOf-2\obj\Debug\EqualPowersOf-2.exe
+D:\C_sharp\NestedLoopLab\EqualPowersOf-2\obj\Debug\EqualPowersOf-2.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Lady bugs\bin\Debug\netcoreapp2.1\Lady bugs.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Lady bugs\bin\Debug\netcoreapp2.1\Lady bugs.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Lady bugs\bin\Debug\netcoreapp2.1\Lady bugs.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Lady bugs\bin\Debug\netcoreapp2.1\Lady bugs.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Lady bugs\bin\Debug\netcoreapp2.1\Lady bugs.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Lady bugs\obj\Debug\netcoreapp2.1\Lady bugs.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Lady bugs\obj\Debug\netcoreapp2.1\Lady bugs.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Lady bugs\obj\Debug\netcoreapp2.1\Lady bugs.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Lady bugs\obj\Debug\netcoreapp2.1\Lady bugs.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Lady bugs\obj\Debug\netcoreapp2.1\Lady bugs.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Lady bugs\obj\Debug\netcoreapp2.1\Lady bugs.csprojAssemblyReference.cache

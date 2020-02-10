@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Softuni Course planning\bin\Debug\netcoreapp2.1\Softuni Course planning.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Softuni Course planning\bin\Debug\netcoreapp2.1\Softuni Course planning.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Softuni Course planning\bin\Debug\netcoreapp2.1\Softuni Course planning.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Softuni Course planning\bin\Debug\netcoreapp2.1\Softuni Course planning.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Softuni Course planning\bin\Debug\netcoreapp2.1\Softuni Course planning.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Softuni Course planning\obj\Debug\netcoreapp2.1\Softuni Course planning.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Softuni Course planning\obj\Debug\netcoreapp2.1\Softuni Course planning.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Softuni Course planning\obj\Debug\netcoreapp2.1\Softuni Course planning.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Softuni Course planning\obj\Debug\netcoreapp2.1\Softuni Course planning.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Softuni Course planning\obj\Debug\netcoreapp2.1\Softuni Course planning.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Softuni Course planning\obj\Debug\netcoreapp2.1\Softuni Course planning.pdb

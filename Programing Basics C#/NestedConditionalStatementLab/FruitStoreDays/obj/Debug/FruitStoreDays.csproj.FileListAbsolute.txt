@@ -1,0 +1,7 @@
+D:\C_sharp\FruitStoreDays\bin\Debug\FruitStoreDays.exe.config
+D:\C_sharp\FruitStoreDays\bin\Debug\FruitStoreDays.exe
+D:\C_sharp\FruitStoreDays\bin\Debug\FruitStoreDays.pdb
+D:\C_sharp\FruitStoreDays\obj\Debug\FruitStoreDays.csprojAssemblyReference.cache
+D:\C_sharp\FruitStoreDays\obj\Debug\FruitStoreDays.csproj.CoreCompileInputs.cache
+D:\C_sharp\FruitStoreDays\obj\Debug\FruitStoreDays.exe
+D:\C_sharp\FruitStoreDays\obj\Debug\FruitStoreDays.pdb

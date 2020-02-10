@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Middle Characters\bin\Debug\netcoreapp2.1\Middle Characters.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Middle Characters\bin\Debug\netcoreapp2.1\Middle Characters.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Middle Characters\bin\Debug\netcoreapp2.1\Middle Characters.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Middle Characters\bin\Debug\netcoreapp2.1\Middle Characters.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Middle Characters\bin\Debug\netcoreapp2.1\Middle Characters.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Middle Characters\obj\Debug\netcoreapp2.1\Middle Characters.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Middle Characters\obj\Debug\netcoreapp2.1\Middle Characters.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Middle Characters\obj\Debug\netcoreapp2.1\Middle Characters.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Middle Characters\obj\Debug\netcoreapp2.1\Middle Characters.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Middle Characters\obj\Debug\netcoreapp2.1\Middle Characters.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Middle Characters\obj\Debug\netcoreapp2.1\Middle Characters.pdb

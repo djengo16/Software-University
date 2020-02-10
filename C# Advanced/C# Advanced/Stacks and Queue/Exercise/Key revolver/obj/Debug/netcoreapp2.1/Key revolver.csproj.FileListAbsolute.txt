@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Key revolver\bin\Debug\netcoreapp2.1\Key revolver.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Key revolver\bin\Debug\netcoreapp2.1\Key revolver.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Key revolver\bin\Debug\netcoreapp2.1\Key revolver.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Key revolver\bin\Debug\netcoreapp2.1\Key revolver.dll
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Key revolver\bin\Debug\netcoreapp2.1\Key revolver.pdb
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Key revolver\obj\Debug\netcoreapp2.1\Key revolver.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Key revolver\obj\Debug\netcoreapp2.1\Key revolver.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Key revolver\obj\Debug\netcoreapp2.1\Key revolver.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Key revolver\obj\Debug\netcoreapp2.1\Key revolver.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Key revolver\obj\Debug\netcoreapp2.1\Key revolver.dll
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Key revolver\obj\Debug\netcoreapp2.1\Key revolver.pdb

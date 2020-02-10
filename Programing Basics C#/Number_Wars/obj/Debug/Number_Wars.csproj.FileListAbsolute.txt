@@ -1,0 +1,7 @@
+D:\C_sharp\Number_Wars\bin\Debug\Number_Wars.exe.config
+D:\C_sharp\Number_Wars\bin\Debug\Number_Wars.exe
+D:\C_sharp\Number_Wars\bin\Debug\Number_Wars.pdb
+D:\C_sharp\Number_Wars\obj\Debug\Number_Wars.csprojAssemblyReference.cache
+D:\C_sharp\Number_Wars\obj\Debug\Number_Wars.csproj.CoreCompileInputs.cache
+D:\C_sharp\Number_Wars\obj\Debug\Number_Wars.exe
+D:\C_sharp\Number_Wars\obj\Debug\Number_Wars.pdb

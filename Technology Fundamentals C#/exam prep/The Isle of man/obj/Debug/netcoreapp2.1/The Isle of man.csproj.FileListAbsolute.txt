@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\exam prep\The Isle of man\bin\Debug\netcoreapp2.1\The Isle of man.deps.json
+D:\Softuni\Technology Fundamentals C#\exam prep\The Isle of man\bin\Debug\netcoreapp2.1\The Isle of man.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\exam prep\The Isle of man\bin\Debug\netcoreapp2.1\The Isle of man.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\exam prep\The Isle of man\bin\Debug\netcoreapp2.1\The Isle of man.dll
+D:\Softuni\Technology Fundamentals C#\exam prep\The Isle of man\bin\Debug\netcoreapp2.1\The Isle of man.pdb
+D:\Softuni\Technology Fundamentals C#\exam prep\The Isle of man\obj\Debug\netcoreapp2.1\The Isle of man.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\exam prep\The Isle of man\obj\Debug\netcoreapp2.1\The Isle of man.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\exam prep\The Isle of man\obj\Debug\netcoreapp2.1\The Isle of man.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\exam prep\The Isle of man\obj\Debug\netcoreapp2.1\The Isle of man.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\exam prep\The Isle of man\obj\Debug\netcoreapp2.1\The Isle of man.dll
+D:\Softuni\Technology Fundamentals C#\exam prep\The Isle of man\obj\Debug\netcoreapp2.1\The Isle of man.pdb

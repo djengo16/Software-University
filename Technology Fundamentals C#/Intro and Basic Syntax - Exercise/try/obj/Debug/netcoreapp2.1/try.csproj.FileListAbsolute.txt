@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\try\obj\Debug\netcoreapp2.1\try.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\try\obj\Debug\netcoreapp2.1\try.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\try\obj\Debug\netcoreapp2.1\try.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\try\bin\Debug\netcoreapp2.1\try.deps.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\try\bin\Debug\netcoreapp2.1\try.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\try\bin\Debug\netcoreapp2.1\try.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\try\bin\Debug\netcoreapp2.1\try.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\try\bin\Debug\netcoreapp2.1\try.pdb
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\try\obj\Debug\netcoreapp2.1\try.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\try\obj\Debug\netcoreapp2.1\try.pdb
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\try\obj\Debug\netcoreapp2.1\try.csprojAssemblyReference.cache

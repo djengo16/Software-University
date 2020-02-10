@@ -1,0 +1,7 @@
+D:\C_sharp\BanskoHotel\bin\Debug\BanskoHotel.exe.config
+D:\C_sharp\BanskoHotel\bin\Debug\BanskoHotel.exe
+D:\C_sharp\BanskoHotel\bin\Debug\BanskoHotel.pdb
+D:\C_sharp\BanskoHotel\obj\Debug\BanskoHotel.csprojAssemblyReference.cache
+D:\C_sharp\BanskoHotel\obj\Debug\BanskoHotel.csproj.CoreCompileInputs.cache
+D:\C_sharp\BanskoHotel\obj\Debug\BanskoHotel.exe
+D:\C_sharp\BanskoHotel\obj\Debug\BanskoHotel.pdb

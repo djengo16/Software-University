@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Integer Operations\bin\Debug\netcoreapp2.1\Integer Operations.deps.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Integer Operations\bin\Debug\netcoreapp2.1\Integer Operations.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Integer Operations\bin\Debug\netcoreapp2.1\Integer Operations.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Integer Operations\bin\Debug\netcoreapp2.1\Integer Operations.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Integer Operations\bin\Debug\netcoreapp2.1\Integer Operations.pdb
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Integer Operations\obj\Debug\netcoreapp2.1\Integer Operations.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Integer Operations\obj\Debug\netcoreapp2.1\Integer Operations.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Integer Operations\obj\Debug\netcoreapp2.1\Integer Operations.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Integer Operations\obj\Debug\netcoreapp2.1\Integer Operations.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Integer Operations\obj\Debug\netcoreapp2.1\Integer Operations.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Integer Operations\obj\Debug\netcoreapp2.1\Integer Operations.pdb

@@ -1,0 +1,7 @@
+D:\C_sharp\clean_brothers\bin\Debug\clean_brothers.exe.config
+D:\C_sharp\clean_brothers\bin\Debug\clean_brothers.exe
+D:\C_sharp\clean_brothers\bin\Debug\clean_brothers.pdb
+D:\C_sharp\clean_brothers\obj\Debug\clean_brothers.csprojAssemblyReference.cache
+D:\C_sharp\clean_brothers\obj\Debug\clean_brothers.csproj.CoreCompileInputs.cache
+D:\C_sharp\clean_brothers\obj\Debug\clean_brothers.exe
+D:\C_sharp\clean_brothers\obj\Debug\clean_brothers.pdb

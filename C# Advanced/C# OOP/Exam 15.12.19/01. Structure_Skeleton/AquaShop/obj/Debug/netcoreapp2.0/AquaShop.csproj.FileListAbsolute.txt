@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# OOP\Exam 15.12.19\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp2.0\AquaShop.deps.json
+D:\Softuni\C# Advanced\C# OOP\Exam 15.12.19\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp2.0\AquaShop.runtimeconfig.json
+D:\Softuni\C# Advanced\C# OOP\Exam 15.12.19\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp2.0\AquaShop.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# OOP\Exam 15.12.19\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp2.0\AquaShop.dll
+D:\Softuni\C# Advanced\C# OOP\Exam 15.12.19\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp2.0\AquaShop.pdb
+D:\Softuni\C# Advanced\C# OOP\Exam 15.12.19\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp2.0\AquaShop.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# OOP\Exam 15.12.19\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp2.0\AquaShop.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# OOP\Exam 15.12.19\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp2.0\AquaShop.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# OOP\Exam 15.12.19\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp2.0\AquaShop.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# OOP\Exam 15.12.19\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp2.0\AquaShop.dll
+D:\Softuni\C# Advanced\C# OOP\Exam 15.12.19\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp2.0\AquaShop.pdb

@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Regex\Extract email\bin\Debug\netcoreapp2.1\Extract email.deps.json
+D:\Softuni\Technology Fundamentals C#\Regex\Extract email\bin\Debug\netcoreapp2.1\Extract email.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Regex\Extract email\bin\Debug\netcoreapp2.1\Extract email.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Regex\Extract email\bin\Debug\netcoreapp2.1\Extract email.dll
+D:\Softuni\Technology Fundamentals C#\Regex\Extract email\bin\Debug\netcoreapp2.1\Extract email.pdb
+D:\Softuni\Technology Fundamentals C#\Regex\Extract email\obj\Debug\netcoreapp2.1\Extract email.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Extract email\obj\Debug\netcoreapp2.1\Extract email.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Extract email\obj\Debug\netcoreapp2.1\Extract email.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Regex\Extract email\obj\Debug\netcoreapp2.1\Extract email.dll
+D:\Softuni\Technology Fundamentals C#\Regex\Extract email\obj\Debug\netcoreapp2.1\Extract email.pdb

@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\SumOfOddNumbers\bin\Debug\netcoreapp2.1\SumOfOddNumbers.deps.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\SumOfOddNumbers\bin\Debug\netcoreapp2.1\SumOfOddNumbers.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\SumOfOddNumbers\bin\Debug\netcoreapp2.1\SumOfOddNumbers.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\SumOfOddNumbers\bin\Debug\netcoreapp2.1\SumOfOddNumbers.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\SumOfOddNumbers\bin\Debug\netcoreapp2.1\SumOfOddNumbers.pdb
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\SumOfOddNumbers\obj\Debug\netcoreapp2.1\SumOfOddNumbers.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\SumOfOddNumbers\obj\Debug\netcoreapp2.1\SumOfOddNumbers.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\SumOfOddNumbers\obj\Debug\netcoreapp2.1\SumOfOddNumbers.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\SumOfOddNumbers\obj\Debug\netcoreapp2.1\SumOfOddNumbers.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\SumOfOddNumbers\obj\Debug\netcoreapp2.1\SumOfOddNumbers.pdb

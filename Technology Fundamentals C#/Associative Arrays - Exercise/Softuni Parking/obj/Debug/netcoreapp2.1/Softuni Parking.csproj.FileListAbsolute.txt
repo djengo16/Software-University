@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Softuni Parking\bin\Debug\netcoreapp2.1\Softuni Parking.deps.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Softuni Parking\bin\Debug\netcoreapp2.1\Softuni Parking.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Softuni Parking\bin\Debug\netcoreapp2.1\Softuni Parking.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Softuni Parking\bin\Debug\netcoreapp2.1\Softuni Parking.dll
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Softuni Parking\bin\Debug\netcoreapp2.1\Softuni Parking.pdb
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Softuni Parking\obj\Debug\netcoreapp2.1\Softuni Parking.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Softuni Parking\obj\Debug\netcoreapp2.1\Softuni Parking.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Softuni Parking\obj\Debug\netcoreapp2.1\Softuni Parking.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Softuni Parking\obj\Debug\netcoreapp2.1\Softuni Parking.dll
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Softuni Parking\obj\Debug\netcoreapp2.1\Softuni Parking.pdb

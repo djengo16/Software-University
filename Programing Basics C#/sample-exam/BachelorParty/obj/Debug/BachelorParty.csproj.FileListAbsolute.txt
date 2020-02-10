@@ -1,0 +1,7 @@
+D:\C_sharp\sample-exam\BachelorParty\bin\Debug\BachelorParty.exe.config
+D:\C_sharp\sample-exam\BachelorParty\bin\Debug\BachelorParty.exe
+D:\C_sharp\sample-exam\BachelorParty\bin\Debug\BachelorParty.pdb
+D:\C_sharp\sample-exam\BachelorParty\obj\Debug\BachelorParty.csprojAssemblyReference.cache
+D:\C_sharp\sample-exam\BachelorParty\obj\Debug\BachelorParty.csproj.CoreCompileInputs.cache
+D:\C_sharp\sample-exam\BachelorParty\obj\Debug\BachelorParty.exe
+D:\C_sharp\sample-exam\BachelorParty\obj\Debug\BachelorParty.pdb

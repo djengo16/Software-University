@@ -1,0 +1,7 @@
+D:\C_sharp\Simple-calculations\Greeting\bin\Debug\Greeting.exe.config
+D:\C_sharp\Simple-calculations\Greeting\bin\Debug\Greeting.exe
+D:\C_sharp\Simple-calculations\Greeting\bin\Debug\Greeting.pdb
+D:\C_sharp\Simple-calculations\Greeting\obj\Debug\Greeting.csprojAssemblyReference.cache
+D:\C_sharp\Simple-calculations\Greeting\obj\Debug\Greeting.csproj.CoreCompileInputs.cache
+D:\C_sharp\Simple-calculations\Greeting\obj\Debug\Greeting.exe
+D:\C_sharp\Simple-calculations\Greeting\obj\Debug\Greeting.pdb

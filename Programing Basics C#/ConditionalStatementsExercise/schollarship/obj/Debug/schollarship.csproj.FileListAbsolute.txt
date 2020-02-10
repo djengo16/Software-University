@@ -1,0 +1,7 @@
+D:\C_sharp\schollarship\bin\Debug\schollarship.exe.config
+D:\C_sharp\schollarship\bin\Debug\schollarship.exe
+D:\C_sharp\schollarship\bin\Debug\schollarship.pdb
+D:\C_sharp\schollarship\obj\Debug\schollarship.csprojAssemblyReference.cache
+D:\C_sharp\schollarship\obj\Debug\schollarship.csproj.CoreCompileInputs.cache
+D:\C_sharp\schollarship\obj\Debug\schollarship.exe
+D:\C_sharp\schollarship\obj\Debug\schollarship.pdb

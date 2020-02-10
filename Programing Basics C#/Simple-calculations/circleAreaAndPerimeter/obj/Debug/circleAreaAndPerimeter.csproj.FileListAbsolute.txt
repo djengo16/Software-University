@@ -1,0 +1,6 @@
+D:\C_sharp\Simple-calculations\circleAreaAndPerimeter\bin\Debug\circleAreaAndPerimeter.exe.config
+D:\C_sharp\Simple-calculations\circleAreaAndPerimeter\bin\Debug\circleAreaAndPerimeter.exe
+D:\C_sharp\Simple-calculations\circleAreaAndPerimeter\bin\Debug\circleAreaAndPerimeter.pdb
+D:\C_sharp\Simple-calculations\circleAreaAndPerimeter\obj\Debug\circleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+D:\C_sharp\Simple-calculations\circleAreaAndPerimeter\obj\Debug\circleAreaAndPerimeter.exe
+D:\C_sharp\Simple-calculations\circleAreaAndPerimeter\obj\Debug\circleAreaAndPerimeter.pdb

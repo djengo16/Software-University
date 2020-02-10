@@ -1,0 +1,7 @@
+D:\C_sharp\for-LooP-exercise\Histogram\bin\Debug\Histogram.exe.config
+D:\C_sharp\for-LooP-exercise\Histogram\bin\Debug\Histogram.exe
+D:\C_sharp\for-LooP-exercise\Histogram\bin\Debug\Histogram.pdb
+D:\C_sharp\for-LooP-exercise\Histogram\obj\Debug\Histogram.csprojAssemblyReference.cache
+D:\C_sharp\for-LooP-exercise\Histogram\obj\Debug\Histogram.csproj.CoreCompileInputs.cache
+D:\C_sharp\for-LooP-exercise\Histogram\obj\Debug\Histogram.exe
+D:\C_sharp\for-LooP-exercise\Histogram\obj\Debug\Histogram.pdb

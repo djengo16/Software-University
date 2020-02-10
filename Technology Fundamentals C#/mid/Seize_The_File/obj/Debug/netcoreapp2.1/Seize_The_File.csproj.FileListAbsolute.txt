@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\mid\Seize_The_File\bin\Debug\netcoreapp2.1\Seize_The_File.deps.json
+D:\Softuni\Technology Fundamentals C#\mid\Seize_The_File\bin\Debug\netcoreapp2.1\Seize_The_File.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\mid\Seize_The_File\bin\Debug\netcoreapp2.1\Seize_The_File.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\mid\Seize_The_File\bin\Debug\netcoreapp2.1\Seize_The_File.dll
+D:\Softuni\Technology Fundamentals C#\mid\Seize_The_File\bin\Debug\netcoreapp2.1\Seize_The_File.pdb
+D:\Softuni\Technology Fundamentals C#\mid\Seize_The_File\obj\Debug\netcoreapp2.1\Seize_The_File.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\mid\Seize_The_File\obj\Debug\netcoreapp2.1\Seize_The_File.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Seize_The_File\obj\Debug\netcoreapp2.1\Seize_The_File.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Seize_The_File\obj\Debug\netcoreapp2.1\Seize_The_File.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\mid\Seize_The_File\obj\Debug\netcoreapp2.1\Seize_The_File.dll
+D:\Softuni\Technology Fundamentals C#\mid\Seize_The_File\obj\Debug\netcoreapp2.1\Seize_The_File.pdb

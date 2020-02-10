@@ -1,0 +1,7 @@
+D:\C_sharp\NestedLoopsExercise\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+D:\C_sharp\NestedLoopsExercise\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+D:\C_sharp\NestedLoopsExercise\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+D:\C_sharp\NestedLoopsExercise\SpecialNumbers\obj\Debug\SpecialNumbers.csprojAssemblyReference.cache
+D:\C_sharp\NestedLoopsExercise\SpecialNumbers\obj\Debug\SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\C_sharp\NestedLoopsExercise\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+D:\C_sharp\NestedLoopsExercise\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

@@ -1,0 +1,7 @@
+D:\C_sharp\sample-exam\multiplyTable\bin\Debug\multiplyTable.exe.config
+D:\C_sharp\sample-exam\multiplyTable\bin\Debug\multiplyTable.exe
+D:\C_sharp\sample-exam\multiplyTable\bin\Debug\multiplyTable.pdb
+D:\C_sharp\sample-exam\multiplyTable\obj\Debug\multiplyTable.csprojAssemblyReference.cache
+D:\C_sharp\sample-exam\multiplyTable\obj\Debug\multiplyTable.csproj.CoreCompileInputs.cache
+D:\C_sharp\sample-exam\multiplyTable\obj\Debug\multiplyTable.exe
+D:\C_sharp\sample-exam\multiplyTable\obj\Debug\multiplyTable.pdb

@@ -1,0 +1,7 @@
+D:\C_sharp\toyshop\bin\Debug\toyshop.exe.config
+D:\C_sharp\toyshop\bin\Debug\toyshop.exe
+D:\C_sharp\toyshop\bin\Debug\toyshop.pdb
+D:\C_sharp\toyshop\obj\Debug\toyshop.csprojAssemblyReference.cache
+D:\C_sharp\toyshop\obj\Debug\toyshop.csproj.CoreCompileInputs.cache
+D:\C_sharp\toyshop\obj\Debug\toyshop.exe
+D:\C_sharp\toyshop\obj\Debug\toyshop.pdb

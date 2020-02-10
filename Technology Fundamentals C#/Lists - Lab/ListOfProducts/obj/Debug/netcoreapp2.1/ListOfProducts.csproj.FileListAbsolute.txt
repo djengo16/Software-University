@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListOfProducts\bin\Debug\netcoreapp2.1\ListOfProducts.deps.json
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListOfProducts\bin\Debug\netcoreapp2.1\ListOfProducts.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListOfProducts\bin\Debug\netcoreapp2.1\ListOfProducts.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListOfProducts\bin\Debug\netcoreapp2.1\ListOfProducts.dll
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListOfProducts\bin\Debug\netcoreapp2.1\ListOfProducts.pdb
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListOfProducts\obj\Debug\netcoreapp2.1\ListOfProducts.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListOfProducts\obj\Debug\netcoreapp2.1\ListOfProducts.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListOfProducts\obj\Debug\netcoreapp2.1\ListOfProducts.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListOfProducts\obj\Debug\netcoreapp2.1\ListOfProducts.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListOfProducts\obj\Debug\netcoreapp2.1\ListOfProducts.dll
+D:\Softuni\Technology Fundamentals C#\Lists - Lab\ListOfProducts\obj\Debug\netcoreapp2.1\ListOfProducts.pdb

@@ -1,0 +1,7 @@
+D:\C_sharp\sample-exam\seaTrip\bin\Debug\seaTrip.exe.config
+D:\C_sharp\sample-exam\seaTrip\bin\Debug\seaTrip.exe
+D:\C_sharp\sample-exam\seaTrip\bin\Debug\seaTrip.pdb
+D:\C_sharp\sample-exam\seaTrip\obj\Debug\seaTrip.csprojAssemblyReference.cache
+D:\C_sharp\sample-exam\seaTrip\obj\Debug\seaTrip.csproj.CoreCompileInputs.cache
+D:\C_sharp\sample-exam\seaTrip\obj\Debug\seaTrip.exe
+D:\C_sharp\sample-exam\seaTrip\obj\Debug\seaTrip.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\GiftBox_Coverage\bin\Debug\netcoreapp2.1\GiftBox_Coverage.deps.json
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\GiftBox_Coverage\bin\Debug\netcoreapp2.1\GiftBox_Coverage.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\GiftBox_Coverage\bin\Debug\netcoreapp2.1\GiftBox_Coverage.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\GiftBox_Coverage\bin\Debug\netcoreapp2.1\GiftBox_Coverage.dll
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\GiftBox_Coverage\bin\Debug\netcoreapp2.1\GiftBox_Coverage.pdb
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\GiftBox_Coverage\obj\Debug\netcoreapp2.1\GiftBox_Coverage.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\GiftBox_Coverage\obj\Debug\netcoreapp2.1\GiftBox_Coverage.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\GiftBox_Coverage\obj\Debug\netcoreapp2.1\GiftBox_Coverage.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\GiftBox_Coverage\obj\Debug\netcoreapp2.1\GiftBox_Coverage.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\GiftBox_Coverage\obj\Debug\netcoreapp2.1\GiftBox_Coverage.dll
+D:\Softuni\Technology Fundamentals C#\Mid_Exam_30.06.2019\GiftBox_Coverage\obj\Debug\netcoreapp2.1\GiftBox_Coverage.pdb

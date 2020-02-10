@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.deps.json
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.json
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.dll
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.pdb
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.dll
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.pdb

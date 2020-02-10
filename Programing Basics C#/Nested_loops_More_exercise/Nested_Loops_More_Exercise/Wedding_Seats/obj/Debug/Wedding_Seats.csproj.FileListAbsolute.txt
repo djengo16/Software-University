@@ -1,0 +1,7 @@
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\Wedding_Seats\bin\Debug\Wedding_Seats.exe.config
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\Wedding_Seats\bin\Debug\Wedding_Seats.exe
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\Wedding_Seats\bin\Debug\Wedding_Seats.pdb
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\Wedding_Seats\obj\Debug\Wedding_Seats.csprojAssemblyReference.cache
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\Wedding_Seats\obj\Debug\Wedding_Seats.csproj.CoreCompileInputs.cache
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\Wedding_Seats\obj\Debug\Wedding_Seats.exe
+D:\C_sharp\Nested_loops_More_exercise\Nested_Loops_More_Exercise\Wedding_Seats\obj\Debug\Wedding_Seats.pdb

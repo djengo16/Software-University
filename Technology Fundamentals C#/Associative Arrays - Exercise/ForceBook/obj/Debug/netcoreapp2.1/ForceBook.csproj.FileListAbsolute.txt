@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.deps.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.dll
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.pdb
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.dll
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.pdb

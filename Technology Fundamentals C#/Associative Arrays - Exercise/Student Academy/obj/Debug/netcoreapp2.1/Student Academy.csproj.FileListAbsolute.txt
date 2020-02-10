@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.deps.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.dll
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.pdb
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.dll
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.pdb

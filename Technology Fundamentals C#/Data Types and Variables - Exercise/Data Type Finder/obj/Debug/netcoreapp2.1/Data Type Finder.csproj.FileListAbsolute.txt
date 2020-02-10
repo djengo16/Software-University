@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Data Type Finder\bin\Debug\netcoreapp2.1\Data Type Finder.deps.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Data Type Finder\bin\Debug\netcoreapp2.1\Data Type Finder.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Data Type Finder\bin\Debug\netcoreapp2.1\Data Type Finder.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Data Type Finder\bin\Debug\netcoreapp2.1\Data Type Finder.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Data Type Finder\bin\Debug\netcoreapp2.1\Data Type Finder.pdb
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Data Type Finder\obj\Debug\netcoreapp2.1\Data Type Finder.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Data Type Finder\obj\Debug\netcoreapp2.1\Data Type Finder.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Data Type Finder\obj\Debug\netcoreapp2.1\Data Type Finder.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Data Type Finder\obj\Debug\netcoreapp2.1\Data Type Finder.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Data Type Finder\obj\Debug\netcoreapp2.1\Data Type Finder.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Data Type Finder\obj\Debug\netcoreapp2.1\Data Type Finder.pdb

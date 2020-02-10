@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Arrays\Day of week\bin\Debug\netcoreapp2.1\Day of week.deps.json
+D:\Softuni\Technology Fundamentals C#\Arrays\Day of week\bin\Debug\netcoreapp2.1\Day of week.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Arrays\Day of week\bin\Debug\netcoreapp2.1\Day of week.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Arrays\Day of week\bin\Debug\netcoreapp2.1\Day of week.dll
+D:\Softuni\Technology Fundamentals C#\Arrays\Day of week\bin\Debug\netcoreapp2.1\Day of week.pdb
+D:\Softuni\Technology Fundamentals C#\Arrays\Day of week\obj\Debug\netcoreapp2.1\Day of week.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Arrays\Day of week\obj\Debug\netcoreapp2.1\Day of week.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Arrays\Day of week\obj\Debug\netcoreapp2.1\Day of week.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Arrays\Day of week\obj\Debug\netcoreapp2.1\Day of week.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Arrays\Day of week\obj\Debug\netcoreapp2.1\Day of week.dll
+D:\Softuni\Technology Fundamentals C#\Arrays\Day of week\obj\Debug\netcoreapp2.1\Day of week.pdb

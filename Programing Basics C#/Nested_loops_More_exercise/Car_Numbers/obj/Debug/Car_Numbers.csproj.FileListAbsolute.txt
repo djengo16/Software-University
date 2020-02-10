@@ -1,0 +1,7 @@
+D:\C_sharp\Nested_loops_More_exercise\Car_Numbers\bin\Debug\Car_Numbers.exe.config
+D:\C_sharp\Nested_loops_More_exercise\Car_Numbers\bin\Debug\Car_Numbers.exe
+D:\C_sharp\Nested_loops_More_exercise\Car_Numbers\bin\Debug\Car_Numbers.pdb
+D:\C_sharp\Nested_loops_More_exercise\Car_Numbers\obj\Debug\Car_Numbers.csprojAssemblyReference.cache
+D:\C_sharp\Nested_loops_More_exercise\Car_Numbers\obj\Debug\Car_Numbers.csproj.CoreCompileInputs.cache
+D:\C_sharp\Nested_loops_More_exercise\Car_Numbers\obj\Debug\Car_Numbers.exe
+D:\C_sharp\Nested_loops_More_exercise\Car_Numbers\obj\Debug\Car_Numbers.pdb

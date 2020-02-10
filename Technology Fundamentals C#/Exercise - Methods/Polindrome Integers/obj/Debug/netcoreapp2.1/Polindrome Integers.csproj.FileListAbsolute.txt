@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Polindrome Integers\bin\Debug\netcoreapp2.1\Polindrome Integers.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Polindrome Integers\bin\Debug\netcoreapp2.1\Polindrome Integers.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Polindrome Integers\bin\Debug\netcoreapp2.1\Polindrome Integers.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Polindrome Integers\bin\Debug\netcoreapp2.1\Polindrome Integers.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Polindrome Integers\bin\Debug\netcoreapp2.1\Polindrome Integers.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Polindrome Integers\obj\Debug\netcoreapp2.1\Polindrome Integers.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Polindrome Integers\obj\Debug\netcoreapp2.1\Polindrome Integers.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Polindrome Integers\obj\Debug\netcoreapp2.1\Polindrome Integers.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Polindrome Integers\obj\Debug\netcoreapp2.1\Polindrome Integers.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Polindrome Integers\obj\Debug\netcoreapp2.1\Polindrome Integers.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Polindrome Integers\obj\Debug\netcoreapp2.1\Polindrome Integers.pdb

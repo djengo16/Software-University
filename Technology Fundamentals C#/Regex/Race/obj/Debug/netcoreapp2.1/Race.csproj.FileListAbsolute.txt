@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Regex\Race\bin\Debug\netcoreapp2.1\Race.deps.json
+D:\Softuni\Technology Fundamentals C#\Regex\Race\bin\Debug\netcoreapp2.1\Race.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Regex\Race\bin\Debug\netcoreapp2.1\Race.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Regex\Race\bin\Debug\netcoreapp2.1\Race.dll
+D:\Softuni\Technology Fundamentals C#\Regex\Race\bin\Debug\netcoreapp2.1\Race.pdb
+D:\Softuni\Technology Fundamentals C#\Regex\Race\obj\Debug\netcoreapp2.1\Race.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Race\obj\Debug\netcoreapp2.1\Race.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Race\obj\Debug\netcoreapp2.1\Race.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Race\obj\Debug\netcoreapp2.1\Race.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Regex\Race\obj\Debug\netcoreapp2.1\Race.dll
+D:\Softuni\Technology Fundamentals C#\Regex\Race\obj\Debug\netcoreapp2.1\Race.pdb

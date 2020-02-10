@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vacantion\bin\Debug\netcoreapp2.1\Vacantion.deps.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vacantion\bin\Debug\netcoreapp2.1\Vacantion.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vacantion\bin\Debug\netcoreapp2.1\Vacantion.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vacantion\bin\Debug\netcoreapp2.1\Vacantion.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vacantion\bin\Debug\netcoreapp2.1\Vacantion.pdb
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vacantion\obj\Debug\netcoreapp2.1\Vacantion.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vacantion\obj\Debug\netcoreapp2.1\Vacantion.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vacantion\obj\Debug\netcoreapp2.1\Vacantion.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vacantion\obj\Debug\netcoreapp2.1\Vacantion.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Vacantion\obj\Debug\netcoreapp2.1\Vacantion.pdb

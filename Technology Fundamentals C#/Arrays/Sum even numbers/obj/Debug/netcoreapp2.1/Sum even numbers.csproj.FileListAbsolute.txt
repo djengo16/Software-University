@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Arrays\Sum even numbers\bin\Debug\netcoreapp2.1\Sum even numbers.deps.json
+D:\Softuni\Technology Fundamentals C#\Arrays\Sum even numbers\bin\Debug\netcoreapp2.1\Sum even numbers.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Arrays\Sum even numbers\bin\Debug\netcoreapp2.1\Sum even numbers.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Arrays\Sum even numbers\bin\Debug\netcoreapp2.1\Sum even numbers.dll
+D:\Softuni\Technology Fundamentals C#\Arrays\Sum even numbers\bin\Debug\netcoreapp2.1\Sum even numbers.pdb
+D:\Softuni\Technology Fundamentals C#\Arrays\Sum even numbers\obj\Debug\netcoreapp2.1\Sum even numbers.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Arrays\Sum even numbers\obj\Debug\netcoreapp2.1\Sum even numbers.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Arrays\Sum even numbers\obj\Debug\netcoreapp2.1\Sum even numbers.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Arrays\Sum even numbers\obj\Debug\netcoreapp2.1\Sum even numbers.dll
+D:\Softuni\Technology Fundamentals C#\Arrays\Sum even numbers\obj\Debug\netcoreapp2.1\Sum even numbers.pdb

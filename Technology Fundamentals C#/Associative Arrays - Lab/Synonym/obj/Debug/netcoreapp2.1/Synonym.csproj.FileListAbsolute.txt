@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Synonym\bin\Debug\netcoreapp2.1\Synonym.deps.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Synonym\bin\Debug\netcoreapp2.1\Synonym.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Synonym\bin\Debug\netcoreapp2.1\Synonym.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Synonym\bin\Debug\netcoreapp2.1\Synonym.dll
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Synonym\bin\Debug\netcoreapp2.1\Synonym.pdb
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Synonym\obj\Debug\netcoreapp2.1\Synonym.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Synonym\obj\Debug\netcoreapp2.1\Synonym.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Synonym\obj\Debug\netcoreapp2.1\Synonym.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Synonym\obj\Debug\netcoreapp2.1\Synonym.dll
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Lab\Synonym\obj\Debug\netcoreapp2.1\Synonym.pdb

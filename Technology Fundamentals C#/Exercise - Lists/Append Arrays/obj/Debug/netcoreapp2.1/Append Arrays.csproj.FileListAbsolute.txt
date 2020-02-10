@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Append Arrays\bin\Debug\netcoreapp2.1\Append Arrays.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Append Arrays\bin\Debug\netcoreapp2.1\Append Arrays.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Append Arrays\bin\Debug\netcoreapp2.1\Append Arrays.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Append Arrays\bin\Debug\netcoreapp2.1\Append Arrays.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Append Arrays\bin\Debug\netcoreapp2.1\Append Arrays.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Append Arrays\obj\Debug\netcoreapp2.1\Append Arrays.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Append Arrays\obj\Debug\netcoreapp2.1\Append Arrays.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Append Arrays\obj\Debug\netcoreapp2.1\Append Arrays.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Append Arrays\obj\Debug\netcoreapp2.1\Append Arrays.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Append Arrays\obj\Debug\netcoreapp2.1\Append Arrays.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Append Arrays\obj\Debug\netcoreapp2.1\Append Arrays.csprojAssemblyReference.cache

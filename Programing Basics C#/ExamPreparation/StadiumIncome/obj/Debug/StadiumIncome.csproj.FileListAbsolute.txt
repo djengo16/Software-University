@@ -1,0 +1,7 @@
+D:\C_sharp\ExamPreparation\StadiumIncome\bin\Debug\StadiumIncome.exe.config
+D:\C_sharp\ExamPreparation\StadiumIncome\bin\Debug\StadiumIncome.exe
+D:\C_sharp\ExamPreparation\StadiumIncome\bin\Debug\StadiumIncome.pdb
+D:\C_sharp\ExamPreparation\StadiumIncome\obj\Debug\StadiumIncome.csprojAssemblyReference.cache
+D:\C_sharp\ExamPreparation\StadiumIncome\obj\Debug\StadiumIncome.csproj.CoreCompileInputs.cache
+D:\C_sharp\ExamPreparation\StadiumIncome\obj\Debug\StadiumIncome.exe
+D:\C_sharp\ExamPreparation\StadiumIncome\obj\Debug\StadiumIncome.pdb

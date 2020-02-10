@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Lab\1. Single Inheritance\bin\Debug\netcoreapp2.1\1. Single Inheritance.deps.json
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Lab\1. Single Inheritance\bin\Debug\netcoreapp2.1\1. Single Inheritance.runtimeconfig.json
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Lab\1. Single Inheritance\bin\Debug\netcoreapp2.1\1. Single Inheritance.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Lab\1. Single Inheritance\bin\Debug\netcoreapp2.1\1. Single Inheritance.dll
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Lab\1. Single Inheritance\bin\Debug\netcoreapp2.1\1. Single Inheritance.pdb
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Lab\1. Single Inheritance\obj\Debug\netcoreapp2.1\1. Single Inheritance.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Lab\1. Single Inheritance\obj\Debug\netcoreapp2.1\1. Single Inheritance.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Lab\1. Single Inheritance\obj\Debug\netcoreapp2.1\1. Single Inheritance.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Lab\1. Single Inheritance\obj\Debug\netcoreapp2.1\1. Single Inheritance.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Lab\1. Single Inheritance\obj\Debug\netcoreapp2.1\1. Single Inheritance.dll
+D:\Softuni\C# Advanced\C# OOP\Inheritance\Inheritance - Lab\1. Single Inheritance\obj\Debug\netcoreapp2.1\1. Single Inheritance.pdb

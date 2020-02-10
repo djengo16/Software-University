@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Problem 1. Define a Class Person\obj\Debug\netcoreapp2.1\DefiningClasses.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Problem 1. Define a Class Person\obj\Debug\netcoreapp2.1\DefiningClasses.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Problem 1. Define a Class Person\obj\Debug\netcoreapp2.1\DefiningClasses.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Problem 1. Define a Class Person\obj\Debug\netcoreapp2.1\DefiningClasses.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Problem 1. Define a Class Person\bin\Debug\netcoreapp2.1\DefiningClasses.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Problem 1. Define a Class Person\bin\Debug\netcoreapp2.1\DefiningClasses.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Problem 1. Define a Class Person\bin\Debug\netcoreapp2.1\DefiningClasses.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Problem 1. Define a Class Person\bin\Debug\netcoreapp2.1\DefiningClasses.dll
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Problem 1. Define a Class Person\bin\Debug\netcoreapp2.1\DefiningClasses.pdb
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Problem 1. Define a Class Person\obj\Debug\netcoreapp2.1\DefiningClasses.dll
+D:\Softuni\C# Advanced\C# Advanced\Defining classes\Problem 1. Define a Class Person\obj\Debug\netcoreapp2.1\DefiningClasses.pdb

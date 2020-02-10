@@ -1,0 +1,6 @@
+D:\C_sharp\numbersBetween\bin\Debug\numbersBetween.exe.config
+D:\C_sharp\numbersBetween\bin\Debug\numbersBetween.exe
+D:\C_sharp\numbersBetween\bin\Debug\numbersBetween.pdb
+D:\C_sharp\numbersBetween\obj\Debug\numbersBetween.csproj.CoreCompileInputs.cache
+D:\C_sharp\numbersBetween\obj\Debug\numbersBetween.exe
+D:\C_sharp\numbersBetween\obj\Debug\numbersBetween.pdb

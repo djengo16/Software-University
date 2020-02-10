@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\SmallestOfThree\bin\Debug\netcoreapp2.1\SmallestOfThree.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\SmallestOfThree\bin\Debug\netcoreapp2.1\SmallestOfThree.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\SmallestOfThree\bin\Debug\netcoreapp2.1\SmallestOfThree.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\SmallestOfThree\bin\Debug\netcoreapp2.1\SmallestOfThree.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\SmallestOfThree\bin\Debug\netcoreapp2.1\SmallestOfThree.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\SmallestOfThree\obj\Debug\netcoreapp2.1\SmallestOfThree.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\SmallestOfThree\obj\Debug\netcoreapp2.1\SmallestOfThree.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\SmallestOfThree\obj\Debug\netcoreapp2.1\SmallestOfThree.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\SmallestOfThree\obj\Debug\netcoreapp2.1\SmallestOfThree.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\SmallestOfThree\obj\Debug\netcoreapp2.1\SmallestOfThree.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\SmallestOfThree\obj\Debug\netcoreapp2.1\SmallestOfThree.pdb

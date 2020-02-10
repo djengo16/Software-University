@@ -1,0 +1,7 @@
+D:\C_sharp\sample-exam\Bus\bin\Debug\Bus.exe.config
+D:\C_sharp\sample-exam\Bus\bin\Debug\Bus.exe
+D:\C_sharp\sample-exam\Bus\bin\Debug\Bus.pdb
+D:\C_sharp\sample-exam\Bus\obj\Debug\Bus.csproj.CoreCompileInputs.cache
+D:\C_sharp\sample-exam\Bus\obj\Debug\Bus.exe
+D:\C_sharp\sample-exam\Bus\obj\Debug\Bus.pdb
+D:\C_sharp\sample-exam\Bus\obj\Debug\Bus.csprojAssemblyReference.cache

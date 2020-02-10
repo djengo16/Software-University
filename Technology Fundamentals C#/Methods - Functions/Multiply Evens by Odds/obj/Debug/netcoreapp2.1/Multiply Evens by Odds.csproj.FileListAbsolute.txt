@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Multiply Evens by Odds\bin\Debug\netcoreapp2.1\Multiply Evens by Odds.deps.json
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Multiply Evens by Odds\bin\Debug\netcoreapp2.1\Multiply Evens by Odds.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Multiply Evens by Odds\bin\Debug\netcoreapp2.1\Multiply Evens by Odds.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Multiply Evens by Odds\bin\Debug\netcoreapp2.1\Multiply Evens by Odds.dll
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Multiply Evens by Odds\bin\Debug\netcoreapp2.1\Multiply Evens by Odds.pdb
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Multiply Evens by Odds\obj\Debug\netcoreapp2.1\Multiply Evens by Odds.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Multiply Evens by Odds\obj\Debug\netcoreapp2.1\Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Multiply Evens by Odds\obj\Debug\netcoreapp2.1\Multiply Evens by Odds.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Multiply Evens by Odds\obj\Debug\netcoreapp2.1\Multiply Evens by Odds.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Multiply Evens by Odds\obj\Debug\netcoreapp2.1\Multiply Evens by Odds.dll
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Multiply Evens by Odds\obj\Debug\netcoreapp2.1\Multiply Evens by Odds.pdb

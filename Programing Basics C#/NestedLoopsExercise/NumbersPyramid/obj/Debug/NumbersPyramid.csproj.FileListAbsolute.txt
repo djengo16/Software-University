@@ -1,0 +1,7 @@
+D:\C_sharp\NestedLoopsExercise\NumbersPyramid\bin\Debug\NumbersPyramid.exe.config
+D:\C_sharp\NestedLoopsExercise\NumbersPyramid\bin\Debug\NumbersPyramid.exe
+D:\C_sharp\NestedLoopsExercise\NumbersPyramid\bin\Debug\NumbersPyramid.pdb
+D:\C_sharp\NestedLoopsExercise\NumbersPyramid\obj\Debug\NumbersPyramid.csprojAssemblyReference.cache
+D:\C_sharp\NestedLoopsExercise\NumbersPyramid\obj\Debug\NumbersPyramid.csproj.CoreCompileInputs.cache
+D:\C_sharp\NestedLoopsExercise\NumbersPyramid\obj\Debug\NumbersPyramid.exe
+D:\C_sharp\NestedLoopsExercise\NumbersPyramid\obj\Debug\NumbersPyramid.pdb

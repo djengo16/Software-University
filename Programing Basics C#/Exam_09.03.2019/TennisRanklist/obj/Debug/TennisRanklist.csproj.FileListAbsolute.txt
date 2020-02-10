@@ -1,0 +1,7 @@
+D:\C_sharp\Exam_09.03.2019\TennisRanklist\bin\Debug\TennisRanklist.exe.config
+D:\C_sharp\Exam_09.03.2019\TennisRanklist\bin\Debug\TennisRanklist.exe
+D:\C_sharp\Exam_09.03.2019\TennisRanklist\bin\Debug\TennisRanklist.pdb
+D:\C_sharp\Exam_09.03.2019\TennisRanklist\obj\Debug\TennisRanklist.csprojAssemblyReference.cache
+D:\C_sharp\Exam_09.03.2019\TennisRanklist\obj\Debug\TennisRanklist.csproj.CoreCompileInputs.cache
+D:\C_sharp\Exam_09.03.2019\TennisRanklist\obj\Debug\TennisRanklist.exe
+D:\C_sharp\Exam_09.03.2019\TennisRanklist\obj\Debug\TennisRanklist.pdb

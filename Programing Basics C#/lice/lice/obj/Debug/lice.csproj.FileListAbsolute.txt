@@ -1,0 +1,6 @@
+D:\C_sharp\lice\lice\bin\Debug\lice.exe.config
+D:\C_sharp\lice\lice\bin\Debug\lice.exe
+D:\C_sharp\lice\lice\bin\Debug\lice.pdb
+D:\C_sharp\lice\lice\obj\Debug\lice.csproj.CoreCompileInputs.cache
+D:\C_sharp\lice\lice\obj\Debug\lice.exe
+D:\C_sharp\lice\lice\obj\Debug\lice.pdb

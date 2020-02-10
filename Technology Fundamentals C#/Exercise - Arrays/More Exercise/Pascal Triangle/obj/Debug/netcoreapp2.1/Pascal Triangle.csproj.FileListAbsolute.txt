@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\Pascal Triangle\bin\Debug\netcoreapp2.1\Pascal Triangle.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\Pascal Triangle\bin\Debug\netcoreapp2.1\Pascal Triangle.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\Pascal Triangle\bin\Debug\netcoreapp2.1\Pascal Triangle.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\Pascal Triangle\bin\Debug\netcoreapp2.1\Pascal Triangle.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\Pascal Triangle\bin\Debug\netcoreapp2.1\Pascal Triangle.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\Pascal Triangle\obj\Debug\netcoreapp2.1\Pascal Triangle.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\Pascal Triangle\obj\Debug\netcoreapp2.1\Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\Pascal Triangle\obj\Debug\netcoreapp2.1\Pascal Triangle.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\Pascal Triangle\obj\Debug\netcoreapp2.1\Pascal Triangle.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\Pascal Triangle\obj\Debug\netcoreapp2.1\Pascal Triangle.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\More Exercise\Pascal Triangle\obj\Debug\netcoreapp2.1\Pascal Triangle.pdb

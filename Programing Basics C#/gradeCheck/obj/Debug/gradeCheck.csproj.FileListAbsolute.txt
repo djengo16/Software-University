@@ -1,0 +1,7 @@
+D:\C_sharp\gradeCheck\bin\Debug\gradeCheck.exe.config
+D:\C_sharp\gradeCheck\bin\Debug\gradeCheck.exe
+D:\C_sharp\gradeCheck\bin\Debug\gradeCheck.pdb
+D:\C_sharp\gradeCheck\obj\Debug\gradeCheck.csprojAssemblyReference.cache
+D:\C_sharp\gradeCheck\obj\Debug\gradeCheck.csproj.CoreCompileInputs.cache
+D:\C_sharp\gradeCheck\obj\Debug\gradeCheck.exe
+D:\C_sharp\gradeCheck\obj\Debug\gradeCheck.pdb

@@ -1,0 +1,7 @@
+D:\C_sharp\while\Moving\bin\Debug\Moving.exe.config
+D:\C_sharp\while\Moving\bin\Debug\Moving.exe
+D:\C_sharp\while\Moving\bin\Debug\Moving.pdb
+D:\C_sharp\while\Moving\obj\Debug\Moving.csprojAssemblyReference.cache
+D:\C_sharp\while\Moving\obj\Debug\Moving.csproj.CoreCompileInputs.cache
+D:\C_sharp\while\Moving\obj\Debug\Moving.exe
+D:\C_sharp\while\Moving\obj\Debug\Moving.pdb

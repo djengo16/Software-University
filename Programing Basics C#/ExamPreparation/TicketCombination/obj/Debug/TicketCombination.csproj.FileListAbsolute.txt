@@ -1,0 +1,7 @@
+D:\C_sharp\ExamPreparation\TicketCombination\bin\Debug\TicketCombination.exe.config
+D:\C_sharp\ExamPreparation\TicketCombination\bin\Debug\TicketCombination.exe
+D:\C_sharp\ExamPreparation\TicketCombination\bin\Debug\TicketCombination.pdb
+D:\C_sharp\ExamPreparation\TicketCombination\obj\Debug\TicketCombination.csprojAssemblyReference.cache
+D:\C_sharp\ExamPreparation\TicketCombination\obj\Debug\TicketCombination.csproj.CoreCompileInputs.cache
+D:\C_sharp\ExamPreparation\TicketCombination\obj\Debug\TicketCombination.exe
+D:\C_sharp\ExamPreparation\TicketCombination\obj\Debug\TicketCombination.pdb

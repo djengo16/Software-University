@@ -1,0 +1,6 @@
+D:\C_sharp\forLoopLab\sum\bin\Debug\sum.exe.config
+D:\C_sharp\forLoopLab\sum\bin\Debug\sum.exe
+D:\C_sharp\forLoopLab\sum\bin\Debug\sum.pdb
+D:\C_sharp\forLoopLab\sum\obj\Debug\sum.csproj.CoreCompileInputs.cache
+D:\C_sharp\forLoopLab\sum\obj\Debug\sum.exe
+D:\C_sharp\forLoopLab\sum\obj\Debug\sum.pdb

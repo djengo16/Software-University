@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\exam prep\Arraving in Kathmandu\bin\Debug\netcoreapp2.1\Arraving in Kathmandu.deps.json
+D:\Softuni\Technology Fundamentals C#\exam prep\Arraving in Kathmandu\bin\Debug\netcoreapp2.1\Arraving in Kathmandu.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\exam prep\Arraving in Kathmandu\bin\Debug\netcoreapp2.1\Arraving in Kathmandu.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\exam prep\Arraving in Kathmandu\bin\Debug\netcoreapp2.1\Arraving in Kathmandu.dll
+D:\Softuni\Technology Fundamentals C#\exam prep\Arraving in Kathmandu\bin\Debug\netcoreapp2.1\Arraving in Kathmandu.pdb
+D:\Softuni\Technology Fundamentals C#\exam prep\Arraving in Kathmandu\obj\Debug\netcoreapp2.1\Arraving in Kathmandu.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\exam prep\Arraving in Kathmandu\obj\Debug\netcoreapp2.1\Arraving in Kathmandu.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\exam prep\Arraving in Kathmandu\obj\Debug\netcoreapp2.1\Arraving in Kathmandu.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\exam prep\Arraving in Kathmandu\obj\Debug\netcoreapp2.1\Arraving in Kathmandu.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\exam prep\Arraving in Kathmandu\obj\Debug\netcoreapp2.1\Arraving in Kathmandu.dll
+D:\Softuni\Technology Fundamentals C#\exam prep\Arraving in Kathmandu\obj\Debug\netcoreapp2.1\Arraving in Kathmandu.pdb

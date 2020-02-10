@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Top numbers\bin\Debug\netcoreapp2.1\Top numbers.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Top numbers\bin\Debug\netcoreapp2.1\Top numbers.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Top numbers\bin\Debug\netcoreapp2.1\Top numbers.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Top numbers\bin\Debug\netcoreapp2.1\Top numbers.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Top numbers\bin\Debug\netcoreapp2.1\Top numbers.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Top numbers\obj\Debug\netcoreapp2.1\Top numbers.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Top numbers\obj\Debug\netcoreapp2.1\Top numbers.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Top numbers\obj\Debug\netcoreapp2.1\Top numbers.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Top numbers\obj\Debug\netcoreapp2.1\Top numbers.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Methods\Top numbers\obj\Debug\netcoreapp2.1\Top numbers.pdb

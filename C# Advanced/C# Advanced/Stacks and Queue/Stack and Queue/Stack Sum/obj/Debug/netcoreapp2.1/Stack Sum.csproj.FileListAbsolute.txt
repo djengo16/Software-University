@@ -1,0 +1,22 @@
+D:\Softuni\C# Advanced\C# Advanced\Stack Sum\bin\Debug\netcoreapp2.1\Stack Sum.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Stack Sum\bin\Debug\netcoreapp2.1\Stack Sum.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Stack Sum\bin\Debug\netcoreapp2.1\Stack Sum.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Stack Sum\bin\Debug\netcoreapp2.1\Stack Sum.dll
+D:\Softuni\C# Advanced\C# Advanced\Stack Sum\bin\Debug\netcoreapp2.1\Stack Sum.pdb
+D:\Softuni\C# Advanced\C# Advanced\Stack Sum\obj\Debug\netcoreapp2.1\Stack Sum.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# Advanced\Stack Sum\obj\Debug\netcoreapp2.1\Stack Sum.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Stack Sum\obj\Debug\netcoreapp2.1\Stack Sum.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Stack Sum\obj\Debug\netcoreapp2.1\Stack Sum.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Stack Sum\obj\Debug\netcoreapp2.1\Stack Sum.dll
+D:\Softuni\C# Advanced\C# Advanced\Stack Sum\obj\Debug\netcoreapp2.1\Stack Sum.pdb
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Stack Sum\bin\Debug\netcoreapp2.1\Stack Sum.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Stack Sum\bin\Debug\netcoreapp2.1\Stack Sum.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Stack Sum\bin\Debug\netcoreapp2.1\Stack Sum.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Stack Sum\bin\Debug\netcoreapp2.1\Stack Sum.dll
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Stack Sum\bin\Debug\netcoreapp2.1\Stack Sum.pdb
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Stack Sum\obj\Debug\netcoreapp2.1\Stack Sum.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Stack Sum\obj\Debug\netcoreapp2.1\Stack Sum.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Stack Sum\obj\Debug\netcoreapp2.1\Stack Sum.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Stack Sum\obj\Debug\netcoreapp2.1\Stack Sum.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Stack Sum\obj\Debug\netcoreapp2.1\Stack Sum.dll
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Stack and Queue\Stack Sum\obj\Debug\netcoreapp2.1\Stack Sum.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\mid\The_Hunting_Games\bin\Debug\netcoreapp2.1\The_Hunting_Games.deps.json
+D:\Softuni\Technology Fundamentals C#\mid\The_Hunting_Games\bin\Debug\netcoreapp2.1\The_Hunting_Games.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\mid\The_Hunting_Games\bin\Debug\netcoreapp2.1\The_Hunting_Games.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\mid\The_Hunting_Games\bin\Debug\netcoreapp2.1\The_Hunting_Games.dll
+D:\Softuni\Technology Fundamentals C#\mid\The_Hunting_Games\bin\Debug\netcoreapp2.1\The_Hunting_Games.pdb
+D:\Softuni\Technology Fundamentals C#\mid\The_Hunting_Games\obj\Debug\netcoreapp2.1\The_Hunting_Games.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\mid\The_Hunting_Games\obj\Debug\netcoreapp2.1\The_Hunting_Games.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\The_Hunting_Games\obj\Debug\netcoreapp2.1\The_Hunting_Games.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\The_Hunting_Games\obj\Debug\netcoreapp2.1\The_Hunting_Games.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\mid\The_Hunting_Games\obj\Debug\netcoreapp2.1\The_Hunting_Games.dll
+D:\Softuni\Technology Fundamentals C#\mid\The_Hunting_Games\obj\Debug\netcoreapp2.1\The_Hunting_Games.pdb

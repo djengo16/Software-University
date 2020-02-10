@@ -1,0 +1,7 @@
+D:\C_sharp\Choreography\bin\Debug\Choreography.exe.config
+D:\C_sharp\Choreography\bin\Debug\Choreography.exe
+D:\C_sharp\Choreography\bin\Debug\Choreography.pdb
+D:\C_sharp\Choreography\obj\Debug\Choreography.csprojAssemblyReference.cache
+D:\C_sharp\Choreography\obj\Debug\Choreography.csproj.CoreCompileInputs.cache
+D:\C_sharp\Choreography\obj\Debug\Choreography.exe
+D:\C_sharp\Choreography\obj\Debug\Choreography.pdb

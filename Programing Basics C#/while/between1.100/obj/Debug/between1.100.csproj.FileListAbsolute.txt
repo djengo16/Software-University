@@ -1,0 +1,7 @@
+D:\C_sharp\while\between1.100\bin\Debug\between1.100.exe.config
+D:\C_sharp\while\between1.100\bin\Debug\between1.100.exe
+D:\C_sharp\while\between1.100\bin\Debug\between1.100.pdb
+D:\C_sharp\while\between1.100\obj\Debug\between1.100.csprojAssemblyReference.cache
+D:\C_sharp\while\between1.100\obj\Debug\between1.100.csproj.CoreCompileInputs.cache
+D:\C_sharp\while\between1.100\obj\Debug\between1.100.exe
+D:\C_sharp\while\between1.100\obj\Debug\between1.100.pdb

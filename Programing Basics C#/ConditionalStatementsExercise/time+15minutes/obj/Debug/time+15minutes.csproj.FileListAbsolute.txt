@@ -1,0 +1,7 @@
+D:\C_sharp\time+15minutes\bin\Debug\time+15minutes.exe.config
+D:\C_sharp\time+15minutes\bin\Debug\time+15minutes.exe
+D:\C_sharp\time+15minutes\bin\Debug\time+15minutes.pdb
+D:\C_sharp\time+15minutes\obj\Debug\time+15minutes.csprojAssemblyReference.cache
+D:\C_sharp\time+15minutes\obj\Debug\time+15minutes.csproj.CoreCompileInputs.cache
+D:\C_sharp\time+15minutes\obj\Debug\time+15minutes.exe
+D:\C_sharp\time+15minutes\obj\Debug\time+15minutes.pdb

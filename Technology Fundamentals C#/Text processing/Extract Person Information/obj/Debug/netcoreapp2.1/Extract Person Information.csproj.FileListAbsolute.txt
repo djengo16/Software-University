@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract Person Information\obj\Debug\netcoreapp2.1\Extract Person Information.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract Person Information\obj\Debug\netcoreapp2.1\Extract Person Information.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract Person Information\obj\Debug\netcoreapp2.1\Extract Person Information.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract Person Information\bin\Debug\netcoreapp2.1\Extract Person Information.deps.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract Person Information\bin\Debug\netcoreapp2.1\Extract Person Information.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract Person Information\bin\Debug\netcoreapp2.1\Extract Person Information.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract Person Information\bin\Debug\netcoreapp2.1\Extract Person Information.dll
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract Person Information\bin\Debug\netcoreapp2.1\Extract Person Information.pdb
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract Person Information\obj\Debug\netcoreapp2.1\Extract Person Information.dll
+D:\Softuni\Technology Fundamentals C#\Text processing\Extract Person Information\obj\Debug\netcoreapp2.1\Extract Person Information.pdb

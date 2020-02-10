@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Action Point\bin\Debug\netcoreapp2.1\Action Point.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Action Point\bin\Debug\netcoreapp2.1\Action Point.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Action Point\bin\Debug\netcoreapp2.1\Action Point.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Action Point\bin\Debug\netcoreapp2.1\Action Point.dll
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Action Point\bin\Debug\netcoreapp2.1\Action Point.pdb
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Action Point\obj\Debug\netcoreapp2.1\Action Point.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Action Point\obj\Debug\netcoreapp2.1\Action Point.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Action Point\obj\Debug\netcoreapp2.1\Action Point.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Action Point\obj\Debug\netcoreapp2.1\Action Point.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Action Point\obj\Debug\netcoreapp2.1\Action Point.dll
+D:\Softuni\C# Advanced\C# Advanced\Functional Programming\FP - Exercise\Action Point\obj\Debug\netcoreapp2.1\Action Point.pdb

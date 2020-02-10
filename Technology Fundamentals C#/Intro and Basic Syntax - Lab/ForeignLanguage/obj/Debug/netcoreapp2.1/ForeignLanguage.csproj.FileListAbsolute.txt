@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\ForeignLanguage\bin\Debug\netcoreapp2.1\ForeignLanguage.deps.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\ForeignLanguage\bin\Debug\netcoreapp2.1\ForeignLanguage.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\ForeignLanguage\bin\Debug\netcoreapp2.1\ForeignLanguage.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\ForeignLanguage\bin\Debug\netcoreapp2.1\ForeignLanguage.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\ForeignLanguage\bin\Debug\netcoreapp2.1\ForeignLanguage.pdb
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\ForeignLanguage\obj\Debug\netcoreapp2.1\ForeignLanguage.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\ForeignLanguage\obj\Debug\netcoreapp2.1\ForeignLanguage.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\ForeignLanguage\obj\Debug\netcoreapp2.1\ForeignLanguage.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\ForeignLanguage\obj\Debug\netcoreapp2.1\ForeignLanguage.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\ForeignLanguage\obj\Debug\netcoreapp2.1\ForeignLanguage.pdb

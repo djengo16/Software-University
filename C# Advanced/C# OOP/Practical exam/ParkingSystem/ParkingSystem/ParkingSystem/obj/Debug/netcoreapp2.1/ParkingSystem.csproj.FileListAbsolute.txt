@@ -1,0 +1,10 @@
+C:\Users\Atanasov\Desktop\ParkingSystem\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.deps.json
+C:\Users\Atanasov\Desktop\ParkingSystem\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.runtimeconfig.json
+C:\Users\Atanasov\Desktop\ParkingSystem\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.runtimeconfig.dev.json
+C:\Users\Atanasov\Desktop\ParkingSystem\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.dll
+C:\Users\Atanasov\Desktop\ParkingSystem\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.pdb
+C:\Users\Atanasov\Desktop\ParkingSystem\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.csprojAssemblyReference.cache
+C:\Users\Atanasov\Desktop\ParkingSystem\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.AssemblyInfoInputs.cache
+C:\Users\Atanasov\Desktop\ParkingSystem\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.AssemblyInfo.cs
+C:\Users\Atanasov\Desktop\ParkingSystem\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.dll
+C:\Users\Atanasov\Desktop\ParkingSystem\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.pdb

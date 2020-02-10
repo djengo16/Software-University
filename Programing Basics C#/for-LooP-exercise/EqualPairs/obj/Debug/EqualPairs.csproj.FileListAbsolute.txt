@@ -1,0 +1,7 @@
+D:\C_sharp\for-LooP-exercise\EqualPairs\bin\Debug\EqualPairs.exe.config
+D:\C_sharp\for-LooP-exercise\EqualPairs\bin\Debug\EqualPairs.exe
+D:\C_sharp\for-LooP-exercise\EqualPairs\bin\Debug\EqualPairs.pdb
+D:\C_sharp\for-LooP-exercise\EqualPairs\obj\Debug\EqualPairs.csprojAssemblyReference.cache
+D:\C_sharp\for-LooP-exercise\EqualPairs\obj\Debug\EqualPairs.csproj.CoreCompileInputs.cache
+D:\C_sharp\for-LooP-exercise\EqualPairs\obj\Debug\EqualPairs.exe
+D:\C_sharp\for-LooP-exercise\EqualPairs\obj\Debug\EqualPairs.pdb

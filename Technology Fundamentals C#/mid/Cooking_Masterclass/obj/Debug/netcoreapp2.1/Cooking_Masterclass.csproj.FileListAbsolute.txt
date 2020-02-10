@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Masterclass\bin\Debug\netcoreapp2.1\Cooking_Masterclass.deps.json
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Masterclass\bin\Debug\netcoreapp2.1\Cooking_Masterclass.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Masterclass\bin\Debug\netcoreapp2.1\Cooking_Masterclass.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Masterclass\bin\Debug\netcoreapp2.1\Cooking_Masterclass.dll
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Masterclass\bin\Debug\netcoreapp2.1\Cooking_Masterclass.pdb
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Masterclass\obj\Debug\netcoreapp2.1\Cooking_Masterclass.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Masterclass\obj\Debug\netcoreapp2.1\Cooking_Masterclass.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Masterclass\obj\Debug\netcoreapp2.1\Cooking_Masterclass.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Masterclass\obj\Debug\netcoreapp2.1\Cooking_Masterclass.dll
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Masterclass\obj\Debug\netcoreapp2.1\Cooking_Masterclass.pdb

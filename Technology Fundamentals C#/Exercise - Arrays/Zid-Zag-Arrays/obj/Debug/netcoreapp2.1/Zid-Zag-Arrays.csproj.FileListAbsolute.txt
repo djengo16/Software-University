@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Zid-Zag-Arrays\bin\Debug\netcoreapp2.1\Zid-Zag-Arrays.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Zid-Zag-Arrays\bin\Debug\netcoreapp2.1\Zid-Zag-Arrays.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Zid-Zag-Arrays\bin\Debug\netcoreapp2.1\Zid-Zag-Arrays.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Zid-Zag-Arrays\bin\Debug\netcoreapp2.1\Zid-Zag-Arrays.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Zid-Zag-Arrays\bin\Debug\netcoreapp2.1\Zid-Zag-Arrays.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Zid-Zag-Arrays\obj\Debug\netcoreapp2.1\Zid-Zag-Arrays.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Zid-Zag-Arrays\obj\Debug\netcoreapp2.1\Zid-Zag-Arrays.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Zid-Zag-Arrays\obj\Debug\netcoreapp2.1\Zid-Zag-Arrays.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Zid-Zag-Arrays\obj\Debug\netcoreapp2.1\Zid-Zag-Arrays.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Zid-Zag-Arrays\obj\Debug\netcoreapp2.1\Zid-Zag-Arrays.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Arrays\Zid-Zag-Arrays\obj\Debug\netcoreapp2.1\Zid-Zag-Arrays.pdb

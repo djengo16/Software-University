@@ -1,0 +1,7 @@
+D:\C_sharp\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.exe.config
+D:\C_sharp\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.exe
+D:\C_sharp\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.pdb
+D:\C_sharp\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.csprojAssemblyReference.cache
+D:\C_sharp\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.csproj.CoreCompileInputs.cache
+D:\C_sharp\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.exe
+D:\C_sharp\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.pdb

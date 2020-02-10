@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Change List\bin\Debug\netcoreapp2.1\Change List.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Change List\bin\Debug\netcoreapp2.1\Change List.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Change List\bin\Debug\netcoreapp2.1\Change List.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Change List\bin\Debug\netcoreapp2.1\Change List.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Change List\bin\Debug\netcoreapp2.1\Change List.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Change List\obj\Debug\netcoreapp2.1\Change List.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Change List\obj\Debug\netcoreapp2.1\Change List.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Change List\obj\Debug\netcoreapp2.1\Change List.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Change List\obj\Debug\netcoreapp2.1\Change List.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\Change List\obj\Debug\netcoreapp2.1\Change List.pdb

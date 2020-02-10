@@ -1,0 +1,7 @@
+D:\C_sharp\figureType\bin\Debug\figureType.exe.config
+D:\C_sharp\figureType\bin\Debug\figureType.exe
+D:\C_sharp\figureType\bin\Debug\figureType.pdb
+D:\C_sharp\figureType\obj\Debug\figureType.csprojAssemblyReference.cache
+D:\C_sharp\figureType\obj\Debug\figureType.csproj.CoreCompileInputs.cache
+D:\C_sharp\figureType\obj\Debug\figureType.exe
+D:\C_sharp\figureType\obj\Debug\figureType.pdb

@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Regex\Furniture\bin\Debug\netcoreapp2.1\Furniture.deps.json
+D:\Softuni\Technology Fundamentals C#\Regex\Furniture\bin\Debug\netcoreapp2.1\Furniture.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Regex\Furniture\bin\Debug\netcoreapp2.1\Furniture.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Regex\Furniture\bin\Debug\netcoreapp2.1\Furniture.dll
+D:\Softuni\Technology Fundamentals C#\Regex\Furniture\bin\Debug\netcoreapp2.1\Furniture.pdb
+D:\Softuni\Technology Fundamentals C#\Regex\Furniture\obj\Debug\netcoreapp2.1\Furniture.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Furniture\obj\Debug\netcoreapp2.1\Furniture.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Furniture\obj\Debug\netcoreapp2.1\Furniture.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Regex\Furniture\obj\Debug\netcoreapp2.1\Furniture.dll
+D:\Softuni\Technology Fundamentals C#\Regex\Furniture\obj\Debug\netcoreapp2.1\Furniture.pdb

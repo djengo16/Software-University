@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Orders\bin\Debug\netcoreapp2.1\Orders.deps.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Orders\bin\Debug\netcoreapp2.1\Orders.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Orders\bin\Debug\netcoreapp2.1\Orders.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Orders\bin\Debug\netcoreapp2.1\Orders.dll
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Orders\bin\Debug\netcoreapp2.1\Orders.pdb
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Orders\obj\Debug\netcoreapp2.1\Orders.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Orders\obj\Debug\netcoreapp2.1\Orders.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Orders\obj\Debug\netcoreapp2.1\Orders.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Orders\obj\Debug\netcoreapp2.1\Orders.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Orders\obj\Debug\netcoreapp2.1\Orders.dll
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Orders\obj\Debug\netcoreapp2.1\Orders.pdb

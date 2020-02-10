@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Login\bin\Debug\netcoreapp2.1\Login.deps.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Login\bin\Debug\netcoreapp2.1\Login.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Login\bin\Debug\netcoreapp2.1\Login.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Login\bin\Debug\netcoreapp2.1\Login.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Login\bin\Debug\netcoreapp2.1\Login.pdb
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Login\obj\Debug\netcoreapp2.1\Login.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Login\obj\Debug\netcoreapp2.1\Login.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Login\obj\Debug\netcoreapp2.1\Login.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Login\obj\Debug\netcoreapp2.1\Login.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Exercise\Login\obj\Debug\netcoreapp2.1\Login.pdb

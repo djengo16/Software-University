@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.deps.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.dll
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Legendary Farming\bin\Debug\netcoreapp2.1\Legendary Farming.pdb
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.dll
+D:\Softuni\Technology Fundamentals C#\Associative Arrays - Exercise\Legendary Farming\obj\Debug\netcoreapp2.1\Legendary Farming.pdb

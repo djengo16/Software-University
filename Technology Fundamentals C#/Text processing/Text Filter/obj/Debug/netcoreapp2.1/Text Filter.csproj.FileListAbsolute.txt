@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Text processing\Text Filter\bin\Debug\netcoreapp2.1\Text Filter.deps.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Text Filter\bin\Debug\netcoreapp2.1\Text Filter.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Text Filter\bin\Debug\netcoreapp2.1\Text Filter.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Text Filter\bin\Debug\netcoreapp2.1\Text Filter.dll
+D:\Softuni\Technology Fundamentals C#\Text processing\Text Filter\bin\Debug\netcoreapp2.1\Text Filter.pdb
+D:\Softuni\Technology Fundamentals C#\Text processing\Text Filter\obj\Debug\netcoreapp2.1\Text Filter.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Text processing\Text Filter\obj\Debug\netcoreapp2.1\Text Filter.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Text processing\Text Filter\obj\Debug\netcoreapp2.1\Text Filter.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Text processing\Text Filter\obj\Debug\netcoreapp2.1\Text Filter.dll
+D:\Softuni\Technology Fundamentals C#\Text processing\Text Filter\obj\Debug\netcoreapp2.1\Text Filter.pdb

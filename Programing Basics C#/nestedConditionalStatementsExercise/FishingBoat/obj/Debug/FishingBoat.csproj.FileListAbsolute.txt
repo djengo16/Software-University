@@ -1,0 +1,7 @@
+D:\C_sharp\FishingBoat\bin\Debug\FishingBoat.exe.config
+D:\C_sharp\FishingBoat\bin\Debug\FishingBoat.exe
+D:\C_sharp\FishingBoat\bin\Debug\FishingBoat.pdb
+D:\C_sharp\FishingBoat\obj\Debug\FishingBoat.csprojAssemblyReference.cache
+D:\C_sharp\FishingBoat\obj\Debug\FishingBoat.csproj.CoreCompileInputs.cache
+D:\C_sharp\FishingBoat\obj\Debug\FishingBoat.exe
+D:\C_sharp\FishingBoat\obj\Debug\FishingBoat.pdb

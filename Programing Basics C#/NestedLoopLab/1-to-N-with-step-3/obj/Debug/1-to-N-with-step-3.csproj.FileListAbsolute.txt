@@ -1,0 +1,6 @@
+D:\C_sharp\NestedLoopLab\1-to-N-with-step-3\bin\Debug\1-to-N-with-step-3.exe.config
+D:\C_sharp\NestedLoopLab\1-to-N-with-step-3\bin\Debug\1-to-N-with-step-3.exe
+D:\C_sharp\NestedLoopLab\1-to-N-with-step-3\bin\Debug\1-to-N-with-step-3.pdb
+D:\C_sharp\NestedLoopLab\1-to-N-with-step-3\obj\Debug\1-to-N-with-step-3.csproj.CoreCompileInputs.cache
+D:\C_sharp\NestedLoopLab\1-to-N-with-step-3\obj\Debug\1-to-N-with-step-3.exe
+D:\C_sharp\NestedLoopLab\1-to-N-with-step-3\obj\Debug\1-to-N-with-step-3.pdb

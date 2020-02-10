@@ -1,0 +1,7 @@
+D:\C_sharp\Renovation\bin\Debug\Renovation.exe.config
+D:\C_sharp\Renovation\bin\Debug\Renovation.exe
+D:\C_sharp\Renovation\bin\Debug\Renovation.pdb
+D:\C_sharp\Renovation\obj\Debug\Renovation.csprojAssemblyReference.cache
+D:\C_sharp\Renovation\obj\Debug\Renovation.csproj.CoreCompileInputs.cache
+D:\C_sharp\Renovation\obj\Debug\Renovation.exe
+D:\C_sharp\Renovation\obj\Debug\Renovation.pdb

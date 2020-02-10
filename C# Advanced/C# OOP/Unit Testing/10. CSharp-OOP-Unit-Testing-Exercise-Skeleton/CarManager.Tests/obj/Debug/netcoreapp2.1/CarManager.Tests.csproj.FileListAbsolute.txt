@@ -1,0 +1,17 @@
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.deps.json
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.runtimeconfig.json
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.dll
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.pdb
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.dll
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.pdb
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.csproj.CopyComplete
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.dll
+D:\Softuni\C# Advanced\C# OOP\Unit Testing\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.pdb

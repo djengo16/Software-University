@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Factory\bin\Debug\netcoreapp2.1\Cooking_Factory.deps.json
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Factory\bin\Debug\netcoreapp2.1\Cooking_Factory.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Factory\bin\Debug\netcoreapp2.1\Cooking_Factory.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Factory\bin\Debug\netcoreapp2.1\Cooking_Factory.dll
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Factory\bin\Debug\netcoreapp2.1\Cooking_Factory.pdb
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Factory\obj\Debug\netcoreapp2.1\Cooking_Factory.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Factory\obj\Debug\netcoreapp2.1\Cooking_Factory.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Factory\obj\Debug\netcoreapp2.1\Cooking_Factory.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Factory\obj\Debug\netcoreapp2.1\Cooking_Factory.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Factory\obj\Debug\netcoreapp2.1\Cooking_Factory.dll
+D:\Softuni\Technology Fundamentals C#\mid\Cooking_Factory\obj\Debug\netcoreapp2.1\Cooking_Factory.pdb

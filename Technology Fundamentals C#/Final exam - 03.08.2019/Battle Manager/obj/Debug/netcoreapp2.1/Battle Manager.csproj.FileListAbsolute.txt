@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Battle Manager\bin\Debug\netcoreapp2.1\Battle Manager.deps.json
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Battle Manager\bin\Debug\netcoreapp2.1\Battle Manager.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Battle Manager\bin\Debug\netcoreapp2.1\Battle Manager.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Battle Manager\bin\Debug\netcoreapp2.1\Battle Manager.dll
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Battle Manager\bin\Debug\netcoreapp2.1\Battle Manager.pdb
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Battle Manager\obj\Debug\netcoreapp2.1\Battle Manager.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Battle Manager\obj\Debug\netcoreapp2.1\Battle Manager.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Battle Manager\obj\Debug\netcoreapp2.1\Battle Manager.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Battle Manager\obj\Debug\netcoreapp2.1\Battle Manager.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Battle Manager\obj\Debug\netcoreapp2.1\Battle Manager.dll
+D:\Softuni\Technology Fundamentals C#\Final exam - 03.08.2019\Battle Manager\obj\Debug\netcoreapp2.1\Battle Manager.pdb

@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Regex\Softuni Bar Income\bin\Debug\netcoreapp2.1\Softuni Bar Income.deps.json
+D:\Softuni\Technology Fundamentals C#\Regex\Softuni Bar Income\bin\Debug\netcoreapp2.1\Softuni Bar Income.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Regex\Softuni Bar Income\bin\Debug\netcoreapp2.1\Softuni Bar Income.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Regex\Softuni Bar Income\bin\Debug\netcoreapp2.1\Softuni Bar Income.dll
+D:\Softuni\Technology Fundamentals C#\Regex\Softuni Bar Income\bin\Debug\netcoreapp2.1\Softuni Bar Income.pdb
+D:\Softuni\Technology Fundamentals C#\Regex\Softuni Bar Income\obj\Debug\netcoreapp2.1\Softuni Bar Income.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Softuni Bar Income\obj\Debug\netcoreapp2.1\Softuni Bar Income.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Softuni Bar Income\obj\Debug\netcoreapp2.1\Softuni Bar Income.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Regex\Softuni Bar Income\obj\Debug\netcoreapp2.1\Softuni Bar Income.dll
+D:\Softuni\Technology Fundamentals C#\Regex\Softuni Bar Income\obj\Debug\netcoreapp2.1\Softuni Bar Income.pdb

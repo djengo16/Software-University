@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\mid\Bread_Factory\bin\Debug\netcoreapp2.1\Bread_Factory.deps.json
+D:\Softuni\Technology Fundamentals C#\mid\Bread_Factory\bin\Debug\netcoreapp2.1\Bread_Factory.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\mid\Bread_Factory\bin\Debug\netcoreapp2.1\Bread_Factory.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\mid\Bread_Factory\bin\Debug\netcoreapp2.1\Bread_Factory.dll
+D:\Softuni\Technology Fundamentals C#\mid\Bread_Factory\bin\Debug\netcoreapp2.1\Bread_Factory.pdb
+D:\Softuni\Technology Fundamentals C#\mid\Bread_Factory\obj\Debug\netcoreapp2.1\Bread_Factory.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\mid\Bread_Factory\obj\Debug\netcoreapp2.1\Bread_Factory.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Bread_Factory\obj\Debug\netcoreapp2.1\Bread_Factory.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\mid\Bread_Factory\obj\Debug\netcoreapp2.1\Bread_Factory.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\mid\Bread_Factory\obj\Debug\netcoreapp2.1\Bread_Factory.dll
+D:\Softuni\Technology Fundamentals C#\mid\Bread_Factory\obj\Debug\netcoreapp2.1\Bread_Factory.pdb

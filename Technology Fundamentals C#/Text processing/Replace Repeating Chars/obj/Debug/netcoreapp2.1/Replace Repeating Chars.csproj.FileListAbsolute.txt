@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Text processing\Replace Repeating Chars\bin\Debug\netcoreapp2.1\Replace Repeating Chars.deps.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Replace Repeating Chars\bin\Debug\netcoreapp2.1\Replace Repeating Chars.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Replace Repeating Chars\bin\Debug\netcoreapp2.1\Replace Repeating Chars.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Text processing\Replace Repeating Chars\bin\Debug\netcoreapp2.1\Replace Repeating Chars.dll
+D:\Softuni\Technology Fundamentals C#\Text processing\Replace Repeating Chars\bin\Debug\netcoreapp2.1\Replace Repeating Chars.pdb
+D:\Softuni\Technology Fundamentals C#\Text processing\Replace Repeating Chars\obj\Debug\netcoreapp2.1\Replace Repeating Chars.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Text processing\Replace Repeating Chars\obj\Debug\netcoreapp2.1\Replace Repeating Chars.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Text processing\Replace Repeating Chars\obj\Debug\netcoreapp2.1\Replace Repeating Chars.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Text processing\Replace Repeating Chars\obj\Debug\netcoreapp2.1\Replace Repeating Chars.dll
+D:\Softuni\Technology Fundamentals C#\Text processing\Replace Repeating Chars\obj\Debug\netcoreapp2.1\Replace Repeating Chars.pdb

@@ -1,0 +1,6 @@
+D:\C_sharp\cinema\bin\Debug\cinema.exe.config
+D:\C_sharp\cinema\bin\Debug\cinema.exe
+D:\C_sharp\cinema\bin\Debug\cinema.pdb
+D:\C_sharp\cinema\obj\Debug\cinema.csproj.CoreCompileInputs.cache
+D:\C_sharp\cinema\obj\Debug\cinema.exe
+D:\C_sharp\cinema\obj\Debug\cinema.pdb

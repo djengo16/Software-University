@@ -1,0 +1,6 @@
+D:\C_sharp\forLoopLab\MinNum\bin\Debug\MinNum.exe.config
+D:\C_sharp\forLoopLab\MinNum\bin\Debug\MinNum.exe
+D:\C_sharp\forLoopLab\MinNum\bin\Debug\MinNum.pdb
+D:\C_sharp\forLoopLab\MinNum\obj\Debug\MinNum.csproj.CoreCompileInputs.cache
+D:\C_sharp\forLoopLab\MinNum\obj\Debug\MinNum.exe
+D:\C_sharp\forLoopLab\MinNum\obj\Debug\MinNum.pdb

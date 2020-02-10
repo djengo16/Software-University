@@ -1,0 +1,7 @@
+D:\C_sharp\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.csprojAssemblyReference.cache
+D:\C_sharp\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.csproj.CoreCompileInputs.cache
+D:\C_sharp\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe.config
+D:\C_sharp\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe
+D:\C_sharp\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.pdb
+D:\C_sharp\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.exe
+D:\C_sharp\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.pdb

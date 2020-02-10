@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# Advanced\24 February exam\Tron Racers\bin\Debug\netcoreapp2.1\Tron Racers.deps.json
+D:\Softuni\C# Advanced\C# Advanced\24 February exam\Tron Racers\bin\Debug\netcoreapp2.1\Tron Racers.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\24 February exam\Tron Racers\bin\Debug\netcoreapp2.1\Tron Racers.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\24 February exam\Tron Racers\bin\Debug\netcoreapp2.1\Tron Racers.dll
+D:\Softuni\C# Advanced\C# Advanced\24 February exam\Tron Racers\bin\Debug\netcoreapp2.1\Tron Racers.pdb
+D:\Softuni\C# Advanced\C# Advanced\24 February exam\Tron Racers\obj\Debug\netcoreapp2.1\Tron Racers.csprojAssemblyReference.cache
+D:\Softuni\C# Advanced\C# Advanced\24 February exam\Tron Racers\obj\Debug\netcoreapp2.1\Tron Racers.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\24 February exam\Tron Racers\obj\Debug\netcoreapp2.1\Tron Racers.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\24 February exam\Tron Racers\obj\Debug\netcoreapp2.1\Tron Racers.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\24 February exam\Tron Racers\obj\Debug\netcoreapp2.1\Tron Racers.dll
+D:\Softuni\C# Advanced\C# Advanced\24 February exam\Tron Racers\obj\Debug\netcoreapp2.1\Tron Racers.pdb

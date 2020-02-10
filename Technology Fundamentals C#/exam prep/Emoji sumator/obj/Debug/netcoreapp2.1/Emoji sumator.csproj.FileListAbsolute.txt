@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\exam prep\Emoji sumator\bin\Debug\netcoreapp2.1\Emoji sumator.deps.json
+D:\Softuni\Technology Fundamentals C#\exam prep\Emoji sumator\bin\Debug\netcoreapp2.1\Emoji sumator.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\exam prep\Emoji sumator\bin\Debug\netcoreapp2.1\Emoji sumator.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\exam prep\Emoji sumator\bin\Debug\netcoreapp2.1\Emoji sumator.dll
+D:\Softuni\Technology Fundamentals C#\exam prep\Emoji sumator\bin\Debug\netcoreapp2.1\Emoji sumator.pdb
+D:\Softuni\Technology Fundamentals C#\exam prep\Emoji sumator\obj\Debug\netcoreapp2.1\Emoji sumator.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\exam prep\Emoji sumator\obj\Debug\netcoreapp2.1\Emoji sumator.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\exam prep\Emoji sumator\obj\Debug\netcoreapp2.1\Emoji sumator.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\exam prep\Emoji sumator\obj\Debug\netcoreapp2.1\Emoji sumator.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\exam prep\Emoji sumator\obj\Debug\netcoreapp2.1\Emoji sumator.dll
+D:\Softuni\Technology Fundamentals C#\exam prep\Emoji sumator\obj\Debug\netcoreapp2.1\Emoji sumator.pdb

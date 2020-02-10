@@ -1,0 +1,10 @@
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\Exercise\Problem 4. Even Times\bin\Debug\netcoreapp2.1\Problem 4. Even Times.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\Exercise\Problem 4. Even Times\bin\Debug\netcoreapp2.1\Problem 4. Even Times.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\Exercise\Problem 4. Even Times\bin\Debug\netcoreapp2.1\Problem 4. Even Times.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\Exercise\Problem 4. Even Times\bin\Debug\netcoreapp2.1\Problem 4. Even Times.dll
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\Exercise\Problem 4. Even Times\bin\Debug\netcoreapp2.1\Problem 4. Even Times.pdb
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\Exercise\Problem 4. Even Times\obj\Debug\netcoreapp2.1\Problem 4. Even Times.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\Exercise\Problem 4. Even Times\obj\Debug\netcoreapp2.1\Problem 4. Even Times.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\Exercise\Problem 4. Even Times\obj\Debug\netcoreapp2.1\Problem 4. Even Times.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\Exercise\Problem 4. Even Times\obj\Debug\netcoreapp2.1\Problem 4. Even Times.dll
+D:\Softuni\C# Advanced\C# Advanced\Sets and Dictionaries Advanced\Exercise\Problem 4. Even Times\obj\Debug\netcoreapp2.1\Problem 4. Even Times.pdb

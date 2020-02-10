@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Object and classes\Store_Boxes\bin\Debug\netcoreapp2.1\Store_Boxes.deps.json
+D:\Softuni\Technology Fundamentals C#\Object and classes\Store_Boxes\bin\Debug\netcoreapp2.1\Store_Boxes.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Object and classes\Store_Boxes\bin\Debug\netcoreapp2.1\Store_Boxes.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Object and classes\Store_Boxes\bin\Debug\netcoreapp2.1\Store_Boxes.dll
+D:\Softuni\Technology Fundamentals C#\Object and classes\Store_Boxes\bin\Debug\netcoreapp2.1\Store_Boxes.pdb
+D:\Softuni\Technology Fundamentals C#\Object and classes\Store_Boxes\obj\Debug\netcoreapp2.1\Store_Boxes.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Object and classes\Store_Boxes\obj\Debug\netcoreapp2.1\Store_Boxes.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Object and classes\Store_Boxes\obj\Debug\netcoreapp2.1\Store_Boxes.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Object and classes\Store_Boxes\obj\Debug\netcoreapp2.1\Store_Boxes.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Object and classes\Store_Boxes\obj\Debug\netcoreapp2.1\Store_Boxes.dll
+D:\Softuni\Technology Fundamentals C#\Object and classes\Store_Boxes\obj\Debug\netcoreapp2.1\Store_Boxes.pdb

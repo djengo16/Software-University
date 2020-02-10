@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Divisible_by_3\bin\Debug\netcoreapp2.1\Divisible_by_3.deps.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Divisible_by_3\bin\Debug\netcoreapp2.1\Divisible_by_3.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Divisible_by_3\bin\Debug\netcoreapp2.1\Divisible_by_3.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Divisible_by_3\bin\Debug\netcoreapp2.1\Divisible_by_3.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Divisible_by_3\bin\Debug\netcoreapp2.1\Divisible_by_3.pdb
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Divisible_by_3\obj\Debug\netcoreapp2.1\Divisible_by_3.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Divisible_by_3\obj\Debug\netcoreapp2.1\Divisible_by_3.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Divisible_by_3\obj\Debug\netcoreapp2.1\Divisible_by_3.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Divisible_by_3\obj\Debug\netcoreapp2.1\Divisible_by_3.dll
+D:\Softuni\Technology Fundamentals C#\Intro and Basic Syntax - Lab\Divisible_by_3\obj\Debug\netcoreapp2.1\Divisible_by_3.pdb

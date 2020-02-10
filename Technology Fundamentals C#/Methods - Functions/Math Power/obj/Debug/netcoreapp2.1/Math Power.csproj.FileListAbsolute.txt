@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Math Power\bin\Debug\netcoreapp2.1\Math Power.deps.json
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Math Power\bin\Debug\netcoreapp2.1\Math Power.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Math Power\bin\Debug\netcoreapp2.1\Math Power.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Math Power\bin\Debug\netcoreapp2.1\Math Power.dll
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Math Power\bin\Debug\netcoreapp2.1\Math Power.pdb
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Math Power\obj\Debug\netcoreapp2.1\Math Power.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Math Power\obj\Debug\netcoreapp2.1\Math Power.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Math Power\obj\Debug\netcoreapp2.1\Math Power.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Math Power\obj\Debug\netcoreapp2.1\Math Power.dll
+D:\Softuni\Technology Fundamentals C#\Methods - Functions\Math Power\obj\Debug\netcoreapp2.1\Math Power.pdb

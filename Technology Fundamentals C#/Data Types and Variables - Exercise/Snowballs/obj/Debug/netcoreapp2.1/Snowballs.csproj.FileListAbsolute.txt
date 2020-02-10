@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Snowballs\bin\Debug\netcoreapp2.1\Snowballs.deps.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Snowballs\bin\Debug\netcoreapp2.1\Snowballs.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Snowballs\bin\Debug\netcoreapp2.1\Snowballs.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Snowballs\bin\Debug\netcoreapp2.1\Snowballs.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Snowballs\bin\Debug\netcoreapp2.1\Snowballs.pdb
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Snowballs\obj\Debug\netcoreapp2.1\Snowballs.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Snowballs\obj\Debug\netcoreapp2.1\Snowballs.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Snowballs\obj\Debug\netcoreapp2.1\Snowballs.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Snowballs\obj\Debug\netcoreapp2.1\Snowballs.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\Snowballs\obj\Debug\netcoreapp2.1\Snowballs.pdb

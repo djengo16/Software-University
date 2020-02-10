@@ -1,0 +1,11 @@
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Fashion Botique\bin\Debug\netcoreapp2.1\Fashion Botique.deps.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Fashion Botique\bin\Debug\netcoreapp2.1\Fashion Botique.runtimeconfig.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Fashion Botique\bin\Debug\netcoreapp2.1\Fashion Botique.runtimeconfig.dev.json
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Fashion Botique\bin\Debug\netcoreapp2.1\Fashion Botique.dll
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Fashion Botique\bin\Debug\netcoreapp2.1\Fashion Botique.pdb
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Fashion Botique\obj\Debug\netcoreapp2.1\Fashion Botique.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Fashion Botique\obj\Debug\netcoreapp2.1\Fashion Botique.AssemblyInfoInputs.cache
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Fashion Botique\obj\Debug\netcoreapp2.1\Fashion Botique.AssemblyInfo.cs
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Fashion Botique\obj\Debug\netcoreapp2.1\Fashion Botique.dll
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Fashion Botique\obj\Debug\netcoreapp2.1\Fashion Botique.pdb
+D:\Softuni\C# Advanced\C# Advanced\Stacks and Queue\Exercise\Fashion Botique\obj\Debug\netcoreapp2.1\Fashion Botique.csprojAssemblyReference.cache

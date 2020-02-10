@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\House Party\bin\Debug\netcoreapp2.1\House Party.deps.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\House Party\bin\Debug\netcoreapp2.1\House Party.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\House Party\bin\Debug\netcoreapp2.1\House Party.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\House Party\bin\Debug\netcoreapp2.1\House Party.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\House Party\bin\Debug\netcoreapp2.1\House Party.pdb
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\House Party\obj\Debug\netcoreapp2.1\House Party.csprojAssemblyReference.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\House Party\obj\Debug\netcoreapp2.1\House Party.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\House Party\obj\Debug\netcoreapp2.1\House Party.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\House Party\obj\Debug\netcoreapp2.1\House Party.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\House Party\obj\Debug\netcoreapp2.1\House Party.dll
+D:\Softuni\Technology Fundamentals C#\Exercise - Lists\House Party\obj\Debug\netcoreapp2.1\House Party.pdb

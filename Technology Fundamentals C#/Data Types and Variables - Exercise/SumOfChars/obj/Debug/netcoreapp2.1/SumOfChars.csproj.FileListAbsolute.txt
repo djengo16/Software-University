@@ -1,0 +1,10 @@
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\SumOfChars\bin\Debug\netcoreapp2.1\SumOfChars.deps.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\SumOfChars\bin\Debug\netcoreapp2.1\SumOfChars.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\SumOfChars\bin\Debug\netcoreapp2.1\SumOfChars.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\SumOfChars\bin\Debug\netcoreapp2.1\SumOfChars.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\SumOfChars\bin\Debug\netcoreapp2.1\SumOfChars.pdb
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\SumOfChars\obj\Debug\netcoreapp2.1\SumOfChars.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\SumOfChars\obj\Debug\netcoreapp2.1\SumOfChars.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\SumOfChars\obj\Debug\netcoreapp2.1\SumOfChars.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\SumOfChars\obj\Debug\netcoreapp2.1\SumOfChars.dll
+D:\Softuni\Technology Fundamentals C#\Data Types and Variables - Exercise\SumOfChars\obj\Debug\netcoreapp2.1\SumOfChars.pdb

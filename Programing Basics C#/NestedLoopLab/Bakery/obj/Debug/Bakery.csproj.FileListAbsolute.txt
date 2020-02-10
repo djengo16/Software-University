@@ -1,0 +1,7 @@
+D:\C_sharp\NestedLoopLab\Bakery\bin\Debug\Bakery.exe.config
+D:\C_sharp\NestedLoopLab\Bakery\bin\Debug\Bakery.exe
+D:\C_sharp\NestedLoopLab\Bakery\bin\Debug\Bakery.pdb
+D:\C_sharp\NestedLoopLab\Bakery\obj\Debug\Bakery.csprojAssemblyReference.cache
+D:\C_sharp\NestedLoopLab\Bakery\obj\Debug\Bakery.csproj.CoreCompileInputs.cache
+D:\C_sharp\NestedLoopLab\Bakery\obj\Debug\Bakery.exe
+D:\C_sharp\NestedLoopLab\Bakery\obj\Debug\Bakery.pdb

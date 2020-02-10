@@ -1,0 +1,11 @@
+D:\Softuni\Technology Fundamentals C#\Regex\Match phone number\bin\Debug\netcoreapp2.1\Match phone number.deps.json
+D:\Softuni\Technology Fundamentals C#\Regex\Match phone number\bin\Debug\netcoreapp2.1\Match phone number.runtimeconfig.json
+D:\Softuni\Technology Fundamentals C#\Regex\Match phone number\bin\Debug\netcoreapp2.1\Match phone number.runtimeconfig.dev.json
+D:\Softuni\Technology Fundamentals C#\Regex\Match phone number\bin\Debug\netcoreapp2.1\Match phone number.dll
+D:\Softuni\Technology Fundamentals C#\Regex\Match phone number\bin\Debug\netcoreapp2.1\Match phone number.pdb
+D:\Softuni\Technology Fundamentals C#\Regex\Match phone number\obj\Debug\netcoreapp2.1\Match phone number.csproj.CoreCompileInputs.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Match phone number\obj\Debug\netcoreapp2.1\Match phone number.AssemblyInfoInputs.cache
+D:\Softuni\Technology Fundamentals C#\Regex\Match phone number\obj\Debug\netcoreapp2.1\Match phone number.AssemblyInfo.cs
+D:\Softuni\Technology Fundamentals C#\Regex\Match phone number\obj\Debug\netcoreapp2.1\Match phone number.dll
+D:\Softuni\Technology Fundamentals C#\Regex\Match phone number\obj\Debug\netcoreapp2.1\Match phone number.pdb
+D:\Softuni\Technology Fundamentals C#\Regex\Match phone number\obj\Debug\netcoreapp2.1\Match phone number.csprojAssemblyReference.cache
