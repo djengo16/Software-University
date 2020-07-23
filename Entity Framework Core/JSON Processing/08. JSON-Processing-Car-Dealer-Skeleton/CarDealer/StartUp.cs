@@ -34,9 +34,11 @@ namespace CarDealer
                 Directory.CreateDirectory(ResultPath);
             }
 
-            string json = GetSalesWithAppliedDiscount(db);
+            // string json = GetSalesWithAppliedDiscount(db);
 
-            File.WriteAllText(String.Concat(ResultPath, "/sales-discounts.json"), json);
+            Console.WriteLine(GetTotalSalesByCustomer(db));
+
+           // File.WriteAllText(String.Concat(ResultPath, "/sales-discounts.json"), json);
 
 
         }

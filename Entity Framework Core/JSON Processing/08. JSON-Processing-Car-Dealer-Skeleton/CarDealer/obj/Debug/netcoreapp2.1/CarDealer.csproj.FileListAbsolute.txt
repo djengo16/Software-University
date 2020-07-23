@@ -1,0 +1,12 @@
+D:\Softuni\Software University\Entity Framework Core\JSON Processing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+D:\Softuni\Software University\Entity Framework Core\JSON Processing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+D:\Softuni\Software University\Entity Framework Core\JSON Processing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+D:\Softuni\Software University\Entity Framework Core\JSON Processing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+D:\Softuni\Software University\Entity Framework Core\JSON Processing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+D:\Softuni\Software University\Entity Framework Core\JSON Processing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+D:\Softuni\Software University\Entity Framework Core\JSON Processing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+D:\Softuni\Software University\Entity Framework Core\JSON Processing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+D:\Softuni\Software University\Entity Framework Core\JSON Processing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+D:\Softuni\Software University\Entity Framework Core\JSON Processing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+D:\Softuni\Software University\Entity Framework Core\JSON Processing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+D:\Softuni\Software University\Entity Framework Core\JSON Processing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.genruntimeconfig.cache
