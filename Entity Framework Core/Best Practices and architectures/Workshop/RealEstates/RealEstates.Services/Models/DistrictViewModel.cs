@@ -1,4 +1,4 @@
-﻿namespace RealEstates.Services
+﻿namespace RealEstates.Services.Models
 {
     public  class DistrictViewModel
     {
