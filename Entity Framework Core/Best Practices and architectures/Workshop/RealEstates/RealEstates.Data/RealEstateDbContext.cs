@@ -24,7 +24,7 @@ namespace RealEstates.Data
 
         public DbSet<District> Districts { get; set; }
 
-        public DbSet<PropertyType> propertyTypes { get; set; }
+        public DbSet<PropertyType> PropertyTypes { get; set; }
 
         public DbSet<BuildingType> BuildingTypes { get; set; }
 
