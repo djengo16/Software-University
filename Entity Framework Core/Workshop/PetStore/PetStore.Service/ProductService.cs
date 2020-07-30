@@ -75,6 +75,8 @@ namespace PetStore.Services
             return productsServiceModels;
         }
 
+
+
         public bool RemoveById(string id)
         {
             var productToRemove = this.dbCon.Products
@@ -111,6 +113,27 @@ namespace PetStore.Services
             bool wasDeleted = rowsAffected == 1;
 
             return wasDeleted;
+        }
+
+        public SearchProductsByNameServiceModel SearchProductByName(string name)
+        {
+            var product = this.dbCon
+                .Products
+                .Where(x => x.Name == name)
+                .Select(x => new SearchProductsByNameServiceModel
+                {
+                    Name = x.Name,
+                    Price = x.Price,
+                    ProductType = x.ProductType.ToString()
+                })
+                .FirstOrDefault();
+
+            if(product == null)
+            {
+                throw new ArgumentException(ExceptionMessages.InvalidProductName);
+            }
+
+            return product;            
         }
     }
 }
