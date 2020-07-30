@@ -31,12 +31,12 @@ namespace PetStore.Models
         [Required]
         public decimal Price { get; set; }
 
-        [ForeignKey("Breed")]
+        [ForeignKey(nameof(Breed))]
         public int BreedId { get; set; }
 
         public Breed Breed { get; set; }
 
-        [ForeignKey("Client")]
+        [ForeignKey(nameof(Client))]
         public string ClientId { get; set; }
 
         public virtual Client Client { get; set; }
