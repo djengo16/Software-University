@@ -4,7 +4,9 @@ using System.Text;
 
 namespace PetStore.Models.Enumerations
 {
-    class Gender
+    public enum Gender
     {
+        male = 1,
+        female =2
     }
 }
