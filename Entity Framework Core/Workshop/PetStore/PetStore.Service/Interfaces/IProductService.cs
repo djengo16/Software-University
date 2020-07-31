@@ -12,7 +12,7 @@ namespace PetStore.Services.Interfaces
 
         ICollection<ListAllProducByTypetServiceModel> ListProductsByType(string type);
 
-        SearchProductsByNameServiceModel SearchProductByName(string name);
+        ICollection<SearchProductsByNameServiceModel> SearchProductByName(string searchString);
         ICollection<ListAllProductsServiceModel> ListAllProducts();
 
         bool RemoveById(string id);

@@ -76,6 +76,22 @@ namespace PetStore.Services
         }
 
 
+        public ICollection<SearchProductsByNameServiceModel> SearchProductByName(string searchStr)
+        {
+            var product = this.dbCon
+                .Products
+                .Where(p => p.Name.ToLower().Contains(searchStr.ToLower()))
+                .Select(x => new SearchProductsByNameServiceModel
+                {
+                    Name = x.Name,
+                    Price = x.Price,
+                    ProductType = x.ProductType.ToString()
+                })
+                .ToList();
+            
+
+            return product;            
+        }
 
         public bool RemoveById(string id)
         {
@@ -115,25 +131,5 @@ namespace PetStore.Services
             return wasDeleted;
         }
 
-        public SearchProductsByNameServiceModel SearchProductByName(string name)
-        {
-            var product = this.dbCon
-                .Products
-                .Where(x => x.Name == name)
-                .Select(x => new SearchProductsByNameServiceModel
-                {
-                    Name = x.Name,
-                    Price = x.Price,
-                    ProductType = x.ProductType.ToString()
-                })
-                .FirstOrDefault();
-
-            if(product == null)
-            {
-                throw new ArgumentException(ExceptionMessages.InvalidProductName);
-            }
-
-            return product;            
-        }
     }
 }
