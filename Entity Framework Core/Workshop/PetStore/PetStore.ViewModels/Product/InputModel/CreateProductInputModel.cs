@@ -1,13 +1,9 @@
-﻿using PetStore.Models.Enumerations;
-using System;
-using System.Collections.Generic;
+﻿
 using System.ComponentModel.DataAnnotations;
-using System.Text;
 
-
-namespace PetStore.ServiceModels.Products.InputModels
+namespace PetStore.ViewModels.Product.InputModel
 {
-    public class AddProductInputServiceModel
+    public class CreateProductInputModel
     {
         [Required]
         public string Name { get; set; }

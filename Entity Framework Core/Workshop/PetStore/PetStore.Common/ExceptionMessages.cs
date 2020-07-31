@@ -10,7 +10,7 @@ namespace PetStore.Common
 
         public const string InvalidProductId= "Product with given Id doesn't exist!";
 
-        public const string InvalidProductName= "Product with given Name doesn't exist!";
+        
 
 
 

@@ -8,9 +8,9 @@ namespace PetStore.Services.Interfaces
 {
     public interface IProductService
     {
-        void AddProduct(AddProductInputServiceModel input);
+        void Create(AddProductInputServiceModel input);
 
-        ICollection<ListAllProducByTypetServiceModel> ListProductsByType(string type);
+        ICollection<ListAllProductsByTypetServiceModel> ListProductsByType(string type);
 
         ICollection<SearchProductsByNameServiceModel> SearchProductByName(string searchString);
         ICollection<ListAllProductsServiceModel> ListAllProducts();
@@ -18,6 +18,10 @@ namespace PetStore.Services.Interfaces
         bool RemoveById(string id);
 
         bool RemoveByName(string name);
+
+        void EditProduct(string id, EditProductInputServiceModel product);
+
+        ProductDetailsServiceModel GetById(string id);
 
     }
 }

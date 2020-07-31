@@ -2,12 +2,15 @@
 using PetStore.Data;
 using PetStore.Models;
 using PetStore.Models.Enumerations;
+
 using PetStore.ServiceModels.Products.InputModels;
 using PetStore.ServiceModels.Products.OutputModels;
 using PetStore.Services.Interfaces;
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 
 namespace PetStore.Services
@@ -21,17 +24,25 @@ namespace PetStore.Services
             this.dbCon = context;
         }
 
-        public void AddProduct(AddProductInputServiceModel input)
+        public void Create(AddProductInputServiceModel input)
         {
-            var product = new Product
+            try
             {
-                Name = input.Name,
-                ProductType = input.ProductType,
-                Price = input.Price
-            };
+                var product = new Product
+                {
+                    Name = input.Name,
+                    ProductType = (ProductType)input.ProductType,
+                    Price = input.Price
 
-            this.dbCon.Products.Add(product);
-            this.dbCon.SaveChanges();
+                };
+                this.dbCon.Products.Add(product);
+                this.dbCon.SaveChanges();
+            }
+            catch (Exception)
+            {
+                throw new InvalidOperationException(ExceptionMessages.InvalidProductType);
+            }
+
         }
 
 
@@ -41,6 +52,7 @@ namespace PetStore.Services
             var products = this.dbCon.Products
                 .Select(x => new ListAllProductsServiceModel
                 {
+                    ProductId = x.Id,
                     Name = x.Name,
                     ProductType = x.ProductType.ToString(),
                     Price = x.Price
@@ -51,7 +63,7 @@ namespace PetStore.Services
             return products;
         }
 
-        public ICollection<ListAllProducByTypetServiceModel> ListProductsByType(string type)
+        public ICollection<ListAllProductsByTypetServiceModel> ListProductsByType(string type)
         {
             ProductType productType;
 
@@ -64,7 +76,7 @@ namespace PetStore.Services
 
             var productsServiceModels = this.dbCon.Products
                 .Where(x => x.ProductType == productType)
-                .Select(x => new ListAllProducByTypetServiceModel
+                .Select(x => new ListAllProductsByTypetServiceModel
                 {
                     Name = x.Name,
                     Price = x.Price
@@ -83,22 +95,49 @@ namespace PetStore.Services
                 .Where(p => p.Name.ToLower().Contains(searchStr.ToLower()))
                 .Select(x => new SearchProductsByNameServiceModel
                 {
+
                     Name = x.Name,
                     Price = x.Price,
                     ProductType = x.ProductType.ToString()
                 })
                 .ToList();
-            
 
-            return product;            
+
+            return product;
         }
+
+        //public ICollection<ListAllProductsByNameServiceModel> SearchByName(string searchStr, bool caseSensitive)
+        //{
+        //    ICollection<ListAllProductsByNameServiceModel> products;
+
+        //    if (caseSensitive)
+        //    {
+        //        products = this.dbContext
+        //            .Products
+        //            .Where(p => p.Name.Contains(searchStr))
+        //            .ProjectTo
+        //                <ListAllProductsByNameServiceModel>(this.mapper.ConfigurationProvider)
+        //            .ToList();
+        //    }
+        //    else
+        //    {
+        //        products = this.dbContext
+        //            .Products
+        //            .Where(p => p.Name.ToLower().Contains(searchStr.ToLower()))
+        //            .ProjectTo
+        //                <ListAllProductsByNameServiceModel>(this.mapper.ConfigurationProvider)
+        //            .ToList();
+        //    }
+
+        //    return products;
+        //}
 
         public bool RemoveById(string id)
         {
             var productToRemove = this.dbCon.Products
                 .Find(id);
 
-            if(productToRemove == null)
+            if (productToRemove == null)
             {
                 throw new ArgumentException(ExceptionMessages.InvalidProductId);
             }
@@ -119,7 +158,7 @@ namespace PetStore.Services
 
             if (productToRemove == null)
             {
-                throw new ArgumentException(ExceptionMessages.InvalidProductName);
+                throw new ArgumentException(ExceptionMessages.InvalidProductType);
             }
 
             dbCon.Products.Remove(productToRemove);
@@ -131,5 +170,50 @@ namespace PetStore.Services
             return wasDeleted;
         }
 
+        public void EditProduct(string id, EditProductInputServiceModel input)
+        {
+            Product productToUpdate = dbCon.Products.Find(id);
+
+            if (productToUpdate == null)
+            {
+                throw new ArgumentException(ExceptionMessages.InvalidProductId);
+            }
+
+            try
+            {
+
+                productToUpdate.Name = input.Name;
+                productToUpdate.ProductType =
+                    (ProductType)Enum.Parse(typeof(ProductType), input.ProductType, true);
+                productToUpdate.Price = input.Price;
+
+                this.dbCon.SaveChanges();
+            }
+            catch (Exception)
+            {
+                throw new InvalidOperationException(ExceptionMessages.InvalidProductType);
+            }
+
+        }
+
+        public ProductDetailsServiceModel GetById(string id)
+        {
+            Product product = this.dbCon.Products.FirstOrDefault(x => x.Id == id);
+
+            if(product == null)
+            {
+                throw new ArgumentException(ExceptionMessages.InvalidProductId);
+            }
+
+            ProductDetailsServiceModel serviceModels =
+                new ProductDetailsServiceModel
+                {
+                    Name = product.Name,
+                    Price = product.Price,
+                    ProductType = product.ProductType.ToString()
+                };
+
+            return serviceModels;
+        }
     }
 }
