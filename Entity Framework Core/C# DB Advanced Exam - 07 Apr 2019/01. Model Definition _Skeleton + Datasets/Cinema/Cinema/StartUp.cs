@@ -18,9 +18,9 @@
 
             ResetDatabase(context, shouldDropDatabase: true);
 
-           // var projectDir = GetProjectDirectory();
+            var projectDir = GetProjectDirectory();
 
-           //ImportEntities(context, projectDir + @"Datasets/", projectDir + @"ImportResults/");
+           ImportEntities(context, projectDir + @"Datasets/", projectDir + @"ImportResults/");
 
            // ExportEntities(context, projectDir + @"ExportResults/");
 
@@ -42,14 +42,14 @@
                     File.ReadAllText(baseDir + "halls-seats.json"));
             PrintAndExportEntityToFile(hallSeats, exportDir + "Actual Result - ImportHallSeats.txt");
 
-            var projections = DataProcessor.Deserializer.ImportProjections(context,
-                File.ReadAllText(baseDir + "projections.xml"));
-            PrintAndExportEntityToFile(projections, exportDir + "Actual Result - ImportProjections.txt");
+            //var projections = DataProcessor.Deserializer.ImportProjections(context,
+            //    File.ReadAllText(baseDir + "projections.xml"));
+            //PrintAndExportEntityToFile(projections, exportDir + "Actual Result - ImportProjections.txt");
 
-            var customerTickets =
-                DataProcessor.Deserializer.ImportCustomerTickets(context,
-                    File.ReadAllText(baseDir + "customers-tickets.xml"));
-            PrintAndExportEntityToFile(customerTickets, exportDir + "Actual Result - ImportCustomerTickets.txt");
+            //var customerTickets =
+            //    DataProcessor.Deserializer.ImportCustomerTickets(context,
+            //        File.ReadAllText(baseDir + "customers-tickets.xml"));
+            //PrintAndExportEntityToFile(customerTickets, exportDir + "Actual Result - ImportCustomerTickets.txt");
         }
 
         private static void ExportEntities(CinemaContext context, string exportDir)
