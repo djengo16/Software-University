@@ -16,6 +16,7 @@ namespace Cinema.DataProcessor.ImportDto
         public string Title { get; set; }
 
         [JsonProperty("Genre")]
+        //[Range(0,9)]
         [Required]
         public string Genre { get; set; }
 
