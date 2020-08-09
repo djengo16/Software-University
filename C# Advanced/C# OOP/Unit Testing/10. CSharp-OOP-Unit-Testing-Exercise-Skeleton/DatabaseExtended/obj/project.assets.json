@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\C# Advanced\\C# OOP\\Unit Testing\\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\\DatabaseExtended\\DatabaseExtended.csproj",
+      "projectUniqueName": "D:\\Softuni\\Software University\\C# Advanced\\C# OOP\\Unit Testing\\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\\DatabaseExtended\\DatabaseExtended.csproj",
       "projectName": "DatabaseExtended",
-      "projectPath": "D:\\Softuni\\C# Advanced\\C# OOP\\Unit Testing\\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\\DatabaseExtended\\DatabaseExtended.csproj",
+      "projectPath": "D:\\Softuni\\Software University\\C# Advanced\\C# OOP\\Unit Testing\\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\\DatabaseExtended\\DatabaseExtended.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\C# Advanced\\C# OOP\\Unit Testing\\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\\DatabaseExtended\\obj\\",
+      "outputPath": "D:\\Softuni\\Software University\\C# Advanced\\C# OOP\\Unit Testing\\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton\\DatabaseExtended\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -736,10 +736,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
