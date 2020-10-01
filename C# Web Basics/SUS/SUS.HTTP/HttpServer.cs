@@ -10,7 +10,7 @@ namespace SUS.HTTP
     public class HttpServer : IHttpServer
     {
         IDictionary<string, Func<HttpRequest, HttpResponse>>
-            routeTable = new Dictionary<string, Func<HttpRequest, HttpResponse>>();
+           routeTable = new Dictionary<string, Func<HttpRequest, HttpResponse>>();
 
         public void AddRoute(string path, Func<HttpRequest, HttpResponse> action)
         {
@@ -26,7 +26,7 @@ namespace SUS.HTTP
 
         public async Task StartAsync(int port)
         {
-            
+
             TcpListener tcpListener =
                 new TcpListener(IPAddress.Loopback, port);
             tcpListener.Start();
@@ -82,6 +82,7 @@ namespace SUS.HTTP
                     {
                         // Not Found 404
                         response = new HttpResponse("text/html", new byte[0], HttpStatusCode.NotFound);
+                        response.StatusCode = HttpStatusCode.NotFound;
                     }
 
                     response.Cookies.Add(new ResponseCookie("sid", Guid.NewGuid().ToString())
@@ -98,6 +99,8 @@ namespace SUS.HTTP
             {
                 Console.WriteLine(ex.Message);
             }
+
+
         }
     }
 }

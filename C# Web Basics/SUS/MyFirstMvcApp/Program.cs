@@ -13,9 +13,9 @@ namespace MyFirstMvcApp
         static async Task Main(string[] args)
         {
             var server = new HttpServer();
-
+            
             server.AddRoute("/", HomePage);
-            server.AddRoute("/favicon", Favicon);
+            server.AddRoute("/favicon.ico", Favicon);
             server.AddRoute("/about", About);
             server.AddRoute("/login", Login);
 
@@ -33,8 +33,8 @@ namespace MyFirstMvcApp
 
         static HttpResponse Favicon(HttpRequest request)
         {
-            var fileBytes = File.ReadAllBytes("wwwroot/favicon.ico");
-            var response = new HttpResponse("image/vnd.microsoft.icon", fileBytes);
+            var fileBytes = File.ReadAllBytes("../../../wwwroot/favicon.ico");
+            var response = new HttpResponse("image/x-icon", fileBytes);
             return response;
         }
 
