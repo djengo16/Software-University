@@ -11,11 +11,11 @@ namespace MyFirstMvcApp.Controllers
     {
         public HttpResponse Login(HttpRequest request)
         {
-            return this.View("Views/Users/Login.cshtml");            
+            return this.View();            
         }
         public HttpResponse Register(HttpRequest request)
         {
-           return this.View("Views/Users/Register.cshtml");
+           return this.View();
 
         }
     }
