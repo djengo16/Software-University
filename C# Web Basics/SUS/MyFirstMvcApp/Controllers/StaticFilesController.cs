@@ -11,7 +11,7 @@ namespace MyFirstMvcApp.Controllers
     {
         public HttpResponse Favicon(HttpRequest request)
         {
-            return this.File("wwwroot/favicon.ico", "image/vnd.microsoft.icon");
+            return this.File("../../../wwwroot/favicon.ico", "image/vnd.microsoft.icon");
         }
 
         internal HttpResponse BootstrapCss(HttpRequest request)

@@ -61,14 +61,14 @@ namespace SUS.HTTP
                             data.AddRange(buffer);
                         }
                     }
-
+                    ;
                     // byte[] => string (text)
                     var requestAsString = Encoding.UTF8.GetString(data.ToArray());
                     var request = new HttpRequest(requestAsString);
                     Console.WriteLine($"{request.Method} {request.Path} => {request.Headers.Count} headers");
 
                     HttpResponse response;
-                    var route = routeTable.FirstOrDefault(x => x.Path == request.Path);
+                    var route = routeTable.FirstOrDefault(x => string.Compare(x.Path,request.Path,true) == 0);
 
                     if (route != null)
                     {
@@ -80,6 +80,8 @@ namespace SUS.HTTP
                         response = new HttpResponse("text/html", new byte[0], HttpStatusCode.NotFound);
                         response.StatusCode = HttpStatusCode.NotFound;
                     }
+
+                    
 
                     response.Cookies.Add(new ResponseCookie("sid", Guid.NewGuid().ToString())
                     { HttpOnly = true, MaxAge = 60 * 24 * 60 * 60 });
