@@ -1,9 +1,9 @@
-﻿using SUS.HTTP;
-using System.Collections.Generic;
-
-
-namespace SUS.MvcFramework
+﻿namespace SUS.MvcFramework
 {
+    using SUS.HTTP;
+    using System.Collections.Generic;
+
+
     public interface IMvcApplication
     {
         void ConfigureServices();

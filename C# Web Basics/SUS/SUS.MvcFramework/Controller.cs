@@ -1,32 +1,43 @@
-﻿using SUS.HTTP;
-using System.Runtime.CompilerServices;
-using System.Text;
-
-namespace SUS.MvcFramework
+﻿namespace SUS.MvcFramework
 {
+    using SUS.HTTP;
+    using SUS.MvcFramework.ViewEngine;
+    using System.Net;
+    using System.Runtime.CompilerServices;
+    using System.Text;
+
     public abstract class Controller
     {
-        public HttpResponse View([CallerMemberNameAttribute]string viewPath = null)
+        private SusViewEngine viewEngine;
+
+        public Controller()
+        {
+            this.viewEngine = new SusViewEngine();
+        }
+
+        public HttpResponse View(
+            object viewModel = null,
+            [CallerMemberName]string viewPath = null)
         {
             var layout = System.IO.File.ReadAllText("Views/Shared/_Layout.cshtml");
+            layout = layout.Replace("@RenderBody()", "____VIEW_GOES_HERE____");
+            layout = this.viewEngine.GetHtml(layout, viewModel);
 
-            int controllerLength = "Controller".Length - 1;
+            var viewContent = System.IO.File.ReadAllText(
+                "Views/" +
+                this.GetType().Name.Replace("Controller", string.Empty) +
+                "/" + viewPath + ".cshtml");
+            viewContent = this.viewEngine.GetHtml(viewContent, viewModel);
 
-            var viewContent = System.IO.File
-                .ReadAllText("Views/" 
-                + this.GetType().Name.Remove(this.GetType().Name.Length - controllerLength) // Removing the "Controller" part.
-                + "/" + viewPath + ".cshtml");
-
-            var responseHtml = layout.Replace("@RenderBody", viewContent);
+            var responseHtml = layout.Replace("____VIEW_GOES_HERE____", viewContent);
 
             var responseBodyBytes = Encoding.UTF8.GetBytes(responseHtml);
             var response = new HttpResponse("text/html", responseBodyBytes);
             return response;
-
         }
 
-        public HttpResponse File(string filePath,string contentType )
-        {            
+        public HttpResponse File(string filePath, string contentType)
+        {
             var fileBytes = System.IO.File.ReadAllBytes(filePath);
             var response = new HttpResponse(contentType, fileBytes);
             return response;
@@ -34,10 +45,9 @@ namespace SUS.MvcFramework
 
         public HttpResponse Redirect(string url)
         {
-            var response = new HttpResponse(System.Net.HttpStatusCode.Found);
+            var response = new HttpResponse(HttpStatusCode.Found);
             response.Headers.Add(new Header("Location", url));
             return response;
         }
     }
-
 }

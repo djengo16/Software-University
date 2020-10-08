@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace SUS.MvcFramework.ViewEngine
+﻿namespace SUS.MvcFramework.ViewEngine
 {
-    class IView
+    public interface IView
     {
+        string ExecuteTemplate(object viewModel);
     }
 }
