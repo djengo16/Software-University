@@ -61,7 +61,7 @@ namespace SUS.HTTP
                             data.AddRange(buffer);
                         }
                     }
-                    ;
+                    
                     // byte[] => string (text)
                     var requestAsString = Encoding.UTF8.GetString(data.ToArray());
                     var request = new HttpRequest(requestAsString);

@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUS.HTTP", "SUS.HTTP\SUS.HTTP.csproj", "{53E5080B-EBFE-4435-96A3-32A4D9A3D746}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SUS.HTTP", "SUS.HTTP\SUS.HTTP.csproj", "{53E5080B-EBFE-4435-96A3-32A4D9A3D746}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apps", "Apps", "{12ADEE01-FC1E-4BB3-A202-867D3403DA6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstMvcApp", "MyFirstMvcApp\MyFirstMvcApp.csproj", "{11EBB3BC-D661-4767-B8D6-729D5C1DBD3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirstMvcApp", "MyFirstMvcApp\MyFirstMvcApp.csproj", "{11EBB3BC-D661-4767-B8D6-729D5C1DBD3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUS.MvcFramework", "SUS.MvcFramework\SUS.MvcFramework.csproj", "{CE468C88-9469-4CA3-84B2-8C068BFA7AE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SUS.MvcFramework", "SUS.MvcFramework\SUS.MvcFramework.csproj", "{CE468C88-9469-4CA3-84B2-8C068BFA7AE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoMvcApp", "DemoMvcApp\DemoMvcApp.csproj", "{83844A16-DC6F-46D8-9AA3-AEB0A0D2C17E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,12 +31,17 @@ Global
 		{CE468C88-9469-4CA3-84B2-8C068BFA7AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE468C88-9469-4CA3-84B2-8C068BFA7AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE468C88-9469-4CA3-84B2-8C068BFA7AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83844A16-DC6F-46D8-9AA3-AEB0A0D2C17E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83844A16-DC6F-46D8-9AA3-AEB0A0D2C17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83844A16-DC6F-46D8-9AA3-AEB0A0D2C17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83844A16-DC6F-46D8-9AA3-AEB0A0D2C17E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{11EBB3BC-D661-4767-B8D6-729D5C1DBD3D} = {12ADEE01-FC1E-4BB3-A202-867D3403DA6F}
+		{83844A16-DC6F-46D8-9AA3-AEB0A0D2C17E} = {12ADEE01-FC1E-4BB3-A202-867D3403DA6F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {15A858D6-E843-4042-8CFA-6B17F573BBE9}

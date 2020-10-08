@@ -10,9 +10,11 @@ namespace SUS.MvcFramework
         {
             var layout = System.IO.File.ReadAllText("Views/Shared/_Layout.cshtml");
 
+            int controllerLength = "Controller".Length - 1;
+
             var viewContent = System.IO.File
                 .ReadAllText("Views/" 
-                + this.GetType().Name.Replace("Controller","")
+                + this.GetType().Name.Remove(this.GetType().Name.Length - controllerLength) // Removing the "Controller" part.
                 + "/" + viewPath + ".cshtml");
 
             var responseHtml = layout.Replace("@RenderBody", viewContent);
@@ -24,7 +26,7 @@ namespace SUS.MvcFramework
         }
 
         public HttpResponse File(string filePath,string contentType )
-        {
+        {            
             var fileBytes = System.IO.File.ReadAllBytes(filePath);
             var response = new HttpResponse(contentType, fileBytes);
             return response;
