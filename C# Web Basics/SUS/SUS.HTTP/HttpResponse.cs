@@ -9,7 +9,7 @@
     public class HttpResponse
     {
 
-        public HttpResponse(HttpStatusCode statusCode)
+        public HttpResponse(string contentType, HttpStatusCode statusCode)
         {
             this.StatusCode = statusCode;
             this.Headers = new List<Header>();

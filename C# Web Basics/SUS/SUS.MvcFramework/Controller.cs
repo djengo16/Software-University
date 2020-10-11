@@ -1,11 +1,12 @@
-﻿namespace SUS.MvcFramework
-{
-    using SUS.HTTP;
-    using SUS.MvcFramework.ViewEngine;
-    using System.Net;
-    using System.Runtime.CompilerServices;
-    using System.Text;
+﻿using SUS.HTTP;
+using SUS.MvcFramework.ViewEngine;
+using System.Net;
+using System.Net.Http;
+using System.Runtime.CompilerServices;
+using System.Text;
 
+namespace SUS.MvcFramework
+{
     public abstract class Controller
     {
         private SusViewEngine viewEngine;
@@ -15,21 +16,19 @@
             this.viewEngine = new SusViewEngine();
         }
 
+        public HttpRequest Request { get; set; }
+
         public HttpResponse View(
             object viewModel = null,
             [CallerMemberName]string viewPath = null)
         {
-            var layout = System.IO.File.ReadAllText("Views/Shared/_Layout.cshtml");
-            layout = layout.Replace("@RenderBody()", "____VIEW_GOES_HERE____");
-            layout = this.viewEngine.GetHtml(layout, viewModel);
-
             var viewContent = System.IO.File.ReadAllText(
                 "Views/" +
                 this.GetType().Name.Replace("Controller", string.Empty) +
                 "/" + viewPath + ".cshtml");
             viewContent = this.viewEngine.GetHtml(viewContent, viewModel);
 
-            var responseHtml = layout.Replace("____VIEW_GOES_HERE____", viewContent);
+            var responseHtml = this.PutViewInLayout(viewContent, viewModel);
 
             var responseBodyBytes = Encoding.UTF8.GetBytes(responseHtml);
             var response = new HttpResponse("text/html", responseBodyBytes);
@@ -45,9 +44,27 @@
 
         public HttpResponse Redirect(string url)
         {
-            var response = new HttpResponse(HttpStatusCode.Found);
+            var response = new HttpResponse(HttpStatusCode.InternalServerError);
             response.Headers.Add(new Header("Location", url));
             return response;
+        }
+
+        public HttpResponse Error(string errorText)
+        {
+            var viewContent = $"<div class=\"alert alert-danger\" role=\"alert\">{errorText}</div>";
+            var responseHtml = this.PutViewInLayout(viewContent);
+            var responseBodyBytes = Encoding.UTF8.GetBytes(responseHtml);
+            var response = new HttpResponse("text/html", responseBodyBytes, HttpStatusCode.InternalServerError);
+            return response;
+        }
+
+        private string PutViewInLayout(string viewContent, object viewModel = null)
+        {
+            var layout = System.IO.File.ReadAllText("Views/Shared/_Layout.cshtml");
+            layout = layout.Replace("@RenderBody()", "____VIEW_GOES_HERE____");
+            layout = this.viewEngine.GetHtml(layout, viewModel);
+            var responseHtml = layout.Replace("____VIEW_GOES_HERE____", viewContent);
+            return responseHtml;
         }
     }
 }
