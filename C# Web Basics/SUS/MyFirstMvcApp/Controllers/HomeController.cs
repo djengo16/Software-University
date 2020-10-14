@@ -1,16 +1,19 @@
 ﻿using SUS.HTTP;
 using SUS.MvcFramework;
 
-
-namespace MyFirstMvcApp.Controllers
+namespace BattleCards.Controllers
 {
     public class HomeController : Controller
     {
-        public  HttpResponse Index(HttpRequest request)
+        [HttpGet("/")]
+        public HttpResponse Index()
         {
+            if (this.IsUserSignedIn())
+            {
+                return this.Redirect("/Cards/All");
+            }
+
             return this.View();
         }
-
-
     }
 }

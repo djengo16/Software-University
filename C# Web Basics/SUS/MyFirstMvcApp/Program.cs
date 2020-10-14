@@ -1,19 +1,14 @@
-﻿using MyFirstMvcApp.Controllers;
-
-using SUS.HTTP;
+﻿using SUS.MvcFramework;
 using System.Threading.Tasks;
-using System.Collections.Generic;
-using SUS.MvcFramework;
 
-namespace MyFirstMvcApp
+namespace BattleCards
 {
-    class Program
+    public class Program
     {
-        static async Task Main(string[] args)
+        public static async Task Main(string[] args)
         {
-            
+            // TODO: <Startup>
             await Host.CreateHostAsync(new Startup(), 80);
         }
-     
     }
 }
