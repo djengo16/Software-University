@@ -1,12 +1,11 @@
-﻿namespace SUS.MvcFramework
+﻿using SUS.HTTP;
+using System.Collections.Generic;
+
+namespace SUS.MvcFramework
 {
-    using SUS.HTTP;
-    using System.Collections.Generic;
-
-
     public interface IMvcApplication
     {
-        void ConfigureServices();
+        void ConfigureServices(IServiceCollection serviceCollection);
 
         void Configure(List<Route> routeTable);
     }

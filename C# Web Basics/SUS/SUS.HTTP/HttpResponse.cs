@@ -1,22 +1,20 @@
-﻿namespace SUS.HTTP
+﻿using SUS.HTTP.Enums;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace SUS.HTTP
 {
-    using System;
-    using System.Net;
-    using System.Text;
-    using System.Collections.Generic;
-
-
     public class HttpResponse
     {
-
-        public HttpResponse(string contentType, HttpStatusCode statusCode)
+        public HttpResponse(HttpStatusCode statusCode)
         {
             this.StatusCode = statusCode;
             this.Headers = new List<Header>();
             this.Cookies = new List<Cookie>();
-
         }
-        public HttpResponse(string contentType, byte[] body, HttpStatusCode statusCode = HttpStatusCode.OK)
+
+        public HttpResponse(string contentType, byte[] body, HttpStatusCode statusCode = HttpStatusCode.Ok)
         {
             if (body == null)
             {

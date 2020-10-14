@@ -75,7 +75,7 @@ namespace SUS.HTTP
                     else
                     {
                         // Not Found 404
-                        response = new HttpResponse("text/html", new byte[0], HttpStatusCode.NotFound);
+                        response = new HttpResponse("text/html", new byte[0], Enums.HttpStatusCode.NotFound);
                     }
 
                     response.Headers.Add(new Header("Server", "SUS Server 1.0"));
@@ -90,7 +90,11 @@ namespace SUS.HTTP
 
                     var responseHeaderBytes = Encoding.UTF8.GetBytes(response.ToString());
                     await stream.WriteAsync(responseHeaderBytes, 0, responseHeaderBytes.Length);
-                    await stream.WriteAsync(response.Body, 0, response.Body.Length);
+
+                    if (response.Body != null)
+                    {
+                        await stream.WriteAsync(response.Body, 0, response.Body.Length);
+                    }
                 }
 
                 tcpClient.Close();

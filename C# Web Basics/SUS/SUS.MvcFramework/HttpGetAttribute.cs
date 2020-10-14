@@ -1,10 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
+using SUS.HTTP.Enums;
 
 namespace SUS.MvcFramework
 {
-    class HttpGetAttribute
+    public class HttpGetAttribute : BaseHttpAttribute
     {
+        public HttpGetAttribute()
+        {
+        }
+
+        public HttpGetAttribute(string url)
+        {
+            this.Url = url;
+        }
+
+        public override HttpMethod Method => HttpMethod.Get;
     }
 }
