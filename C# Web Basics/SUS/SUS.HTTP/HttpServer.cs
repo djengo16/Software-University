@@ -12,7 +12,7 @@ namespace SUS.HTTP
     public class HttpServer : IHttpServer
     {
         List<Route> routeTable;
-
+        
         public HttpServer(List<Route> routeTable)
         {
             this.routeTable = routeTable;

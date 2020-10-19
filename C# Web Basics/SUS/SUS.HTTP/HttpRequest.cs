@@ -9,11 +9,13 @@ namespace SUS.HTTP
 {
     public class HttpRequest
     {
+        
         public static IDictionary<string, Dictionary<string, string>>
             Sessions = new Dictionary<string, Dictionary<string, string>>();
 
         public HttpRequest(string requestString)
         {
+            
             this.Headers = new List<Header>();
             this.Cookies = new List<Cookie>();
             this.FormData = new Dictionary<string, string>();

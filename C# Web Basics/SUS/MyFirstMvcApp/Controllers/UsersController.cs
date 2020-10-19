@@ -55,6 +55,7 @@ namespace BattleCards.Controllers
             return this.View();
         }
 
+        
         [HttpPost("/Users/Register")]
         public HttpResponse DoRegister(string username, string email, string password, string confirmPassword)
         {

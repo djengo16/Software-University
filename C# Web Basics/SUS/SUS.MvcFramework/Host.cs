@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 namespace SUS.MvcFramework
 {
     public static class Host
-    {
+    { 
         public static async Task CreateHostAsync(IMvcApplication application, int port = 80)
         {
             // TODO: {controller}/{action}/{id}
@@ -35,9 +35,10 @@ namespace SUS.MvcFramework
             // Process.Start(@"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe", "http://localhost/");
             await server.StartAsync(port);
         }
-
+        
         private static void AutoRegisterRoutes(List<Route> routeTable, IMvcApplication application, IServiceCollection serviceCollection)
         {
+            
             var controllerTypes = application.GetType().Assembly.GetTypes()
                 .Where(x => x.IsClass && !x.IsAbstract && x.IsSubclassOf(typeof(Controller)));
             foreach (var controllerType in controllerTypes)

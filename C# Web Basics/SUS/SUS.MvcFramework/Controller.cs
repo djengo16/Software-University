@@ -1,6 +1,7 @@
 ﻿using SUS.HTTP;
 using SUS.HTTP.Enums;
 using SUS.MvcFramework.ViewEngine;
+using System;
 using System.Runtime.CompilerServices;
 using System.Text;
 
@@ -22,17 +23,28 @@ namespace SUS.MvcFramework
             object viewModel = null,
             [CallerMemberName]string viewPath = null)
         {
-            var viewContent = System.IO.File.ReadAllText(
-                "Views/" +
-                this.GetType().Name.Replace("Controller", string.Empty) +
-                "/" + viewPath + ".cshtml");
-            viewContent = this.viewEngine.GetHtml(viewContent, viewModel, this.GetUserId());
+            try {
+                var viewContent = System.IO.File.ReadAllText(
+                    "Views/" +
+                    this.GetType().Name.Replace("Controller", string.Empty) +
+                    "/" + viewPath + ".cshtml");
+            
+            
 
-            var responseHtml = this.PutViewInLayout(viewContent, viewModel);
 
-            var responseBodyBytes = Encoding.UTF8.GetBytes(responseHtml);
-            var response = new HttpResponse("text/html", responseBodyBytes);
-            return response;
+                viewContent = this.viewEngine.GetHtml(viewContent, viewModel, this.GetUserId());
+
+                var responseHtml = this.PutViewInLayout(viewContent, viewModel);
+
+                var responseBodyBytes = Encoding.UTF8.GetBytes(responseHtml);
+                var response = new HttpResponse("text/html", responseBodyBytes);
+                return response;
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            return null;
         }
 
         protected HttpResponse File(string filePath, string contentType)
@@ -75,7 +87,7 @@ namespace SUS.MvcFramework
         protected string GetUserId() =>
             this.Request.Session.ContainsKey(UserIdSessionName) ?
             this.Request.Session[UserIdSessionName] : null;
-
+        
         private string PutViewInLayout(string viewContent, object viewModel = null)
         {
             var layout = System.IO.File.ReadAllText("Views/Shared/_Layout.cshtml");
