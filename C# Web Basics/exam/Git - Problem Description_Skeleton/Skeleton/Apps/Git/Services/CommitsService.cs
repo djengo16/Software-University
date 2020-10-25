@@ -22,6 +22,7 @@ namespace Git.Services
                 CreatorId = creatorId,
                 RepositoryId = repositoryId,
                 Description = description,
+                CreatedOn = DateTime.UtcNow,
             });
 
             database.SaveChanges();

@@ -30,9 +30,12 @@
                                 <td>@repository.Owner</td>
                                 <td>@repository.CreatedOn</td>
                                 <td>@repository.CommitsCount</td>
+                                @if (User != null)
+                                {
                                 <td>
                                     <a class="btn btn-block btn-primary text-white mb-3" href="/Commits/Create?id=@repository.Id">Commit</a>
                                 </td>
+                                }
                             </tr>
                             }
                         </tbody>

@@ -24,12 +24,22 @@ namespace Git.Controllers
 
         public HttpResponse Create()
         {
+            if (!this.IsUserSignedIn())
+            {
+                return this.Redirect("/");
+            }
+
             return this.View();
         }
         [HttpPost]
         public HttpResponse Create(RepositoryInputModel repositoryInput)
         {
-            if(repositoryInput.Name.Length < 3 || repositoryInput.Name.Length > 10 || string.IsNullOrWhiteSpace(repositoryInput.Name))
+            if (!this.IsUserSignedIn())
+            {
+                return this.Redirect("/");
+            }
+
+            if (repositoryInput.Name.Length < 3 || repositoryInput.Name.Length > 10 || string.IsNullOrWhiteSpace(repositoryInput.Name))
             {
                 return this.Error("Repository name should be between 3 and 10 symbols!");
             }

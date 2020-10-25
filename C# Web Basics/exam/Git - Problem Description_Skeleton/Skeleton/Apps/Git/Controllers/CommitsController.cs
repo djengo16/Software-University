@@ -19,6 +19,10 @@ namespace Git.Controllers
         }
         public HttpResponse All()
         {
+            if (!this.IsUserSignedIn())
+            {
+                return this.Redirect("/");
+            }
             string userId = this.GetUserId();
             var commits = commitsService.GetUserCommits(userId);
             return this.View(commits);
@@ -26,6 +30,10 @@ namespace Git.Controllers
 
         public HttpResponse Create(string id)
         {
+            if (!this.IsUserSignedIn())
+            {
+                return this.Redirect("/");
+            }
             var model = new CreateCommitViewModel
             {
                 Id = id,
@@ -37,7 +45,12 @@ namespace Git.Controllers
         [HttpPost]
         public HttpResponse Create(string id,string description) 
         {
-            if(description.Length < 5 || string.IsNullOrWhiteSpace(description))
+            if (!this.IsUserSignedIn())
+            {
+                return this.Redirect("/");
+            }
+
+            if (description.Length < 5 || string.IsNullOrWhiteSpace(description))
             {
                 return this.Error("Description can't be less than 5 symbols!");
             }
@@ -51,6 +64,11 @@ namespace Git.Controllers
 
         public HttpResponse Delete(string id)
         {
+            if (!this.IsUserSignedIn())
+            {
+                return this.Redirect("/");
+            }
+
             var userId = this.GetUserId();
 
             commitsService.Delete(id, userId);
