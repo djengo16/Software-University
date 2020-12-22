@@ -6,7 +6,7 @@ using System.Text;
 
 namespace PetStore.Models
 {
-    public class Client
+    public class Client 
     {
         public Client()
         {

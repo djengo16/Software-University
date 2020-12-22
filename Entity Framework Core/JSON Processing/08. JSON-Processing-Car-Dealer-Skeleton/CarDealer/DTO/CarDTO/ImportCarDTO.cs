@@ -8,6 +8,7 @@ namespace CarDealer.DTO.CarDTO
     public class ImportCarDTO
     {
         [JsonProperty("make")]
+        
         public string Make { get; set; }
 
         [JsonProperty("model")]

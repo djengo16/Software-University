@@ -32,16 +32,19 @@ namespace SharedTrip.Services
 
         public ICollection<TripViewModel> GetAll()
         {
-            return database.Trips.Select(x => new TripViewModel
-            {
-                TripId = x.Id,
-                StartingPoint = x.StartPoint,
-                EndPoint = x.EndPoint,
-                DepartureTime = x.DepartureTime.ToString("dd.MM.yyyy HH:mm"),
-                Seats = x.Seats
-            })
+            return database.Trips
+                .Where(x => x.Seats > 1)
+                .Select(x => new TripViewModel
+                {
+                    TripId = x.Id,
+                    StartingPoint = x.StartPoint,
+                    EndPoint = x.EndPoint,
+                    DepartureTime = x.DepartureTime,//.ToString("dd.MM.yyyy HH:mm"),
+                    Seats = x.Seats,
+                    UsedSeats = x.UserTrips.Count,
+                })
             .ToList();
-               
+
         }
 
         public TripDetailsViewModel GetTripDetails(string tripId)
@@ -52,27 +55,28 @@ namespace SharedTrip.Services
                     TripId = x.Id,
                     StartPoint = x.StartPoint,
                     EndPoint = x.EndPoint,
-                    DepartureTime = x.DepartureTime.ToString("dd.MM.yyyy HH:mm"),
+                    DepartureTime = x.DepartureTime,
                     Description = x.Description,
                     ImgPath = x.ImgPath,
-                    Seats = x.Seats
+                    Seats = x.Seats,
+                    UsedSeats = x.UserTrips.Count,
                 })
                 .FirstOrDefault();
-                
+
         }
 
-        public bool AddTripToUser(string tripId,string userId)
+        public bool AddTripToUser(string tripId, string userId)
         {
-            if(database.UserTrips.Any(x => x.TripId == tripId && x.UserId == userId))
+
+            if (database.UserTrips.Any(x => x.TripId == tripId && x.UserId == userId))
             {
                 return false;
             }
 
             var trip = this.database.Trips.FirstOrDefault(x => x.Id == tripId);
 
-            if (trip.Seats != 0)
+            if (trip.Seats - trip.UserTrips.Count > 0)
             {
-                trip.Seats -= 1;
 
                 this.database.UserTrips.Add(new UserTrip
                 {

@@ -18,8 +18,8 @@
                     <tr>
                         <th scope="row">@trip.StartingPoint</th>
                         <td>@trip.EndPoint</td>
-                        <td>@trip.DepartureTime</td>
-                        <td>@trip.Seats</td>
+                        <td>@trip.DepartureTimeAsString</td>
+                        <td>@trip.AvailableSeats</td>
                         <td>
                             <div class="button-holder">
                                 <a href="/Trips/Details?tripId=@trip.TripId" class="btn btn-info text-uppercase">Info</a>

@@ -87,6 +87,11 @@ namespace SUS.MvcFramework
         protected string GetUserId() =>
             this.Request.Session.ContainsKey(UserIdSessionName) ?
             this.Request.Session[UserIdSessionName] : null;
+
+        protected bool IsUserInAdminRole(IdentityUser<string> user)
+        {
+            return user.Role == IdentityRole.Admin ? true : false;
+        }
         
         private string PutViewInLayout(string viewContent, object viewModel = null)
         {

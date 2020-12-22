@@ -139,8 +139,8 @@ namespace AquaShop.Core
 
             if (dec == null)
             {
-                throw new InvalidOperationException(string.Format(ExceptionMessages.InexistentDecoration
-                    , decorationType));
+                return string.Format(ExceptionMessages.InexistentDecoration
+                    , decorationType);
             }
             aqua.AddDecoration(dec);
             decorations.Remove(dec);
