@@ -21,7 +21,6 @@ function cook(arr) {
         }
         console.log(number);
     }
-
 }
 
 cook(['9', 'dice', 'spice', 'chop', 'bake', 'fillet']);
