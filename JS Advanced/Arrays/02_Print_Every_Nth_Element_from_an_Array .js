@@ -1,9 +1,11 @@
 function solve(arr){
     let n = parseInt(arr.pop());
 
-    for (let i = 0; i < arr.length; i+=n) {
-        console.log(arr[i]);
-    }
+    arr.forEach((element, index) =>{
+        if(index % n == 0){
+            console.log(element)
+        }
+    })
 }
 
 solve(['dsa',
