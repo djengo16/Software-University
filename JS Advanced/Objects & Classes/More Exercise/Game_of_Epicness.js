@@ -55,7 +55,7 @@ function solve(generals, battles) {
     })
     .forEach((x) => {
       console.log(`/\\general: ${x[0]}`);
-      console.log(`---army: ${x[1].army}}`);
+      console.log(`---army: ${x[1].army}`);
       console.log(`---wins: ${x[1].wins}`);
       console.log(`---losses: ${x[1].losses}`);
     });
