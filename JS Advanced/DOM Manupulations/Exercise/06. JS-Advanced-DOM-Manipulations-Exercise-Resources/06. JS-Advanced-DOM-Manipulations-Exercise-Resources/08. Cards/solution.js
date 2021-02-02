@@ -15,7 +15,7 @@ function solve() {
       currGameTopResult.textContent = "";
     }
 
-    if ((e.target.parentElement.id = "player1Div")) {
+    if (e.target.parentElement.id === "player1Div") {
       currGameTopResult.textContent = Number(e.target.name);
       currGameTopCard = e.target;
     } else {
@@ -28,14 +28,17 @@ function solve() {
       currGameTopResult.textContent != "" &&
       currGameBottomResult.textContent != ""
     ) {
-      if (currGameTopResult.textContent > currGameTopResult.textContent) {
-        currGameTopCard.setAttribute("style", "2px solid green");
-        currGameBottomCard.setAttribute("style", "2px solid red");
+      if (
+        Number(currGameTopResult.textContent) >
+        Number(currGameBottomResult.textContent)
+      ) {
+        currGameTopCard.style.border = "2px solid green";
+        currGameBottomCard.style.border = "2px solid red";
       } else {
-        currGameTopCard.setAttribute("style", "2px solid red");
-        currGameBottomCard.setAttribute("style", "2px solid green");
+        currGameTopCard.style.border = "2px solid red";
+        currGameBottomCard.style.border = "2px solid green";
       }
-      history.textContent += `[${currGameTopResult} vs ${currGameBottomCard}}]`;
+      history.textContent += `[${currGameTopResult.textContent} vs ${currGameBottomResult.textContent}] `;
     }
   }
 }
