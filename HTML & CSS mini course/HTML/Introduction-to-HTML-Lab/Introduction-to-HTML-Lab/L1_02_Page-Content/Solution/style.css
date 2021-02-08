@@ -1,0 +1,10 @@
+body {
+  margin: 50px;
+}
+h1 {
+  text-align: center;
+}
+
+header p {
+  font-style: italic;
+}

@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  text-align: center;
+}
+section {
+  margin: 50px;
+}
+nav {
+  background: #234465;
+  padding: 15px;
+}
+
+nav ul {
+  text-align: center;
+  margin: 0;
+  padding: 10px;
+}
+
+nav li {
+  display: inline-block;
+  padding: 0 25px;
+}
+
+nav li a {
+  color: white;
+  text-decoration: none;
+}
+
+footer {
+  background: #4444;
+  color: #fff;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
