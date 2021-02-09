@@ -1,10 +1,9 @@
 function getArticleGenerator(articles) {
-    let initialArticles = articles;
 
     function returnArticle(){
-        if(initialArticles.length != 0){
+        if(articles.length != 0){
         let article = document.createElement('article');
-        article.textContent = initialArticles.shift();
+        article.textContent = articles.shift();
         document.querySelector('#content').appendChild(article);
         }
     }
