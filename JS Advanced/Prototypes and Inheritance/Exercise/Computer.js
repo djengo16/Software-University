@@ -51,33 +51,35 @@ function createComputerHierarchy(){
         }
 
         get battery(){
-            return this.battery;
+            return this._battery;
         }
 
         set battery(value){
-            if(typeof value != 'Battery'){
+            if(value instanceof Battery){
+                this._battery = value;
+            }else{
                 throw new TypeError();
             }
-            this._battery = value;
         }
     }
 
     class Desktop extends Computer{
         constructor(manufacturer, processorSpeed, ram , hardDiskSpace, keyboard, monitor){
             super(manufacturer, processorSpeed, ram , hardDiskSpace)
-            this._keyboard = keyboard,
-            this._monitor = monitor
+            this.keyboard = keyboard,
+            this.monitor = monitor
         }
 
         get keyboard(){
-            return this._keyboard;
+            return this._keyboardValue;
         }
 
         set keyboard(value){
-            if(typeof value != 'Keyboard'){
+            if(value instanceof Keyboard){
+                this._keyboardValue = value;
+            }else{
                 throw new TypeError();
             }
-            this._keyboard = value;
         }
 
         get monitor(){
@@ -85,10 +87,11 @@ function createComputerHierarchy(){
         }
 
         set monitor(value){
-            if(typeof value != 'Monitor'){
+            if(value instanceof Monitor){
+                this._monitor = value;
+            }else{
                 throw new TypeError();
             }
-            this._monitor = value;
         }
     }
 
@@ -109,9 +112,18 @@ let Desktop = classes.Desktop;
 let Monitor = classes.Monitor;
 let Battery = classes.Battery;
 let Keyboard = classes.Keyboard;
+
+let keyboard = new Keyboard('Logitech',70);
+let monitor = new Monitor('Benq',28,18);
+let desktop = new Desktop("JAR Computers",3.3,8,1,keyboard,monitor);
+console.log(desktop.monitor);
+console.log(desktop.keyboard);
+
+/** 
 let battery = new Battery('Energy',3);
 let lapt = new Laptop("Hewlett Packard",2.4,4,0.5,3.12,"Silver",battery);
 console.log(lapt.battery);
 let keyboard = new Keyboard('Logitech',70);
 let monitor = new Monitor('Benq',28,18);
 let desktop = new Desktop("JAR Computers",3.3,8,1,keyboard,monitor);
+*/
