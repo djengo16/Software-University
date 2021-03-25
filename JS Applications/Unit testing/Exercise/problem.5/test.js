@@ -2,6 +2,7 @@ let {assert, expect} = require('chai');
 let StringBuilder = require('./StringBuilder.js');
 
 describe('StringBuilder', function() {
+
     describe('constructor',function(){
         it('should be instantiated with the passed string', function(){
             let str = new StringBuilder('init');
@@ -56,5 +57,4 @@ describe('StringBuilder', function() {
             assert.equal(str.toString(),'test');
         })
     })
-
 })
