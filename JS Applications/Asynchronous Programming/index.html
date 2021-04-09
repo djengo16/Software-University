@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <textarea id="area"> </textarea>
+    <script>
+     // const textarea = document.querySelector("#area");
+      fetch(`https://swapi.dev/api/people/1`)
+        .then((res) => res.json())
+        .then(json => {
+           return fetch(json.starships[0])
+        })
+        .then(starship => starship.json())
+        .then(data => console.log(data));
+    </script>
+  </body>
+</html>
