@@ -1,16 +1,41 @@
-// let promise = new Promise((resolve, reject) => {
-//     console.log('Prepare wedding!!!');
+function makeRequest(location) {
+  return new Promise((resolve, reject) => {
+    console.log(`Making request to ${location}`);
+    if (location == "Google") {
+      resolve("Google says hi");
+    } else {
+      reject("We can only talk to Google");
+    }
+  });
+}
 
-//     setTimeout(function(){
-//         resolve('Just Married!')
-//     }, 2000);
+function processRequest(response) {
+  return new Promise((resolve, reject) => {
+    console.log("Processing response...");
+    resolve(`Extra information + ${response}`);
+  });
+}
 
-//     console.log('test');
+// makeRequest('Google')
+// .then(response => {
+//     console.log('Response received')
+//     return processRequest(response)
+// }).then(processReponse => {
+//     console.log(processedReponse);
+// }).catch(err => {
+//     console.log(err)
 // })
 
-// promise.then(function(res){
-//     console.log(res)
-// })
+async function doWork() {
+  try {
+    const response = await makeRequest("Google");
+    console.log("Response received");
+    const processedResponse = await processRequest(response);
+    console.log(processedResponse);
+  } catch (err) {
+    console.log(err);
+  }
+}
 
-fetch(`https://swapi.dev/api/people/1`)
-.then(res => console.log(res));
+doWork();
+console.log("test");

@@ -17,7 +17,7 @@ window.addEventListener("load", () => {
         Object.keys(data).forEach((id) => {
           let updateBtn = genEl("button", "Update", { className: "updata" });
           let delBtn = genEl("button", "Delete", { className: "delete" });
-
+          let {angler, weight, species, location, bait, captureTime} = data[id];
           let catchDiv = genEl(
             "div",
             [
@@ -25,42 +25,42 @@ window.addEventListener("load", () => {
               genEl("input", "", {
                 type: "text",
                 className: "angler",
-                value: data[id].angler,
+                value: angler,
               }),
               document.createElement("hr"),
               genEl("label", "Weight"),
               genEl("input", "", {
                 type: "text",
                 className: "weight",
-                value: data[id].weight,
+                value: weight,
               }),
               document.createElement("hr"),
               genEl("label", "Species"),
               genEl("input", "", {
                 type: "text",
                 className: "species",
-                value: data[id].species,
+                value: species,
               }),
               document.createElement("hr"),
               genEl("label", "Location"),
               genEl("input", "", {
                 type: "text",
                 className: "location",
-                value: data[id].location,
+                value: location,
               }),
               document.createElement("hr"),
               genEl("label", "Bait"),
               genEl("input", "", {
                 type: "text",
                 className: "bait",
-                value: data[id].bait,
+                value: bait,
               }),
               document.createElement("hr"),
               genEl("label", "Capture Time"),
               genEl("input", "", {
                 type: "text",
                 className: "captureTime",
-                value: data[id].captureTime,
+                value: captureTime,
               }),
               document.createElement("hr"),
               updateBtn,
@@ -89,15 +89,18 @@ window.addEventListener("load", () => {
           });
 
           updateBtn.addEventListener("click", function () {
-            let inputElements = document.querySelectorAll(`#${id} input`);
-            let body = {};
-            [...inputElements].forEach((element) => {
-              body[element.className] = element.value;
-            });
+            let body = JSON.stringify({
+              angler: catchDiv.querySelector('input.angler').value,
+              weight: catchDiv.querySelector('input.weight').value,
+              species: catchDiv.querySelector('input.species').value,
+              location: catchDiv.querySelector('input.location').value,
+              bait: catchDiv.querySelector('input.bait').value,
+              captureTime: catchDiv.querySelector('input.captureTime').value,
+            })
 
             fetch(`${baseUrl}/catches/${id}.json`, {
               method: "PUT",
-              body: JSON.stringify(body),
+              body: body,
             })
               .then(() => {
                 updateBtn.textContent = "UPDATING...";
