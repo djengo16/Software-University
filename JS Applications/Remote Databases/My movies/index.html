@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <link rel="stylesheet" href="./style.css" />
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-analytics.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.4.0/firebase-auth.js"></script>
+  </head>
+  <body>
+    <h3 id="header"></h3>
+
+    <div class="loginForm">
+      <label for="email">Email</label>
+      <input class="login" type="text" id="email" />
+      <label for="password">Password</label>
+      <input class="login" type="password" id="password" />
+      <button type="submit" id="submit">Sumbit</button>
+    </div>
+
+    <div id="movies" style="display: none;">
+      <h3>Movies</h3>
+      <p>Click movie for details.</p>
+      <!-- <div class="movie-details">
+        <img src="https://upload.wikimedia.org/wikipedia/en/8/85/ManofSteelFinalPoster.jpg">
+        <ul>
+          <h3>Superman</h3>
+          <h6>Cast:</h6>
+          <p>first,sec</p>
+            </ul>
+          </ul>
+        </ul>
+      </div> -->
+    </div>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

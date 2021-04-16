@@ -1,0 +1,49 @@
+.loginForm{
+    margin: 30px 30px;
+    padding: 30px 30px;
+    border-radius: 20px;
+    background-color: aquamarine;
+    width: 200px;
+}
+
+input{
+    margin: 10px 0px;
+    padding: 5px 5px;
+    border-radius: 10px;
+}
+
+#submit{
+    padding: 5px 5px;
+    background-color:mediumvioletred;
+    color: aquamarine;
+    border-radius: 10px; 
+}
+
+#submit:hover{
+    cursor: pointer;
+}
+
+.titleListItem:hover{
+ background-color: antiquewhite;
+ cursor: pointer;
+}
+
+img{
+    width: 200px;
+    height: 300px;
+    display: inline-block;
+}
+ul{
+    display: inline-block;
+    margin-bottom: 50px;
+}
+
+.movie-details{
+    width: 40%;
+    height: auto;
+    background-color: azure;
+}
+
+#cast{
+list-style-type: none;
+}
