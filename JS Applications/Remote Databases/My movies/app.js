@@ -1,4 +1,4 @@
-import genEl from "./dom-generator.js";
+import genEl from "../02.Students/dom-generator.js";
 
 const baseUrl =
 "https://my-movies-bb71a-default-rtdb.europe-west1.firebasedatabase.app/movies";
